@@ -2,7 +2,8 @@
     <h1>Open Data Source for 🚽 NPE App 🚽 </h1>
     <p>
         <strong>As part of the deep revamping of NPE App, its data backends and standards,<br/>
-we publish this open repository which is intended to contain a GEOJSON file with the latest establishment information available in the App.<br/>
+we publish this open repository which is intended to contain a GEOJSON file <br/>
+            with the latest establishment information available in the App.<br/>
 The data file is built directly from the original database of supporting establishments<br/>
           and is part of ACCU Catalunya's pilot project to move to Open Data standards.
 </strong>
