@@ -19,8 +19,7 @@ The data file is built directly from the original database of supporting establi
     </p>
     <br>
     <p>
-        <em>NOTE: This tool is published for showcasing purposes and it's not intended for public use (it requires credentials in the admin backoffice of a private App)<br>
-        However, you can take a look at the code to grab snippets of code and learn about data scrapping/updating in complex situations. If it was useful for you in a way or another, please star ⭐️ this repository and send me an email to tell your story :)</em>
+        <em>NOTE: This dataset is published under ODC's Open DataBase License 1.0. You are free to (re)use the data for societal and scientific projects, for learning about software development, about interoperability standards and data formats like GeoJSON, etc. but please, take some time to take a look at the copy of the license that is included in this repository. If this repository is useful for you in a way or another, please give it a star ⭐️  and send me an email to tell your story :)</em>
     </p>
     <br>
     <p style="text-align: center">
@@ -56,4 +55,10 @@ And finally, at the third level is where the GeoJSON standard provides room for 
 - ```codigopostal```: Postal code. Since this project is focused in the spanish community of Catalonia, the lenght of the postal codes is 5 chars, typically 5 numbers, but it's treated as text in order to allow postal codes from Andorra i.e: ```AD123``` too.
 - ```googlemaps```: An URL pointing to the establishment sheet reported by Google Maps, if any. Null if Google reported no matches for the stablishment. Google does not fail 99% of time. However, the accuracy of Google's bet on this data may vary depending on several factors that are not under our control. Always be prepared for some minor glitches here. You can always report errors to us so we update the database. 
 
-  
+## License
+
+This dataset is published under ODC's Open DataBase License 1.0. Please, take some time to take a look at the copy of the license that is included in this repository.
+
+## Questions? Similar challenges?
+
+📧 Drop me an email then: [hello@alejandroamo.eu](mailto:hello@alejandroamo.eu)
