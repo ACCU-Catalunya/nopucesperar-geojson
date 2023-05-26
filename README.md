@@ -24,7 +24,7 @@ The data file is built directly from the original database of supporting establi
     <br>
     <p style="text-align: center">
         <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ACCU-Catalunya/nopucesperar-geojson">
-        <img alt="License" src="https://img.shields.io/badge/License-ODBL%201.0-blue"> 
+        <img alt="license" src="https://img.shields.io/badge/License-ODbL%201.0-blue"> 
     </p>
 </div>
 
