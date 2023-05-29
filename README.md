@@ -53,7 +53,9 @@ And finally, at the third level is where the GeoJSON standard provides room for 
 - ```poblacion```: City/town of the establishment
 - ```telefono```: Phone number. It can contain two phone numbers separated by ```/```, exit codes ```+``` for some phone numbers in Andorra, and extension information between parenthesis i.e: ```(ext. 123)```
 - ```codigopostal```: Postal code. Since this project is focused in the spanish community of Catalonia, the lenght of the postal codes is 5 chars, typically 5 numbers, but it's treated as text in order to allow postal codes from Andorra i.e: ```AD123``` too.
-- ```googlemaps```: An URL pointing to the establishment sheet reported by Google Maps, if any. Null if Google reported no matches for the stablishment. Google does not fail 99% of time. However, the accuracy of Google's bet on this data may vary depending on several factors that are not under our control. Always be prepared for some minor glitches here. You can always report errors to us so we update the database. 
+
+> NOTE: `googlemaps` was planned but we need to remove it for compliance reasons: Google kindly asks us to implement this query in realtime at client level and NOT storing data from its API). 
+> ```googlemaps```: An URL pointing to the establishment sheet reported by Google Maps, if any. Null if Google reported no matches for the stablishment. Google does not fail 99% of time. However, the accuracy of Google's bet on this data may vary depending on several factors that are not under our control. Always be prepared for some minor glitches here. You can always report errors to us so we update the database. 
 
 ## License
 
