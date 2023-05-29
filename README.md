@@ -9,7 +9,7 @@ The data file is built directly from the original database of supporting establi
 </strong>
     </p>
     <br>
-    ![Captura de pantalla 2023-05-26 092556](https://github.com/ACCU-Catalunya/nopucesperar-geojson/assets/1114811/a98dcf7a-8c6f-44f9-a5d0-eefc957c70e5)
+    <img src=https://github.com/ACCU-Catalunya/nopucesperar-geojson/assets/1114811/a98dcf7a-8c6f-44f9-a5d0-eefc957c70e5">
     <br>
     <p style="text-align: center">
         <a href="#what-is-npe">What is NPE?</a> •
