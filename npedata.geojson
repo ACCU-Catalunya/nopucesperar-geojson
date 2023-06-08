@@ -14,7 +14,7 @@
                 "nombre": "CALZEDONIA",
                 "direccion": "Santa Clara, 1",
                 "poblacion": "Girona",
-                "telefono": "",
+                "telefono": null,
                 "codigopostal": "17001"
             }
         },
@@ -4365,7 +4365,7 @@
             "properties": {
                 "nombre": "AJUNTAMENT DE CALONGE",
                 "direccion": "Pl. de la Concordia, 7",
-                "poblacion": "Calonge",
+                "poblacion": "Calonge i Sant Antoni",
                 "telefono": "",
                 "codigopostal": "17251"
             }
@@ -4382,7 +4382,7 @@
             "properties": {
                 "nombre": "OFICINA DE CULTURA",
                 "direccion": "Pl. Major, 2",
-                "poblacion": "Calonge",
+                "poblacion": "Calonge i Sant Antoni",
                 "telefono": "",
                 "codigopostal": "17251"
             }
@@ -4399,7 +4399,7 @@
             "properties": {
                 "nombre": "CASAL DE JOVES DE CALONGE",
                 "direccion": "C. Cervantes, 2",
-                "poblacion": "Calonge",
+                "poblacion": "Calonge i Sant Antoni",
                 "telefono": "",
                 "codigopostal": "17251"
             }
@@ -4416,7 +4416,7 @@
             "properties": {
                 "nombre": "BIBLIOTECA DE CALONGE PERE CARNER",
                 "direccion": "Carrer de Sant Joan o de l'Educació, 26",
-                "poblacion": "Calonge",
+                "poblacion": "Calonge i Sant Antoni",
                 "telefono": "",
                 "codigopostal": "17251"
             }
@@ -4433,7 +4433,7 @@
             "properties": {
                 "nombre": "ESCOLA D'ADULTS",
                 "direccion": "C. Càcul, 10",
-                "poblacion": "Calonge",
+                "poblacion": "Calonge i Sant Antoni",
                 "telefono": "",
                 "codigopostal": "17251"
             }
@@ -4450,7 +4450,7 @@
             "properties": {
                 "nombre": "PAVELLÓ DE CALONGE",
                 "direccion": "Av. De les Escoles s/n",
-                "poblacion": "Calonge",
+                "poblacion": "Calonge i Sant Antoni",
                 "telefono": "",
                 "codigopostal": "17251"
             }
@@ -4467,7 +4467,7 @@
             "properties": {
                 "nombre": "SERVEIS SOCIALS",
                 "direccion": "Carrer de Sant Joan o de l'Educació, 1",
-                "poblacion": "Calonge",
+                "poblacion": "Calonge i Sant Antoni",
                 "telefono": "",
                 "codigopostal": "17251"
             }
@@ -4484,7 +4484,7 @@
             "properties": {
                 "nombre": "CASAL D'AVIS DE CALONGE",
                 "direccion": "C. Àngel Guimerà, 2",
-                "poblacion": "Calonge",
+                "poblacion": "Calonge i Sant Antoni",
                 "telefono": "",
                 "codigopostal": "17251"
             }
@@ -4501,7 +4501,7 @@
             "properties": {
                 "nombre": "CASAL D'AVIS DE SANT ANTONI",
                 "direccion": "Pl. llibertat s/n",
-                "poblacion": "Sant Antoni de Calonge",
+                "poblacion": "Calonge i Sant Antoni",
                 "telefono": "",
                 "codigopostal": "17252"
             }
@@ -4518,7 +4518,7 @@
             "properties": {
                 "nombre": "BIBLIOTECA DE SANT ANTONI",
                 "direccion": "C. Sant Antoni, 56",
-                "poblacion": "Sant Antoni de Calonge",
+                "poblacion": "Calonge i Sant Antoni",
                 "telefono": "",
                 "codigopostal": "17252"
             }
@@ -4535,7 +4535,7 @@
             "properties": {
                 "nombre": "PAVELLÓ DE SANT ANTONI",
                 "direccion": "C. de la Sardana, s/n",
-                "poblacion": "Sant Antoni de Calonge",
+                "poblacion": "Calonge i Sant Antoni",
                 "telefono": "",
                 "codigopostal": "17252"
             }
@@ -4552,7 +4552,7 @@
             "properties": {
                 "nombre": "OFICINA DE TURISME DE SANT ANTONI",
                 "direccion": "Av. Catalunya, 26",
-                "poblacion": "Sant Antoni de Calonge",
+                "poblacion": "Calonge i Sant Antoni",
                 "telefono": "",
                 "codigopostal": "17252"
             }
@@ -4569,7 +4569,7 @@
             "properties": {
                 "nombre": "FRUITES ARIPAU",
                 "direccion": "C/COSTA BRAVA, 4",
-                "poblacion": "Sant Antoni de Calonge",
+                "poblacion": "Calonge i Sant Antoni",
                 "telefono": "",
                 "codigopostal": "17252"
             }
@@ -4586,7 +4586,7 @@
             "properties": {
                 "nombre": "CAN ROC (BAR-RESTAURANT)",
                 "direccion": "C/ CONRAD VILAR, 3",
-                "poblacion": "Sant Antoni de Calonge",
+                "poblacion": "Calonge i Sant Antoni",
                 "telefono": "",
                 "codigopostal": "17252"
             }
@@ -4603,7 +4603,7 @@
             "properties": {
                 "nombre": "EASY BRAVA SANT ANTONI DE CALONGE",
                 "direccion": "C/ ARTUR MUNDET, 138",
-                "poblacion": "Sant Antoni de Calonge",
+                "poblacion": "Calonge i Sant Antoni",
                 "telefono": "",
                 "codigopostal": "17252"
             }
@@ -4620,7 +4620,7 @@
             "properties": {
                 "nombre": "PELUQUERIA JULI I DORI",
                 "direccion": "C/ DR. JOSEP M. VILASECA, 56",
-                "poblacion": "Calonge",
+                "poblacion": "Calonge i Sant Antoni",
                 "telefono": "",
                 "codigopostal": "17251"
             }
@@ -4637,7 +4637,7 @@
             "properties": {
                 "nombre": "FARMÀCIA SIMRATH KAUR",
                 "direccion": "AVDA. PUIGCERVER, 22",
-                "poblacion": "Calonge",
+                "poblacion": "Calonge i Sant Antoni",
                 "telefono": "",
                 "codigopostal": "17251"
             }
@@ -4654,7 +4654,7 @@
             "properties": {
                 "nombre": "EASY BRAVA CALONGE",
                 "direccion": "C/ ARTUR MUNDET, 138",
-                "poblacion": "Calonge",
+                "poblacion": "Calonge i Sant Antoni",
                 "telefono": "",
                 "codigopostal": "17251"
             }
@@ -4671,7 +4671,7 @@
             "properties": {
                 "nombre": "C.E. CONSULTING EMPRESARIAL",
                 "direccion": "C/ De la Rutlla, 6",
-                "poblacion": "Calonge",
+                "poblacion": "Calonge i Sant Antoni",
                 "telefono": "",
                 "codigopostal": "17251"
             }
@@ -4688,7 +4688,7 @@
             "properties": {
                 "nombre": "GINESTET PERRUQUERS ",
                 "direccion": "C/ Manlleu 35",
-                "poblacion": "VIC",
+                "poblacion": "Vic",
                 "telefono": "",
                 "codigopostal": "08500"
             }
@@ -4705,7 +4705,7 @@
             "properties": {
                 "nombre": "AHRAGA",
                 "direccion": "Avda Pas D'arró 5, local 2",
-                "poblacion": "Vielha",
+                "poblacion": "Vielha e Mijaran",
                 "telefono": "",
                 "codigopostal": "25530"
             }
@@ -4722,7 +4722,7 @@
             "properties": {
                 "nombre": "MONTPLAY SERVEI G.I., S.L.",
                 "direccion": "Av. Castiero, 6",
-                "poblacion": "Vielha ",
+                "poblacion": "Vielha e Mijaran",
                 "telefono": "",
                 "codigopostal": "25530"
             }
@@ -4824,7 +4824,7 @@
             "properties": {
                 "nombre": "FUNDACIÓ MARE DE DÉU DELS DESAMPARATS",
                 "direccion": " Santiago Apóstol 55 ",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08903"
             }
@@ -4841,7 +4841,7 @@
             "properties": {
                 "nombre": "Xiringuito Marina Vilafortuny",
                 "direccion": "Carrer Marina 1",
-                "poblacion": "Cambrils ",
+                "poblacion": "Cambrils",
                 "telefono": "",
                 "codigopostal": "32767"
             }
@@ -4977,7 +4977,7 @@
             "properties": {
                 "nombre": "BAR-RESTAURANTE EL CACHIRULO",
                 "direccion": "C/ Flos i Calcat, 17",
-                "poblacion": "El Masnou",
+                "poblacion": "Masnou, el",
                 "telefono": "935400245",
                 "codigopostal": "08320"
             }
@@ -5725,7 +5725,7 @@
             "properties": {
                 "nombre": "PFIT PUIGCERDÀ FITNESS",
                 "direccion": "C/ Euskalerria nau 1 ",
-                "poblacion": "PUIGCERDÀ",
+                "poblacion": "Puigcerdà",
                 "telefono": "",
                 "codigopostal": "17520"
             }
@@ -5742,7 +5742,7 @@
             "properties": {
                 "nombre": "AJUNTAMENT DE PUIGCERDÀ",
                 "direccion": "Plaça de l’Ajuntament, 1 ",
-                "poblacion": "PUIGCERDÀ",
+                "poblacion": "Puigcerdà",
                 "telefono": "972881972",
                 "codigopostal": "17520"
             }
@@ -5776,7 +5776,7 @@
             "properties": {
                 "nombre": "CONSELL COMARCAL DE LA CERDANYA",
                 "direccion": "Plaça del Rec",
-                "poblacion": "PUIGCERDÀ",
+                "poblacion": "Puigcerdà",
                 "telefono": "972884884",
                 "codigopostal": "17520"
             }
@@ -5793,7 +5793,7 @@
             "properties": {
                 "nombre": "PATRONAT DEL MUSEU CERDÀ",
                 "direccion": "C/ Higini de Rivera 4\t",
-                "poblacion": "PUIGCERDÀ",
+                "poblacion": "Puigcerdà",
                 "telefono": "972884303",
                 "codigopostal": "17520"
             }
@@ -6048,7 +6048,7 @@
             "properties": {
                 "nombre": "BAR BRASERIA CAL BLANCH ",
                 "direccion": "C/ Sant Roc, 5 ",
-                "poblacion": "Bellver de Cerdanya ",
+                "poblacion": "Bellver de Cerdanya",
                 "telefono": "973510208",
                 "codigopostal": "25720"
             }
@@ -6082,7 +6082,7 @@
             "properties": {
                 "nombre": "Institut Català de la Salut - ICS",
                 "direccion": "Gran Via de les Corts Catalanes 587 ",
-                "poblacion": "Barcelona ",
+                "poblacion": "Barcelona",
                 "telefono": "",
                 "codigopostal": "08007"
             }
@@ -6184,7 +6184,7 @@
             "properties": {
                 "nombre": "Restaurant Les Llums, antic Can Macià",
                 "direccion": "Carrer Anselm Clavé 53 ",
-                "poblacion": "La Roca del Vallès",
+                "poblacion": "Roca del Vallès, la",
                 "telefono": "699289558",
                 "codigopostal": "08430"
             }
@@ -6252,7 +6252,7 @@
             "properties": {
                 "nombre": "El Racó de les Flors",
                 "direccion": "Carrer Cap Norfeu, 43",
-                "poblacion": "ROSES",
+                "poblacion": "Roses",
                 "telefono": "972257299",
                 "codigopostal": "17480"
             }
@@ -6269,7 +6269,7 @@
             "properties": {
                 "nombre": "Flors Mateu",
                 "direccion": "Carrer Girona, 39 ",
-                "poblacion": "ROSES",
+                "poblacion": "Roses",
                 "telefono": "972257021",
                 "codigopostal": "17480"
             }
@@ -6303,7 +6303,7 @@
             "properties": {
                 "nombre": "STYLS VARO Perruquers",
                 "direccion": "Carrer Angel Guimerà 1, Local",
-                "poblacion": "TERRASSA",
+                "poblacion": "Terrassa",
                 "telefono": "937312898",
                 "codigopostal": "08223"
             }
@@ -6524,7 +6524,7 @@
             "properties": {
                 "nombre": "L’Associació de Comerciants de Calonge",
                 "direccion": "C/. Rutlla, 6",
-                "poblacion": "Calonge",
+                "poblacion": "Calonge i Sant Antoni",
                 "telefono": "",
                 "codigopostal": "17251"
             }
@@ -7187,7 +7187,7 @@
             "properties": {
                 "nombre": "Teatre Municipal Josep Maria de Sagarra",
                 "direccion": "C/ President Lluís Companys 27",
-                "poblacion": "Santa Coloma de Gramenet ",
+                "poblacion": "Santa Coloma de Gramenet",
                 "telefono": "",
                 "codigopostal": "08921"
             }
@@ -7204,7 +7204,7 @@
             "properties": {
                 "nombre": "Central Escènica",
                 "direccion": "Av Francesc Macià 41 ",
-                "poblacion": "Santa Coloma de Gramenet ",
+                "poblacion": "Santa Coloma de Gramenet",
                 "telefono": "",
                 "codigopostal": "08921"
             }
@@ -7680,7 +7680,7 @@
             "properties": {
                 "nombre": "Punt d’informació Parc Serralada de Marina",
                 "direccion": "Font de l'alzina",
-                "poblacion": " Santa Coloma de Gramenet",
+                "poblacion": "Santa Coloma de Gramenet",
                 "telefono": "",
                 "codigopostal": "00892"
             }
@@ -7884,7 +7884,7 @@
             "properties": {
                 "nombre": "Bar Restaurant Can Cinto",
                 "direccion": "c/ Isaac Peral s/ n PI. Can font de la parera",
-                "poblacion": "Santa Agnés de Malanyanes",
+                "poblacion": "La Roca del Vallès",
                 "telefono": "938422915",
                 "codigopostal": "08430"
             }
@@ -8037,7 +8037,7 @@
             "properties": {
                 "nombre": "Pistes CEIP Salvatella",
                 "direccion": "Av. Francesc Macià,124",
-                "poblacion": " Santa Coloma de Gramenet",
+                "poblacion": "Santa Coloma de Gramenet",
                 "telefono": "",
                 "codigopostal": "08924"
             }
@@ -8156,7 +8156,7 @@
             "properties": {
                 "nombre": "UGT Baix Llobregat",
                 "direccion": "Revolt Negre,12",
-                "poblacion": "Cornellà",
+                "poblacion": "Cornellà de Llobregat",
                 "telefono": "932619009",
                 "codigopostal": "08940"
             }
@@ -8241,7 +8241,7 @@
             "properties": {
                 "nombre": "UGT Comarques Gironines",
                 "direccion": "c/Remei, 1",
-                "poblacion": "Ripoll ",
+                "poblacion": "Ripoll",
                 "telefono": "972714444",
                 "codigopostal": "17500"
             }
@@ -8513,7 +8513,7 @@
             "properties": {
                 "nombre": "UGT Terres de Lleida",
                 "direccion": "av. de Castiero, 15",
-                "poblacion": "Vielha",
+                "poblacion": "Vielha e Mijaran",
                 "telefono": "973642549",
                 "codigopostal": "25530"
             }
@@ -8547,7 +8547,7 @@
             "properties": {
                 "nombre": "UGT Terres de Lleida",
                 "direccion": "cl Lluis de Sabater, 4, Centre Civic El Passeig",
-                "poblacion": "La Seu d'Urgell",
+                "poblacion": "Seu d'Urgell, la",
                 "telefono": "973270801",
                 "codigopostal": "25700"
             }
@@ -8751,7 +8751,7 @@
             "properties": {
                 "nombre": "FARMACIA RIU",
                 "direccion": "Carretera de Manresa, 22",
-                "poblacion": "SOLSONA",
+                "poblacion": "Solsona",
                 "telefono": "973480148",
                 "codigopostal": "25280"
             }
@@ -8768,7 +8768,7 @@
             "properties": {
                 "nombre": "EL RAL",
                 "direccion": "Passeig Pare Claret, 8",
-                "poblacion": "solsona",
+                "poblacion": "Solsona",
                 "telefono": "649425298",
                 "codigopostal": "25280"
             }
@@ -8785,7 +8785,7 @@
             "properties": {
                 "nombre": "HOTEL I RESTAURANT GRAN SOL",
                 "direccion": "Carretera de Manresa 100",
-                "poblacion": "SOLSONA",
+                "poblacion": "Solsona",
                 "telefono": "973481000",
                 "codigopostal": "25280"
             }
@@ -8836,7 +8836,7 @@
             "properties": {
                 "nombre": "EL VINYET Bar - Restaurant",
                 "direccion": "Carretera de Manresa , Km 78,50",
-                "poblacion": "SOLSONA",
+                "poblacion": "Solsona",
                 "telefono": "973480238",
                 "codigopostal": "25280"
             }
@@ -9006,7 +9006,7 @@
             "properties": {
                 "nombre": "Piscina de Can Zam",
                 "direccion": "Víctor Hugo, s/n",
-                "poblacion": "Santa Coloma de Gramenet ",
+                "poblacion": "Santa Coloma de Gramenet",
                 "telefono": "",
                 "codigopostal": "08924"
             }
@@ -9499,7 +9499,7 @@
             "properties": {
                 "nombre": "HOTEL DELAVALL",
                 "direccion": "Av. Pas d'Arro, 38",
-                "poblacion": "VIELHA ",
+                "poblacion": "Vielha e Mijaran",
                 "telefono": "973640200",
                 "codigopostal": "25530"
             }
@@ -9975,7 +9975,7 @@
             "properties": {
                 "nombre": "Sí Tapas Lounge de Roses ",
                 "direccion": "Avinguda de rhode 199, baixos ",
-                "poblacion": "Roses ",
+                "poblacion": "Roses",
                 "telefono": "972150093",
                 "codigopostal": "17480"
             }
@@ -10094,7 +10094,7 @@
             "properties": {
                 "nombre": "COMERCIAL PIRENE,SL",
                 "direccion": "PL CLAVE,2",
-                "poblacion": "Sant Joan de les Abadesses ",
+                "poblacion": "Sant Joan de les Abadesses",
                 "telefono": "972720935",
                 "codigopostal": "17860"
             }
@@ -10230,7 +10230,7 @@
             "properties": {
                 "nombre": "J PUNTÍ ASSESSORS S.L.",
                 "direccion": "C/Jacint Verdaguer 31",
-                "poblacion": "VIC",
+                "poblacion": "Vic",
                 "telefono": "938832328",
                 "codigopostal": "08500"
             }
@@ -10315,7 +10315,7 @@
             "properties": {
                 "nombre": "Servei de l’Aparell Digestiu - Hospital Santa Caterina",
                 "direccion": "Doctor Castany, 90",
-                "poblacion": "SALT",
+                "poblacion": "Salt",
                 "telefono": "972182500",
                 "codigopostal": "17190"
             }
@@ -10332,7 +10332,7 @@
             "properties": {
                 "nombre": "LLEGIM...? LLIBRERIA",
                 "direccion": "Ptge. Capità Galí, 4",
-                "poblacion": "IGUALADA",
+                "poblacion": "Igualada",
                 "telefono": "938040884",
                 "codigopostal": "08700"
             }
@@ -10621,7 +10621,7 @@
             "properties": {
                 "nombre": "CONSULTORI PODOLÒGIC",
                 "direccion": "GRAN, 24, BAIXOS LOCAL C",
-                "poblacion": "CALLDETENES",
+                "poblacion": "Calldetenes",
                 "telefono": "938860226",
                 "codigopostal": "08506"
             }
@@ -11318,7 +11318,7 @@
             "properties": {
                 "nombre": "Electrodomèstics Mañá",
                 "direccion": "Av. Comarques Catalanes, 19",
-                "poblacion": " Móra d'Ebre",
+                "poblacion": "Móra d'Ebre",
                 "telefono": "977400019",
                 "codigopostal": "43740"
             }
@@ -11471,7 +11471,7 @@
             "properties": {
                 "nombre": "Centre de Dia",
                 "direccion": "C/ Marquesos de Vilallonga,24",
-                "poblacion": " Sant Julià de Vilatorta",
+                "poblacion": "Sant Julià de Vilatorta",
                 "telefono": "",
                 "codigopostal": "08504"
             }
@@ -12831,7 +12831,7 @@
             "properties": {
                 "nombre": "Poliesportiu Montigalà",
                 "direccion": "Rossini,8",
-                "poblacion": "Badalona ",
+                "poblacion": "Badalona",
                 "telefono": "",
                 "codigopostal": "08917"
             }
@@ -13188,7 +13188,7 @@
             "properties": {
                 "nombre": "CASA GALLART ",
                 "direccion": "RECTOR ROCA, 9",
-                "poblacion": "SANT JULIÀ DE VILATORTA",
+                "poblacion": "Sant Julià de Vilatorta",
                 "telefono": "938122092",
                 "codigopostal": "08504"
             }
@@ -13205,7 +13205,7 @@
             "properties": {
                 "nombre": "VETERINARI ST JULIÀ",
                 "direccion": "C/ Compositor Ramon Victori 10",
-                "poblacion": "Sant Julia de Vilatorta",
+                "poblacion": "Sant Julià de Vilatorta",
                 "telefono": "938122315",
                 "codigopostal": "08504"
             }
@@ -13511,7 +13511,7 @@
             "properties": {
                 "nombre": "Can Geroni",
                 "direccion": "C/ La Palma 37",
-                "poblacion": "Vilanova del Vallès ",
+                "poblacion": "Vilanova del Vallès",
                 "telefono": "938459031",
                 "codigopostal": "08410"
             }
@@ -13545,7 +13545,7 @@
             "properties": {
                 "nombre": "Ferreteria Vilanova",
                 "direccion": "Passeig del Centenari 11",
-                "poblacion": " Vilanova del Vallès",
+                "poblacion": "Vilanova del Vallès",
                 "telefono": "938456554",
                 "codigopostal": "08410"
             }
@@ -13630,7 +13630,7 @@
             "properties": {
                 "nombre": "Llibreria el Molinet",
                 "direccion": "La palma,10",
-                "poblacion": " Vilanova del Vallès",
+                "poblacion": "Vilanova del Vallès",
                 "telefono": "",
                 "codigopostal": "08410"
             }
@@ -13749,7 +13749,7 @@
             "properties": {
                 "nombre": "Farmàcia Teresa Pérez Riera",
                 "direccion": "Cadí, 6",
-                "poblacion": "POLINYÀ",
+                "poblacion": "Polinyà",
                 "telefono": "937130517",
                 "codigopostal": "08213"
             }
@@ -13766,7 +13766,7 @@
             "properties": {
                 "nombre": "La Pelukeria",
                 "direccion": "carretera de sentmenat 103 ",
-                "poblacion": "POLINYÀ",
+                "poblacion": "Polinyà",
                 "telefono": "931877463",
                 "codigopostal": "08213"
             }
@@ -13783,7 +13783,7 @@
             "properties": {
                 "nombre": "ANGLAPOL",
                 "direccion": "CTRA. SENTMENAT 94 LOCAL 3B",
-                "poblacion": "POLINYÀ",
+                "poblacion": "Polinyà",
                 "telefono": "937131488",
                 "codigopostal": "08213"
             }
@@ -13800,7 +13800,7 @@
             "properties": {
                 "nombre": "MANUELA BARCELONA",
                 "direccion": "RAMBLA RAFAEL CASANOVA Nº9 LOCAL 3",
-                "poblacion": "POLINYÀ",
+                "poblacion": "Polinyà",
                 "telefono": "937135321",
                 "codigopostal": "08213"
             }
@@ -13885,7 +13885,7 @@
             "properties": {
                 "nombre": "Autodesvallestaments La Gleva ",
                 "direccion": "Ctra. C-17 km 68.280 ",
-                "poblacion": "Les Masies de Voltregà",
+                "poblacion": "Masies de Voltregà, les",
                 "telefono": "938671153",
                 "codigopostal": "08508"
             }
@@ -13987,7 +13987,7 @@
             "properties": {
                 "nombre": "Ajuntament de la Garriga",
                 "direccion": "Plaça de l'església, 2",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "938605050",
                 "codigopostal": "08530"
             }
@@ -14004,7 +14004,7 @@
             "properties": {
                 "nombre": "Policia Local La Garriga",
                 "direccion": "Centre, 6",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "938605050",
                 "codigopostal": "08530"
             }
@@ -14021,7 +14021,7 @@
             "properties": {
                 "nombre": "Can Raspall",
                 "direccion": "Banys, 38-40",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "938605050",
                 "codigopostal": "08530"
             }
@@ -14038,7 +14038,7 @@
             "properties": {
                 "nombre": "Biblioteca Municipal",
                 "direccion": "Centre, 49",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "938605050",
                 "codigopostal": "08530"
             }
@@ -14055,7 +14055,7 @@
             "properties": {
                 "nombre": "Pavelló Esportiu Can Noguera",
                 "direccion": "Bassal s/n",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "938605050",
                 "codigopostal": "08530"
             }
@@ -14072,7 +14072,7 @@
             "properties": {
                 "nombre": "Pavelló Can Violí",
                 "direccion": "Avda. Onze de setembre s/n",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "938605050",
                 "codigopostal": "08530"
             }
@@ -14089,7 +14089,7 @@
             "properties": {
                 "nombre": "Camp Municipal d'Esports",
                 "direccion": "Montcau s/n",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "938605050",
                 "codigopostal": "08530"
             }
@@ -14106,7 +14106,7 @@
             "properties": {
                 "nombre": "Piscines Municipals de la Garriga",
                 "direccion": "Bassal s/n",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "938605050",
                 "codigopostal": "08530"
             }
@@ -14123,7 +14123,7 @@
             "properties": {
                 "nombre": "Serveis Socials",
                 "direccion": "Sant Francesc 1",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "938605050",
                 "codigopostal": "08530"
             }
@@ -14140,7 +14140,7 @@
             "properties": {
                 "nombre": "Teatre la Garriga EL PATRONAT",
                 "direccion": "Passeig, 42",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "938605050",
                 "codigopostal": "08530"
             }
@@ -14157,7 +14157,7 @@
             "properties": {
                 "nombre": "La Torre del Fanal",
                 "direccion": "Can Noguera, 76",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "938605050",
                 "codigopostal": "08530"
             }
@@ -14208,7 +14208,7 @@
             "properties": {
                 "nombre": "Ca la Tere",
                 "direccion": "C/ RAMONEDA 44",
-                "poblacion": "POLINYÀ",
+                "poblacion": "Polinyà",
                 "telefono": "937130860",
                 "codigopostal": "08213"
             }
@@ -14276,7 +14276,7 @@
             "properties": {
                 "nombre": "Autoescola Carrera, SCP",
                 "direccion": "C/ Matagalls, 75",
-                "poblacion": "Les Masies De Voltregà ",
+                "poblacion": "Masies de Voltregà, les",
                 "telefono": "938570648",
                 "codigopostal": "08508"
             }
@@ -14344,7 +14344,7 @@
             "properties": {
                 "nombre": "Agroplant Lladó Tapia",
                 "direccion": "C/ Girona 1",
-                "poblacion": "Les Masies de Voltregà",
+                "poblacion": "Masies de Voltregà, les",
                 "telefono": "609925470",
                 "codigopostal": "08508"
             }
@@ -14548,7 +14548,7 @@
             "properties": {
                 "nombre": "Bar El Rubio",
                 "direccion": "C/ Cadí Nº 2",
-                "poblacion": "Polinya",
+                "poblacion": "Polinyà",
                 "telefono": "625647287",
                 "codigopostal": "08213"
             }
@@ -14718,7 +14718,7 @@
             "properties": {
                 "nombre": "Frankfurt la Garriga ",
                 "direccion": "C/ calabria 41 local 2",
-                "poblacion": "La Garriga ",
+                "poblacion": "Garriga, la",
                 "telefono": "931885334",
                 "codigopostal": "08530"
             }
@@ -14735,7 +14735,7 @@
             "properties": {
                 "nombre": "MDplus Informàtica (More Direct, S.L.)",
                 "direccion": "Passeig dels Til·lers 9",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "661920584",
                 "codigopostal": "08530"
             }
@@ -14786,7 +14786,7 @@
             "properties": {
                 "nombre": "Antàrtic",
                 "direccion": "c/ Calabria 68",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "650566489",
                 "codigopostal": "08530"
             }
@@ -14803,7 +14803,7 @@
             "properties": {
                 "nombre": "ANDREU FOTÒGRAF SL",
                 "direccion": "CARRER CALÀBRIA, 57",
-                "poblacion": "LA GARRIGA",
+                "poblacion": "Garriga, la",
                 "telefono": "938715353",
                 "codigopostal": "08530"
             }
@@ -14820,7 +14820,7 @@
             "properties": {
                 "nombre": "El centre Justino Portillo",
                 "direccion": "Calle Calabria 63",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "937322557/667931815",
                 "codigopostal": "08530"
             }
@@ -14837,7 +14837,7 @@
             "properties": {
                 "nombre": "LA LLETERIA DE LA GARRIGA",
                 "direccion": "CALABRIA, 49",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "659216323",
                 "codigopostal": "08530"
             }
@@ -14854,7 +14854,7 @@
             "properties": {
                 "nombre": "Can Xic // botiga-taller",
                 "direccion": "c/ Can Xic Corder, 13",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "933949151",
                 "codigopostal": "08530"
             }
@@ -14888,7 +14888,7 @@
             "properties": {
                 "nombre": "FOTO CLIC",
                 "direccion": "C/ Calàbria 22",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "938715704",
                 "codigopostal": "08580"
             }
@@ -14905,7 +14905,7 @@
             "properties": {
                 "nombre": "Ajuntament de Vilanova del Camí",
                 "direccion": "Pl. del Castell, 1 ",
-                "poblacion": "Vilanova del Camí ",
+                "poblacion": "Vilanova del Camí",
                 "telefono": "938054422",
                 "codigopostal": "08788"
             }
@@ -14922,7 +14922,7 @@
             "properties": {
                 "nombre": "BARBERIA JESUS",
                 "direccion": "CTRA. NOVA, Nº 85",
-                "poblacion": "LA GARRIGA",
+                "poblacion": "Garriga, la",
                 "telefono": "938717108",
                 "codigopostal": "08530"
             }
@@ -14939,7 +14939,7 @@
             "properties": {
                 "nombre": "MEDIADORS D'ASSEGURANCES GESCAT,S.L.",
                 "direccion": "Carretera Nova, 42, baixos Local 2",
-                "poblacion": "LA GARRIGA",
+                "poblacion": "Garriga, la",
                 "telefono": "938716200",
                 "codigopostal": "08530"
             }
@@ -15092,7 +15092,7 @@
             "properties": {
                 "nombre": "REALE LA GARRIGA (MAB 2006 AGENCIA D'ASSEGURANCES SL)",
                 "direccion": "CTRA .NOVA 42, LC1",
-                "poblacion": "LA GARRIGA",
+                "poblacion": "Garriga, la",
                 "telefono": "938605558",
                 "codigopostal": "08530"
             }
@@ -15109,7 +15109,7 @@
             "properties": {
                 "nombre": "Clinica Dental Dr. XAVIER NAVARRO ",
                 "direccion": "Plaça de l'esglesia, 4",
-                "poblacion": "LA GARRIGA",
+                "poblacion": "Garriga, la",
                 "telefono": "938715502",
                 "codigopostal": "08530"
             }
@@ -15143,7 +15143,7 @@
             "properties": {
                 "nombre": "HERBORISTERÍA I DIETÈTICA SALUS",
                 "direccion": "Carrer Nostra Senyora de la Salut, 1",
-                "poblacion": "LA GARRIGA",
+                "poblacion": "Garriga, la",
                 "telefono": "937321562",
                 "codigopostal": "08530"
             }
@@ -15160,7 +15160,7 @@
             "properties": {
                 "nombre": "CERVESERIA NOSTRADAMUS ",
                 "direccion": "Crta. Nova 75",
-                "poblacion": "La Garriga ",
+                "poblacion": "Garriga, la",
                 "telefono": "690172868",
                 "codigopostal": "08530"
             }
@@ -15534,7 +15534,7 @@
             "properties": {
                 "nombre": "Terranova Centre de Nutrició Canina ",
                 "direccion": "c/ Banys 83",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "938605823",
                 "codigopostal": "08530"
             }
@@ -15551,7 +15551,7 @@
             "properties": {
                 "nombre": "AJUNTAMENT DE MOIÀ",
                 "direccion": "PLAÇA SANT SEBASTIÀ, 1",
-                "poblacion": "MOIÀ",
+                "poblacion": "Moià",
                 "telefono": "938300000",
                 "codigopostal": "08180"
             }
@@ -15568,7 +15568,7 @@
             "properties": {
                 "nombre": "HOTEL D'ENTITATS CAN CARNER",
                 "direccion": "JOIES 11",
-                "poblacion": "MOIÀ",
+                "poblacion": "Moià",
                 "telefono": "938207600",
                 "codigopostal": "08180"
             }
@@ -15585,7 +15585,7 @@
             "properties": {
                 "nombre": "BIBLIOTECA DE MOIÀ",
                 "direccion": "C/ SANT JOSEP, 12",
-                "poblacion": "MOIÀ",
+                "poblacion": "Moià",
                 "telefono": "938300674",
                 "codigopostal": "08180"
             }
@@ -15602,7 +15602,7 @@
             "properties": {
                 "nombre": "MUSEU MUNICIPAL DE MOIÀ",
                 "direccion": "C/ RAFEL CASANOVA, 8",
-                "poblacion": "MOIÀ",
+                "poblacion": "Moià",
                 "telefono": "938209134",
                 "codigopostal": "08180"
             }
@@ -15619,7 +15619,7 @@
             "properties": {
                 "nombre": "PARC MUNICIPAL DE MOIÀ",
                 "direccion": "ENTRADES PER C/ SANT JOSEP I PLAÇA MOIANÈS",
-                "poblacion": "MOIÀ",
+                "poblacion": "Moià",
                 "telefono": "938300000",
                 "codigopostal": "08180"
             }
@@ -15636,7 +15636,7 @@
             "properties": {
                 "nombre": "CARLOS LUNA II, S.A.",
                 "direccion": "Ctra. de l'Ametlla 95",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "938718444",
                 "codigopostal": "08530"
             }
@@ -15823,7 +15823,7 @@
             "properties": {
                 "nombre": "Centre Medic La Garriga",
                 "direccion": "Carretera Nova número 40",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "938717094",
                 "codigopostal": "08530"
             }
@@ -15840,7 +15840,7 @@
             "properties": {
                 "nombre": "El Racó de l'Anglès",
                 "direccion": "Carrer Figaró, 9",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "938612313/670250279",
                 "codigopostal": "08530"
             }
@@ -15925,7 +15925,7 @@
             "properties": {
                 "nombre": "Multiópticas Empuriabrava",
                 "direccion": "Sector Gran Reserva, edifici 10 Local 5",
-                "poblacion": "Empuriabrava",
+                "poblacion": "Castelló d'Empúries",
                 "telefono": "972452138",
                 "codigopostal": "17487"
             }
@@ -16078,7 +16078,7 @@
             "properties": {
                 "nombre": "Ajuntament de Calonge",
                 "direccion": "Plaça de la Concòrdia, 7",
-                "poblacion": "Calonge",
+                "poblacion": "Calonge i Sant Antoni",
                 "telefono": "",
                 "codigopostal": "17251"
             }
@@ -16486,7 +16486,7 @@
             "properties": {
                 "nombre": "Ajuntament de L'Hospitalet de Llobregat",
                 "direccion": "Plaça de l'Ajuntament, 11",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08901"
             }
@@ -16588,7 +16588,7 @@
             "properties": {
                 "nombre": "Ajuntament de la Garriga",
                 "direccion": "Plaça de l'Església, 2",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "",
                 "codigopostal": "08530"
             }
@@ -16656,7 +16656,7 @@
             "properties": {
                 "nombre": "Ajuntament del Prat de Llobregat",
                 "direccion": "Carrer del Centre, 28",
-                "poblacion": "El Prat de Llobregat",
+                "poblacion": "Prat de Llobregat, el",
                 "telefono": "",
                 "codigopostal": "08820"
             }
@@ -16843,7 +16843,7 @@
             "properties": {
                 "nombre": "Ajuntament de Sant Martí d’Albars",
                 "direccion": "La Blava, s/n ",
-                "poblacion": "Sant Martí d'Albars ",
+                "poblacion": "Sant Martí d'Albars",
                 "telefono": "",
                 "codigopostal": "08515"
             }
@@ -17421,7 +17421,7 @@
             "properties": {
                 "nombre": "ESCOLA DE DANSA TUKUPRACUM",
                 "direccion": "AVDA.GENERALITAT,55",
-                "poblacion": "LA GARRIGA",
+                "poblacion": "Garriga, la",
                 "telefono": "",
                 "codigopostal": "08530"
             }
@@ -18050,7 +18050,7 @@
             "properties": {
                 "nombre": "Restaurant L Ateneu de Tous",
                 "direccion": "travesia Sant Valenti, 2",
-                "poblacion": "Sant Marti de Tous",
+                "poblacion": "Sant Martí de Tous",
                 "telefono": "620886363",
                 "codigopostal": "08712"
             }
@@ -18169,7 +18169,7 @@
             "properties": {
                 "nombre": "Ajuntament de Sant Fost de Campsentelles",
                 "direccion": "Plaça de la Vila, 1 ",
-                "poblacion": "Sant Fost de Campsentelles ",
+                "poblacion": "Sant Fost de Campsentelles",
                 "telefono": "935796980",
                 "codigopostal": "08105"
             }
@@ -18186,7 +18186,7 @@
             "properties": {
                 "nombre": "Ajuntament de Sant Fost de Campsentelles ",
                 "direccion": "Plaça de la Vila, 1",
-                "poblacion": "Sant Fost de Campsentelles ",
+                "poblacion": "Sant Fost de Campsentelles",
                 "telefono": "935796980",
                 "codigopostal": "08105"
             }
@@ -18203,7 +18203,7 @@
             "properties": {
                 "nombre": "Ajuntament de L'Espluga de Francolí",
                 "direccion": " Pl. de la Vila, 1",
-                "poblacion": "L'Espluga de Francolí",
+                "poblacion": "Espluga de Francolí, l'",
                 "telefono": "977870005",
                 "codigopostal": "43440"
             }
@@ -18220,7 +18220,7 @@
             "properties": {
                 "nombre": "Ajuntament de L'Espluga de Francolí",
                 "direccion": " Pl. de la Vila, 1",
-                "poblacion": "L'Espluga de Francolí",
+                "poblacion": "Espluga de Francolí, l'",
                 "telefono": "",
                 "codigopostal": "43440"
             }
@@ -18441,7 +18441,7 @@
             "properties": {
                 "nombre": "Parc del Castell",
                 "direccion": "C/ Ponent 58",
-                "poblacion": "Malgrat de Mar ",
+                "poblacion": "Malgrat de Mar",
                 "telefono": "",
                 "codigopostal": "08380"
             }
@@ -18492,7 +18492,7 @@
             "properties": {
                 "nombre": "Lola Ramírez Perruquers",
                 "direccion": "Plaça de la Vila, 2",
-                "poblacion": " Vilanova i la Geltrú",
+                "poblacion": "Vilanova i la Geltrú",
                 "telefono": "938933326",
                 "codigopostal": "08800"
             }
@@ -18509,7 +18509,7 @@
             "properties": {
                 "nombre": "Ajuntament de les Masies de Roda",
                 "direccion": "Ctra. de Roda a Manlleu. s/n",
-                "poblacion": "Les Masies de Roda",
+                "poblacion": "Masies de Roda, les",
                 "telefono": "938540027",
                 "codigopostal": "08510"
             }
@@ -18543,7 +18543,7 @@
             "properties": {
                 "nombre": "Ajuntament de Begues ",
                 "direccion": "Avinguda Torres Vilaró, 4 ",
-                "poblacion": "Begues ",
+                "poblacion": "Begues",
                 "telefono": "",
                 "codigopostal": "08859"
             }
@@ -18662,7 +18662,7 @@
             "properties": {
                 "nombre": "BEEP LA GARRIGA",
                 "direccion": "CAN XIC CORDER, 2",
-                "poblacion": "LA GARRIGA",
+                "poblacion": "Garriga, la",
                 "telefono": "938715539",
                 "codigopostal": "08530"
             }
@@ -18679,7 +18679,7 @@
             "properties": {
                 "nombre": "Ajuntament de Les Franqueses del Vallès",
                 "direccion": "Ctra. de Ribes, 2",
-                "poblacion": "Les Franqueses del Vallès",
+                "poblacion": "Franqueses del Vallès, les",
                 "telefono": "938467676",
                 "codigopostal": "08520"
             }
@@ -18696,7 +18696,7 @@
             "properties": {
                 "nombre": "Ajuntament de Les Franqueses del Vallès",
                 "direccion": "Ctra. de Ribes, 2",
-                "poblacion": "Les Franqueses del Vallès",
+                "poblacion": "Franqueses del Vallès, les",
                 "telefono": "938467676",
                 "codigopostal": "08520"
             }
@@ -18934,7 +18934,7 @@
             "properties": {
                 "nombre": "Cal Pere Vell",
                 "direccion": "Carrer Major, 14.",
-                "poblacion": "Begues ",
+                "poblacion": "Begues",
                 "telefono": "",
                 "codigopostal": "08859"
             }
@@ -19121,7 +19121,7 @@
             "properties": {
                 "nombre": "CAP Sant Feliu de Guixols (ICS)",
                 "direccion": "Carrer del comerç 74",
-                "poblacion": "Sant Feliu de Guixols",
+                "poblacion": "Sant Feliu de Guíxols",
                 "telefono": "972326009",
                 "codigopostal": "17220"
             }
@@ -19206,7 +19206,7 @@
             "properties": {
                 "nombre": "CAP Cadaquès (ICS)",
                 "direccion": "Carrer Nou,6-10",
-                "poblacion": "Cadaquès",
+                "poblacion": "Cadaqués",
                 "telefono": "972258807",
                 "codigopostal": "17488"
             }
@@ -19223,7 +19223,7 @@
             "properties": {
                 "nombre": "CAP Camprodón (ICS)",
                 "direccion": "Carrer Mn J. Verdaguer,1",
-                "poblacion": "Camprodón",
+                "poblacion": "Camprodon",
                 "telefono": "972741213",
                 "codigopostal": "17867"
             }
@@ -19257,7 +19257,7 @@
             "properties": {
                 "nombre": "CAP Dr. Francesc Subirós- Jonquera (ICS)",
                 "direccion": "Carrer Carles Bosch de la Trinxeria, 1",
-                "poblacion": "La Jonquera",
+                "poblacion": "Jonquera, la",
                 "telefono": "972554567",
                 "codigopostal": "17700"
             }
@@ -20600,7 +20600,7 @@
             "properties": {
                 "nombre": "CAP Castellbell i El Vilar (ICS)",
                 "direccion": "Carrer Rosa d'Abril,s/n",
-                "poblacion": "Castellbell i El Vilar",
+                "poblacion": "Castellbell i el Vilar",
                 "telefono": "938282080",
                 "codigopostal": "08296"
             }
@@ -21161,7 +21161,7 @@
             "properties": {
                 "nombre": "CAP Borges Blanques (ICS)",
                 "direccion": "Carrer Raval del Carme, 147",
-                "poblacion": "Les Borges Blanques",
+                "poblacion": "Borges Blanques, les",
                 "telefono": "973142033",
                 "codigopostal": "25400"
             }
@@ -21212,7 +21212,7 @@
             "properties": {
                 "nombre": "CAP La Granadella (ICS)",
                 "direccion": "Carretera Pobla, 74",
-                "poblacion": "La Granadella",
+                "poblacion": "Granadella, la",
                 "telefono": "973133207",
                 "codigopostal": "25177"
             }
@@ -21297,7 +21297,7 @@
             "properties": {
                 "nombre": "CAP Agramunt (ICS)",
                 "direccion": "Carrer Verge dels Socors, s/n",
-                "poblacion": " Agramunt",
+                "poblacion": "Agramunt",
                 "telefono": "973390635",
                 "codigopostal": "25310"
             }
@@ -21450,7 +21450,7 @@
             "properties": {
                 "nombre": "CAP El Pont de Suert (ICS)",
                 "direccion": "Carrer de la Canaleta s/n",
-                "poblacion": "El Pont de Suert",
+                "poblacion": "Pont de Suert, el",
                 "telefono": "973691085",
                 "codigopostal": "25520"
             }
@@ -21467,7 +21467,7 @@
             "properties": {
                 "nombre": "CAP La Pobla de Segur (ICS)",
                 "direccion": "Carrer de les Esgrases, 1 - Plaça de la Pedrera",
-                "poblacion": "La Pobla de Segur",
+                "poblacion": "Pobla de Segur, la",
                 "telefono": "973681172",
                 "codigopostal": "25500"
             }
@@ -21484,7 +21484,7 @@
             "properties": {
                 "nombre": "CAP La Seu d'Urgell (ICS)",
                 "direccion": "Passeig Joan Brudieu, 8",
-                "poblacion": "La Seu d'Urgell",
+                "poblacion": "Seu d'Urgell, la",
                 "telefono": "973350470",
                 "codigopostal": "25700"
             }
@@ -21603,7 +21603,7 @@
             "properties": {
                 "nombre": "CAP El Masnou (ICS)",
                 "direccion": "Carrer Sant Miquel,125",
-                "poblacion": "El Masnou",
+                "poblacion": "Masnou, el",
                 "telefono": "935557411",
                 "codigopostal": "08320"
             }
@@ -21960,7 +21960,7 @@
             "properties": {
                 "nombre": "CAP Corró d'Avall (ICS)",
                 "direccion": "Carretera Ribes,2 (edifici/plaça Ajuntament)",
-                "poblacion": "Les Franqueses del Vallès",
+                "poblacion": "Franqueses del Vallès, les",
                 "telefono": "938404200",
                 "codigopostal": "08520"
             }
@@ -21994,7 +21994,7 @@
             "properties": {
                 "nombre": "CAP L'Ametlla del Vallès (ICS)",
                 "direccion": "Passeig de l'Ametlla, 17",
-                "poblacion": "L'Ametlla del Vallès",
+                "poblacion": "Ametlla del Vallès, l'",
                 "telefono": "938432267",
                 "codigopostal": "08480"
             }
@@ -22045,7 +22045,7 @@
             "properties": {
                 "nombre": "CAP La Garriga (nou) (ICS)",
                 "direccion": "Carrer St. Francesc, 2 o carrer Torrent de la Sínia, 7",
-                "poblacion": "La Garriga",
+                "poblacion": "Garriga, la",
                 "telefono": "938605897",
                 "codigopostal": "08530"
             }
@@ -22062,7 +22062,7 @@
             "properties": {
                 "nombre": "CAP La Llagosta (ICS)",
                 "direccion": "Carretera Vic,2",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "935749810",
                 "codigopostal": "08120"
             }
@@ -22079,7 +22079,7 @@
             "properties": {
                 "nombre": "CAP Les Franqueses del Vallès (ICS)",
                 "direccion": "Avinguda Girona, 290",
-                "poblacion": "Les Franqueses del Vallés",
+                "poblacion": "Franqueses del Vallès, les",
                 "telefono": "938618030",
                 "codigopostal": "08520"
             }
@@ -23014,7 +23014,7 @@
             "properties": {
                 "nombre": "CAP Les Borges del Camp (ICS)",
                 "direccion": "Avinguda Font de les Escales 2",
-                "poblacion": "Les Borges del Camp",
+                "poblacion": "Borges del Camp, les",
                 "telefono": "977560115",
                 "codigopostal": "43350"
             }
@@ -23167,7 +23167,7 @@
             "properties": {
                 "nombre": "CAP El Morell (ICS)",
                 "direccion": "Avinguda Tarragona, s/n",
-                "poblacion": "El Morell",
+                "poblacion": "Morell, el",
                 "telefono": "977840656",
                 "codigopostal": "43760"
             }
@@ -23184,7 +23184,7 @@
             "properties": {
                 "nombre": "CAP Espluga de Francolí (ICS)",
                 "direccion": " Anselm Clavé, 27",
-                "poblacion": "L'Espluga de Francolí",
+                "poblacion": "Espluga de Francolí, l'",
                 "telefono": "977870925",
                 "codigopostal": "43440"
             }
@@ -23388,7 +23388,7 @@
             "properties": {
                 "nombre": "CAP Vila-Rodona (ICS)",
                 "direccion": "Carrer de les Escoles, 6",
-                "poblacion": "Vila-Rodona",
+                "poblacion": "Vila-rodona",
                 "telefono": "977638710",
                 "codigopostal": "43814"
             }
@@ -23490,7 +23490,7 @@
             "properties": {
                 "nombre": "CAP El Perelló (ICS)",
                 "direccion": "Carrer Lluis Companys,20",
-                "poblacion": "El Perelló",
+                "poblacion": "Perelló, el",
                 "telefono": "977490072",
                 "codigopostal": "43519"
             }
@@ -23558,7 +23558,7 @@
             "properties": {
                 "nombre": "CAP L'Aldea (ICS)",
                 "direccion": "Carrer Ligalló de Garballo s/n",
-                "poblacion": "L'Aldea",
+                "poblacion": "Aldea, l'",
                 "telefono": "977451213",
                 "codigopostal": "43896"
             }
@@ -23575,7 +23575,7 @@
             "properties": {
                 "nombre": "CAP L'Ametlla de Mar (ICS)",
                 "direccion": "Carrer Llibertat,70",
-                "poblacion": "L'Ametlla de Mar",
+                "poblacion": "Ametlla de Mar, l'",
                 "telefono": "977493514",
                 "codigopostal": "43860"
             }
@@ -23592,7 +23592,7 @@
             "properties": {
                 "nombre": "CAP La Sènia (ICS)",
                 "direccion": "Passeig de la Clotada, 60 cantonada c/Granada",
-                "poblacion": "La Sènia",
+                "poblacion": "Sénia, la",
                 "telefono": "977575000",
                 "codigopostal": "43560"
             }
@@ -23983,7 +23983,7 @@
             "properties": {
                 "nombre": "CAP El Pla - St. Feliu de Llobregat (ICS)",
                 "direccion": "Plaça Felip Alcàntara Arellano, 3",
-                "poblacion": "Sant Feliu de llobregat",
+                "poblacion": "Sant Feliu de Llobregat",
                 "telefono": "936854667",
                 "codigopostal": "08980"
             }
@@ -24119,7 +24119,7 @@
             "properties": {
                 "nombre": "CAP Rambla / Sant Feliu de Llobregat-2 (ICS)",
                 "direccion": "Rambla Marquesa de Castellbell, 98",
-                "poblacion": "Sant Feliu de llobregat",
+                "poblacion": "Sant Feliu de Llobregat",
                 "telefono": "936662313",
                 "codigopostal": "08980"
             }
@@ -24561,7 +24561,7 @@
             "properties": {
                 "nombre": "CAP Disset de Setembre-Sant Cosme i St Damià (ICS)",
                 "direccion": "Carrer Empuries, s/n",
-                "poblacion": "El Prat de Llobregat",
+                "poblacion": "Prat de Llobregat, el",
                 "telefono": "933795422",
                 "codigopostal": "08820"
             }
@@ -24595,7 +24595,7 @@
             "properties": {
                 "nombre": "CAP Dr. Josep Pujol i Capçada (ICS)",
                 "direccion": "Plaça de l'Aigua, 3",
-                "poblacion": "El Prat de Llobregat",
+                "poblacion": "Prat de Llobregat, el",
                 "telefono": "934791670",
                 "codigopostal": "08820"
             }
@@ -24731,7 +24731,7 @@
             "properties": {
                 "nombre": "CAP Ramona Via (ICS)",
                 "direccion": "Avinguda Verge de Montserrat, 24",
-                "poblacion": "El Prat de Llobregat",
+                "poblacion": "Prat de Llobregat, el",
                 "telefono": "933704101",
                 "codigopostal": "08820"
             }
@@ -24833,7 +24833,7 @@
             "properties": {
                 "nombre": "Consultori Local Les Preses (ICS)",
                 "direccion": "Carrer dels Teixos, 2",
-                "poblacion": "Les Preses",
+                "poblacion": "Preses, les",
                 "telefono": "972682512",
                 "codigopostal": "17178"
             }
@@ -25394,7 +25394,7 @@
             "properties": {
                 "nombre": "Consultori Local Pla de Santa Maria (ICS)",
                 "direccion": "Passeig del Pla, 2 xamfrà amb carrer del Treball",
-                "poblacion": "El Pla de Santa Maria",
+                "poblacion": "Pla de Santa Maria, el",
                 "telefono": "977631080",
                 "codigopostal": "43810"
             }
@@ -25496,7 +25496,7 @@
             "properties": {
                 "nombre": "Consultori Local Campredó (ICS)",
                 "direccion": "Carrer Rafael Escardó i Valls. s/n",
-                "poblacion": "Campredó",
+                "poblacion": "Tortosa",
                 "telefono": "977585852",
                 "codigopostal": "43500"
             }
@@ -25666,7 +25666,7 @@
             "properties": {
                 "nombre": "Ajuntament de la Llagosta ",
                 "direccion": "Pl. d'Antoni Baqué, 1",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "",
                 "codigopostal": "08120"
             }
@@ -25683,7 +25683,7 @@
             "properties": {
                 "nombre": "Ajuntament de la Llagosta ",
                 "direccion": "Pl. d'Antoni Baqué, 1 ",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "",
                 "codigopostal": "08120"
             }
@@ -25717,7 +25717,7 @@
             "properties": {
                 "nombre": "Ajuntament de Santa Eugènia de Berga ",
                 "direccion": "Plaça Major,1 ",
-                "poblacion": "Santa Eugènia de Berga ",
+                "poblacion": "Santa Eugènia de Berga",
                 "telefono": "",
                 "codigopostal": "08507"
             }
@@ -25768,7 +25768,7 @@
             "properties": {
                 "nombre": "Ajuntament de Lliçà d'Amunt",
                 "direccion": "C/ Anselm Clavé, 73",
-                "poblacion": "Lliçà d'Amunt ",
+                "poblacion": "Lliçà d'Amunt",
                 "telefono": "938415225",
                 "codigopostal": "00818"
             }
@@ -25785,7 +25785,7 @@
             "properties": {
                 "nombre": "Ajuntament de Lliçà d'Amunt",
                 "direccion": "C/ Anselm Clavé, 73",
-                "poblacion": " Lliçà d'Amunt",
+                "poblacion": "Lliçà d'Amunt",
                 "telefono": "",
                 "codigopostal": "08186"
             }
@@ -26652,7 +26652,7 @@
             "properties": {
                 "nombre": "hogava",
                 "direccion": "Carrer Barcelona 58 baixos",
-                "poblacion": "OLESA DE MONTSERRAT",
+                "poblacion": "Olesa de Montserrat",
                 "telefono": "937781700",
                 "codigopostal": "08640"
             }
@@ -26958,7 +26958,7 @@
             "properties": {
                 "nombre": "Escola Bressol Palaudàries",
                 "direccion": "C/ del Segre 63",
-                "poblacion": "Lliçà d'Amunt ",
+                "poblacion": "Lliçà d'Amunt",
                 "telefono": "",
                 "codigopostal": "08186"
             }
@@ -26975,7 +26975,7 @@
             "properties": {
                 "nombre": "Escola de Música",
                 "direccion": "C/ Folch i Torres 117",
-                "poblacion": "Lliçà d'Amunt ",
+                "poblacion": "Lliçà d'Amunt",
                 "telefono": "",
                 "codigopostal": "08186"
             }
@@ -26992,7 +26992,7 @@
             "properties": {
                 "nombre": "Bar Piscina (estiu9",
                 "direccion": "Av dels Països Catalans 27",
-                "poblacion": "Lliçà d'Amunt ",
+                "poblacion": "Lliçà d'Amunt",
                 "telefono": "",
                 "codigopostal": "08186"
             }
@@ -27009,7 +27009,7 @@
             "properties": {
                 "nombre": "Protecció Civil",
                 "direccion": "Av Països Catalans 58 (cantonada amb c/ Dr. Bonet)",
-                "poblacion": "Lliçà d'Amunt ",
+                "poblacion": "Lliçà d'Amunt",
                 "telefono": "",
                 "codigopostal": "08186"
             }
@@ -27026,7 +27026,7 @@
             "properties": {
                 "nombre": "Centre Cívic de Ca l'Artigues",
                 "direccion": "C/ de la Ribera d'Ebre 81 - planta baixa",
-                "poblacion": "Lliçà d'Amunt ",
+                "poblacion": "Lliçà d'Amunt",
                 "telefono": "",
                 "codigopostal": "08186"
             }
@@ -27043,7 +27043,7 @@
             "properties": {
                 "nombre": "Centre Cívic de Palaudàries",
                 "direccion": "C/ del Segre s/n",
-                "poblacion": "Lliçà d'Amunt ",
+                "poblacion": "Lliçà d'Amunt",
                 "telefono": "",
                 "codigopostal": "08186"
             }
@@ -27060,7 +27060,7 @@
             "properties": {
                 "nombre": "Biblioteca",
                 "direccion": "C/ Castelló de la Plana 11",
-                "poblacion": "Lliçà d'Amunt ",
+                "poblacion": "Lliçà d'Amunt",
                 "telefono": "",
                 "codigopostal": "08186"
             }
@@ -27196,7 +27196,7 @@
             "properties": {
                 "nombre": "TENDENCIAS",
                 "direccion": "C/ Major 56",
-                "poblacion": "BEGUES",
+                "poblacion": "Begues",
                 "telefono": "936391507",
                 "codigopostal": "08859"
             }
@@ -27213,7 +27213,7 @@
             "properties": {
                 "nombre": "Ajuntament de la Roca del Vallès",
                 "direccion": "C/ Catalunya, 24",
-                "poblacion": "La Roca del Vallès",
+                "poblacion": "Roca del Vallès, la",
                 "telefono": "938422016",
                 "codigopostal": "08430"
             }
@@ -27927,7 +27927,7 @@
             "properties": {
                 "nombre": "Consultori Local Altet (ICS)",
                 "direccion": "Pl. Església, s/n",
-                "poblacion": "Altet",
+                "poblacion": "Tàrrega",
                 "telefono": "",
                 "codigopostal": "25350"
             }
@@ -28386,7 +28386,7 @@
             "properties": {
                 "nombre": "Consultori local Concabella (ICS)",
                 "direccion": "C. Únic, s/n",
-                "poblacion": "Els Plans de Sió",
+                "poblacion": "Plans de Sió, els",
                 "telefono": "",
                 "codigopostal": "25212"
             }
@@ -28454,7 +28454,7 @@
             "properties": {
                 "nombre": "CL El Cogul (ICS)",
                 "direccion": "Pl. Cogul, s/n",
-                "poblacion": "El Cogul",
+                "poblacion": "Cogul, el",
                 "telefono": "",
                 "codigopostal": "25152"
             }
@@ -28488,7 +28488,7 @@
             "properties": {
                 "nombre": "CL El Pla de la Font (ICS)",
                 "direccion": "C. Escoles, 3",
-                "poblacion": "Gimenells i El Pla de la Font",
+                "poblacion": "Gimenells i el Pla de la Font",
                 "telefono": "",
                 "codigopostal": "25114"
             }
@@ -28505,7 +28505,7 @@
             "properties": {
                 "nombre": "CL El Poal (ICS)",
                 "direccion": "Pl. Catalunya, s/n",
-                "poblacion": "El Poal",
+                "poblacion": "Poal, el",
                 "telefono": "",
                 "codigopostal": "25143"
             }
@@ -28522,7 +28522,7 @@
             "properties": {
                 "nombre": "CL El Soleràs (ICS)",
                 "direccion": "C. Escoles, 4",
-                "poblacion": "El Soleràs",
+                "poblacion": "Soleràs, el",
                 "telefono": "",
                 "codigopostal": "25163"
             }
@@ -28590,7 +28590,7 @@
             "properties": {
                 "nombre": "CL Els Alamús (ICS)",
                 "direccion": "Trav. Tarragona, s/n",
-                "poblacion": "Alamús",
+                "poblacion": "Alamús, els",
                 "telefono": "",
                 "codigopostal": "25221"
             }
@@ -28760,7 +28760,7 @@
             "properties": {
                 "nombre": "CL Gimenells (ICS)",
                 "direccion": "Pl. Espanya, 9",
-                "poblacion": "Gimenells i El Pla de la Font",
+                "poblacion": "Gimenells i el Pla de la Font",
                 "telefono": "",
                 "codigopostal": "25112"
             }
@@ -28998,7 +28998,7 @@
             "properties": {
                 "nombre": "CL La Figuerosa (ICS)",
                 "direccion": "Pl. Ajuntament, s/n",
-                "poblacion": "Tarrega",
+                "poblacion": "Tàrrega",
                 "telefono": "",
                 "codigopostal": "25351"
             }
@@ -29015,7 +29015,7 @@
             "properties": {
                 "nombre": "CL La Floresta (ICS)",
                 "direccion": " Carrer Pearson, 36, 08198 ",
-                "poblacion": "La Floresta",
+                "poblacion": "Floresta, la",
                 "telefono": "",
                 "codigopostal": "08198"
             }
@@ -29032,7 +29032,7 @@
             "properties": {
                 "nombre": "CL La Fuliola (ICS)",
                 "direccion": "Pl. Ajuntament, s/n",
-                "poblacion": "La Fuliola",
+                "poblacion": "Fuliola, la",
                 "telefono": "",
                 "codigopostal": "25332"
             }
@@ -29049,7 +29049,7 @@
             "properties": {
                 "nombre": "CAP La Granadella (ICS)",
                 "direccion": "C. de la Pobla, 74",
-                "poblacion": "La Granadella",
+                "poblacion": "Granadella, la",
                 "telefono": "",
                 "codigopostal": "25177"
             }
@@ -29066,7 +29066,7 @@
             "properties": {
                 "nombre": "CL La Granja d'Escarp (ICS)",
                 "direccion": "Pl. Nova, s/n",
-                "poblacion": "La Granja d'Escarp",
+                "poblacion": "Granja d'Escarp, la",
                 "telefono": "",
                 "codigopostal": "25185"
             }
@@ -29100,7 +29100,7 @@
             "properties": {
                 "nombre": "CL La Pobla de Cérvoles (ICS)",
                 "direccion": "C/ Sorts, s/n",
-                "poblacion": "La Pobla de Cérvoles",
+                "poblacion": "Pobla de Cérvoles, la",
                 "telefono": "",
                 "codigopostal": "25471"
             }
@@ -29185,7 +29185,7 @@
             "properties": {
                 "nombre": "CL L'Albi (ICS)",
                 "direccion": "C. Abeurador, 1",
-                "poblacion": "Albi",
+                "poblacion": "Albi, l'",
                 "telefono": "",
                 "codigopostal": "25450"
             }
@@ -29219,7 +29219,7 @@
             "properties": {
                 "nombre": "CAP Les Borges Blanques (ICS)",
                 "direccion": "C. Raval del Carme, 147",
-                "poblacion": "Les Borges Blanques",
+                "poblacion": "Borges Blanques, les",
                 "telefono": "",
                 "codigopostal": "25400"
             }
@@ -29236,7 +29236,7 @@
             "properties": {
                 "nombre": "CL Les Oluges (ICS)",
                 "direccion": "C. Castell, 2",
-                "poblacion": "Les Oluges",
+                "poblacion": "Oluges, les",
                 "telefono": "",
                 "codigopostal": "25214"
             }
@@ -29763,7 +29763,7 @@
             "properties": {
                 "nombre": "CL Penelles (ICS)",
                 "direccion": "C. Nord, s/n",
-                "poblacion": " Penales ",
+                "poblacion": "Penelles",
                 "telefono": "",
                 "codigopostal": "25335"
             }
@@ -30868,7 +30868,7 @@
             "properties": {
                 "nombre": "CL Colldejou (ICS)",
                 "direccion": "C. de Baix, 42",
-                "poblacion": "Colldejou ",
+                "poblacion": "Colldejou",
                 "telefono": "",
                 "codigopostal": "43310"
             }
@@ -30936,7 +30936,7 @@
             "properties": {
                 "nombre": "CL El Milà (ICS)",
                 "direccion": "C. Santa Úrsula, 23",
-                "poblacion": "El Milà",
+                "poblacion": "Milà, el",
                 "telefono": "",
                 "codigopostal": "43143"
             }
@@ -31004,7 +31004,7 @@
             "properties": {
                 "nombre": "CL Els Pallaresos (ICS)",
                 "direccion": "C. del Pou, s/n",
-                "poblacion": "Els Pallaresos",
+                "poblacion": "Pallaresos, els",
                 "telefono": "",
                 "codigopostal": "43151"
             }
@@ -31106,7 +31106,7 @@
             "properties": {
                 "nombre": "CL La Bisbal del Penedès (ICS)",
                 "direccion": "C. Girona, 3",
-                "poblacion": "La Bisbal del Penedès",
+                "poblacion": "Bisbal del Penedès, la",
                 "telefono": "",
                 "codigopostal": "43717"
             }
@@ -31123,7 +31123,7 @@
             "properties": {
                 "nombre": "CL La Febró (ICS)",
                 "direccion": "C. de la Font, 1",
-                "poblacion": "La Febró ",
+                "poblacion": "Febró, la",
                 "telefono": "",
                 "codigopostal": "43364"
             }
@@ -31208,7 +31208,7 @@
             "properties": {
                 "nombre": "CL La Secuita (ICS)",
                 "direccion": "Carrer Catalunya, 4",
-                "poblacion": "La Secuita",
+                "poblacion": "Secuita, la",
                 "telefono": "",
                 "codigopostal": "43765"
             }
@@ -31259,7 +31259,7 @@
             "properties": {
                 "nombre": "CAP Les Borges del Camp (ICS)",
                 "direccion": "Av. de la Font de les Escales, s/n",
-                "poblacion": "Les Borges del Camp",
+                "poblacion": "Borges del Camp, les",
                 "telefono": "",
                 "codigopostal": "43350"
             }
@@ -31310,7 +31310,7 @@
             "properties": {
                 "nombre": "CL L'Espluga de Francolí (ICS)",
                 "direccion": "Pl. Sant Isidre, s/n",
-                "poblacion": "L'Espluga de Francolí",
+                "poblacion": "Espluga de Francolí, l'",
                 "telefono": "",
                 "codigopostal": "43440"
             }
@@ -31854,7 +31854,7 @@
             "properties": {
                 "nombre": "CAP Vila-rodona (ICS)",
                 "direccion": "Pl. dels Arbres, 7",
-                "poblacion": "Vila-Rodona",
+                "poblacion": "Vila-rodona",
                 "telefono": "",
                 "codigopostal": "43814"
             }
@@ -31871,7 +31871,7 @@
             "properties": {
                 "nombre": "CL Vilella Alta (ICS)",
                 "direccion": "Pl. de les Eres, 1",
-                "poblacion": "La Vilella Alta",
+                "poblacion": "Vilella Alta, la",
                 "telefono": "",
                 "codigopostal": "43375"
             }
@@ -31888,7 +31888,7 @@
             "properties": {
                 "nombre": "CL Vilella Baixa (ICS)",
                 "direccion": "C. Major, 2",
-                "poblacion": "La Vilella Baixa",
+                "poblacion": "Vilella Baixa, la",
                 "telefono": "",
                 "codigopostal": "43374"
             }
@@ -32279,7 +32279,7 @@
             "properties": {
                 "nombre": "CL Colomers (ICS)",
                 "direccion": "Pl. Major, 1",
-                "poblacion": "Colomers ",
+                "poblacion": "Colomers",
                 "telefono": "",
                 "codigopostal": "17144"
             }
@@ -32517,7 +32517,7 @@
             "properties": {
                 "nombre": "CL Garrigoles (ICS)",
                 "direccion": "C. Sant Vicenç, 17",
-                "poblacion": " Garrigoles",
+                "poblacion": "Garrigoles",
                 "telefono": "",
                 "codigopostal": "17466"
             }
@@ -32568,7 +32568,7 @@
             "properties": {
                 "nombre": "CL La Pera (ICS)",
                 "direccion": "C. Marquès d'Alpens, 32",
-                "poblacion": "La Pera",
+                "poblacion": "Pera, la",
                 "telefono": "",
                 "codigopostal": "17120"
             }
@@ -32585,7 +32585,7 @@
             "properties": {
                 "nombre": "CL La Selva de Mar (ICS)",
                 "direccion": "Pl. de l'Església, s/n",
-                "poblacion": "La Selva de Mar",
+                "poblacion": "Selva de Mar, la",
                 "telefono": "",
                 "codigopostal": "17489"
             }
@@ -32602,7 +32602,7 @@
             "properties": {
                 "nombre": "CL La Vajol (ICS)",
                 "direccion": "Pl. Ponent, s/n",
-                "poblacion": "La Vajol",
+                "poblacion": "Vajol, la",
                 "telefono": "",
                 "codigopostal": "17707"
             }
@@ -32959,7 +32959,7 @@
             "properties": {
                 "nombre": "CL Palau-saverdera (ICS)",
                 "direccion": "C. Ravalet, 1",
-                "poblacion": "Palau-Saverdera",
+                "poblacion": "Palau-saverdera",
                 "telefono": "",
                 "codigopostal": "17495"
             }
@@ -33163,7 +33163,7 @@
             "properties": {
                 "nombre": "CAP Sant Feliu de Guíxols (ICS)",
                 "direccion": "C. Gravina, 27-29",
-                "poblacion": "Sant Feliu de Guixols",
+                "poblacion": "Sant Feliu de Guíxols",
                 "telefono": "",
                 "codigopostal": "17220"
             }
@@ -33180,7 +33180,7 @@
             "properties": {
                 "nombre": "CL Sant Feliu de Pallerols (ICS)",
                 "direccion": "Pla del Molí Gros, 2",
-                "poblacion": " Sant Feliu de Pallerols",
+                "poblacion": "Sant Feliu de Pallerols",
                 "telefono": "",
                 "codigopostal": "17174"
             }
@@ -33248,7 +33248,7 @@
             "properties": {
                 "nombre": "CL Sant Martí de Llèmena (ICS)",
                 "direccion": "Pl. Ajuntament, s/n",
-                "poblacion": "Sant Martí de Llèmena",
+                "poblacion": "Sant Martí de Llémena",
                 "telefono": "",
                 "codigopostal": "17153"
             }
@@ -33316,7 +33316,7 @@
             "properties": {
                 "nombre": "CL Sant Pau de Seguries (ICS)",
                 "direccion": "C. Guàrdia, 11",
-                "poblacion": "Sant Pau de Seguries",
+                "poblacion": "Sant Pau de Segúries",
                 "telefono": "",
                 "codigopostal": "17864"
             }
@@ -33469,7 +33469,7 @@
             "properties": {
                 "nombre": "CL Vallfogona de Ripollès (ICS)",
                 "direccion": "C. Puig Estela, 9",
-                "poblacion": "vallfogona de Ripollès",
+                "poblacion": "Vallfogona de Ripollès",
                 "telefono": "",
                 "codigopostal": "17862"
             }
@@ -33622,7 +33622,7 @@
             "properties": {
                 "nombre": "CL Vila-sacra (ICS)",
                 "direccion": "Pl. de la Font, 1",
-                "poblacion": "Vila-Sacra",
+                "poblacion": "Vila-sacra",
                 "telefono": "",
                 "codigopostal": "17485"
             }
@@ -33673,7 +33673,7 @@
             "properties": {
                 "nombre": "CL Vilopriu (ICS)",
                 "direccion": "C. Migdia, s/n",
-                "poblacion": " Vilopriu",
+                "poblacion": "Vilopriu",
                 "telefono": "",
                 "codigopostal": "17466"
             }
@@ -33690,7 +33690,7 @@
             "properties": {
                 "nombre": "CAP 17 de Setembre (ICS)",
                 "direccion": "C. d'Empúries, 1-3",
-                "poblacion": "El Prat de Llobregat",
+                "poblacion": "Prat de Llobregat, el",
                 "telefono": "",
                 "codigopostal": "08820"
             }
@@ -33860,7 +33860,7 @@
             "properties": {
                 "nombre": "CL El Bruc (ICS)",
                 "direccion": "C. Bruc del mig, 23",
-                "poblacion": "El Bruc",
+                "poblacion": "Bruc, el",
                 "telefono": "",
                 "codigopostal": "08294"
             }
@@ -33877,7 +33877,7 @@
             "properties": {
                 "nombre": "CL El Papiol (ICS)",
                 "direccion": "Av. Generalitat, 7",
-                "poblacion": "El Papiol",
+                "poblacion": "Papiol, el",
                 "telefono": "",
                 "codigopostal": "08754"
             }
@@ -33962,7 +33962,7 @@
             "properties": {
                 "nombre": "CL Guardiola de Font Rubí (ICS)",
                 "direccion": "Pl. Ajuntament, 1",
-                "poblacion": "Font-Rubí",
+                "poblacion": "Font-rubí",
                 "telefono": "",
                 "codigopostal": "08736"
             }
@@ -33996,7 +33996,7 @@
             "properties": {
                 "nombre": "CL La Granada (ICS)",
                 "direccion": "C. Sant Cristòfol, s/n",
-                "poblacion": "La Granada",
+                "poblacion": "Granada, la",
                 "telefono": "",
                 "codigopostal": "08792"
             }
@@ -34030,7 +34030,7 @@
             "properties": {
                 "nombre": "CL La Palma de Cervelló (ICS)",
                 "direccion": "C. Pirineu, 7",
-                "poblacion": "La Palma de Cervelló",
+                "poblacion": "Palma de Cervelló, la",
                 "telefono": "",
                 "codigopostal": "08756"
             }
@@ -34047,7 +34047,7 @@
             "properties": {
                 "nombre": "CL La Ràpita (St. Margarida i els Monjos) (ICS)",
                 "direccion": "Pl. Ramon Cabré, s/n",
-                "poblacion": "La Ràpita (Penedès)",
+                "poblacion": "Ràpita, la",
                 "telefono": "",
                 "codigopostal": "08730"
             }
@@ -34081,7 +34081,7 @@
             "properties": {
                 "nombre": "CL Les Cabanyes (ICS)",
                 "direccion": "Ctra. Guardiola, km.3",
-                "poblacion": "Les Cabanyes",
+                "poblacion": "Cabanyes, les",
                 "telefono": "",
                 "codigopostal": "08794"
             }
@@ -34659,7 +34659,7 @@
             "properties": {
                 "nombre": "CL Arenys de Munt (ICS)",
                 "direccion": "Av. del Remei, s/n",
-                "poblacion": " Arenys de Munt",
+                "poblacion": "Arenys de Munt",
                 "telefono": "",
                 "codigopostal": "08358"
             }
@@ -35135,7 +35135,7 @@
             "properties": {
                 "nombre": "CL Barri Sant Pere (ICS)",
                 "direccion": "C. Unió, 12",
-                "poblacion": "Òdena (Barri Sant Pere)",
+                "poblacion": "Òdena",
                 "telefono": "",
                 "codigopostal": "08711"
             }
@@ -35203,7 +35203,7 @@
             "properties": {
                 "nombre": "CL Cal Rosal (ICS)",
                 "direccion": "Carretera Berga, s/n",
-                "poblacion": "Cal Rosal",
+                "poblacion": "Olvan",
                 "telefono": "",
                 "codigopostal": "08611"
             }
@@ -35339,7 +35339,7 @@
             "properties": {
                 "nombre": "(CERRADO) CL Castellar de n'Hug (ICS)",
                 "direccion": "C. Nou, s/n",
-                "poblacion": "Castellar de N'Hug",
+                "poblacion": "Castellar de n'Hug",
                 "telefono": "",
                 "codigopostal": "08696"
             }
@@ -35407,7 +35407,7 @@
             "properties": {
                 "nombre": "CL Castellnou de Bages (ICS)",
                 "direccion": "Onze de setembre, s/n",
-                "poblacion": "Castellnou de Bages ",
+                "poblacion": "Castellnou de Bages",
                 "telefono": "",
                 "codigopostal": "08251"
             }
@@ -35611,7 +35611,7 @@
             "properties": {
                 "nombre": "CL Gósol (ICS)",
                 "direccion": "Pl. Major, 1",
-                "poblacion": "Gósol ",
+                "poblacion": "Gósol",
                 "telefono": "",
                 "codigopostal": "25716"
             }
@@ -35645,7 +35645,7 @@
             "properties": {
                 "nombre": "CL Hostalets de Pierola (ICS)",
                 "direccion": "C. Major, 2",
-                "poblacion": "Els Hostalets de Pierola",
+                "poblacion": "Hostalets de Pierola, els",
                 "telefono": "",
                 "codigopostal": "08781"
             }
@@ -35696,7 +35696,7 @@
             "properties": {
                 "nombre": "CL La Gleva (ICS)",
                 "direccion": "C. St. Josep, s/n",
-                "poblacion": "Les Masies de Voltregà",
+                "poblacion": "Masies de Voltregà, les",
                 "telefono": "",
                 "codigopostal": "08508"
             }
@@ -35747,7 +35747,7 @@
             "properties": {
                 "nombre": "CL La Nou (ICS)",
                 "direccion": "Pl. de la Vila , s/n",
-                "poblacion": "La Nou de Berguedà",
+                "poblacion": "Nou de Berguedà, la",
                 "telefono": "",
                 "codigopostal": "08698"
             }
@@ -35849,7 +35849,7 @@
             "properties": {
                 "nombre": "CL L'Esquirol (ICS)",
                 "direccion": "C. Nou, 1",
-                "poblacion": "L'Esquirol",
+                "poblacion": "Esquirol, l'",
                 "telefono": "",
                 "codigopostal": "08511"
             }
@@ -35866,7 +35866,7 @@
             "properties": {
                 "nombre": "CL L'Estany (ICS)",
                 "direccion": "Passeig del Prat, 1",
-                "poblacion": "L'Estany",
+                "poblacion": "Estany, l'",
                 "telefono": "",
                 "codigopostal": "08148"
             }
@@ -35883,7 +35883,7 @@
             "properties": {
                 "nombre": "CL de Maians (ICS)",
                 "direccion": "C/ Escoles s/n.",
-                "poblacion": "Castellfollit Del Boix",
+                "poblacion": "Castellfollit del Boix",
                 "telefono": "",
                 "codigopostal": "08255"
             }
@@ -35917,7 +35917,7 @@
             "properties": {
                 "nombre": "CL Massanés (ICS)",
                 "direccion": "C. Major, s/n, Dispensari Massanés",
-                "poblacion": "Massanés",
+                "poblacion": "Massanes",
                 "telefono": "",
                 "codigopostal": "08694"
             }
@@ -36937,7 +36937,7 @@
             "properties": {
                 "nombre": "CL Adrall (ICS)",
                 "direccion": "Carrer Lloc,4 - 2a planta",
-                "poblacion": "Adrall",
+                "poblacion": "Ribera d'Urgellet",
                 "telefono": "",
                 "codigopostal": "25797"
             }
@@ -36947,8 +36947,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.311441,
-                    41.973364
+                    1.508601,
+                    42.351774
                 ]
             },
             "properties": {
@@ -38076,7 +38076,7 @@
             "properties": {
                 "nombre": "CL Bítem (ICS)",
                 "direccion": "C. Hereus de Gassol, s/n",
-                "poblacion": "Bítem ",
+                "poblacion": "Tortosa",
                 "telefono": "",
                 "codigopostal": "43510"
             }
@@ -38416,7 +38416,7 @@
             "properties": {
                 "nombre": "CL La Galera (ICS)",
                 "direccion": "C. Carasol, s/n",
-                "poblacion": "La Galera",
+                "poblacion": "Galera, la",
                 "telefono": "",
                 "codigopostal": "43515"
             }
@@ -38501,7 +38501,7 @@
             "properties": {
                 "nombre": "CAP L'Ampolla (ICS)",
                 "direccion": "Plaça de Manel Ferré i Solé, s/n",
-                "poblacion": "L'Ampolla",
+                "poblacion": "Ampolla, l'",
                 "telefono": "",
                 "codigopostal": "43895"
             }
@@ -38790,7 +38790,7 @@
             "properties": {
                 "nombre": "Ajuntament de Les Masies de Voltregà",
                 "direccion": "Casa Forta el Despujol, carretera C-17, 70.400 ",
-                "poblacion": "Les Masies de Voltregà",
+                "poblacion": "Masies de Voltregà, les",
                 "telefono": "",
                 "codigopostal": "08508"
             }
@@ -39249,7 +39249,7 @@
             "properties": {
                 "nombre": "EMD Bitem",
                 "direccion": "Travessia Mossèn Jacint Verdaguer, 23",
-                "poblacion": "Bítem",
+                "poblacion": "Tortosa",
                 "telefono": "",
                 "codigopostal": "43510"
             }
@@ -39266,7 +39266,7 @@
             "properties": {
                 "nombre": "EMD Campredó",
                 "direccion": "C/ d'Escardó Valls, 10",
-                "poblacion": "Campredó",
+                "poblacion": "Tortosa",
                 "telefono": "",
                 "codigopostal": "43897"
             }
@@ -39419,7 +39419,7 @@
             "properties": {
                 "nombre": "Piscina Municipal (estiu: canvi horari)",
                 "direccion": "C-17z Zona esportiva el Despujol",
-                "poblacion": "Les Masies de Voltregà ",
+                "poblacion": "Masies de Voltregà, les",
                 "telefono": "938502702",
                 "codigopostal": "08508"
             }
@@ -39436,7 +39436,7 @@
             "properties": {
                 "nombre": "Biblioaccés ESPAI JOVE",
                 "direccion": "Ptge.Sant Josep, 8 - Vinyoles ",
-                "poblacion": "Les Masies de Voltregà",
+                "poblacion": "Masies de Voltregà, les",
                 "telefono": "935480540",
                 "codigopostal": "08508"
             }
@@ -40626,7 +40626,7 @@
             "properties": {
                 "nombre": "Consultori Vinaixa",
                 "direccion": "c/ nou s.n.",
-                "poblacion": "vinaixa",
+                "poblacion": "Vinaixa",
                 "telefono": "973175497",
                 "codigopostal": "25440"
             }
@@ -40677,7 +40677,7 @@
             "properties": {
                 "nombre": "EMD de Bítem",
                 "direccion": "Travessia Mossèn Jacint Verdaguer, 23",
-                "poblacion": "Bítem",
+                "poblacion": "Tortosa",
                 "telefono": "",
                 "codigopostal": "43510"
             }
@@ -40694,7 +40694,7 @@
             "properties": {
                 "nombre": "EMD de Campredó",
                 "direccion": "C/ d'Escardó Valls, 10",
-                "poblacion": "Campredó",
+                "poblacion": "Tortosa",
                 "telefono": "",
                 "codigopostal": "43897"
             }
@@ -40728,7 +40728,7 @@
             "properties": {
                 "nombre": "SIGE SPORT CASTELLAR",
                 "direccion": "C/PAÍS VALENCIÀ, 1",
-                "poblacion": "CASTELLAR DEL VALLÈS",
+                "poblacion": "Castellar del Vallès",
                 "telefono": "937142811",
                 "codigopostal": "08211"
             }
@@ -41544,7 +41544,7 @@
             "properties": {
                 "nombre": "Edifici Vetlladores",
                 "direccion": "C/ Mall 57 - 61",
-                "poblacion": "Sant Feliu de Guíxols ",
+                "poblacion": "Sant Feliu de Guíxols",
                 "telefono": "",
                 "codigopostal": "17220"
             }
@@ -41561,7 +41561,7 @@
             "properties": {
                 "nombre": "Casa Albertí (oficines Síndic de Greuges)",
                 "direccion": "C/ Penitència 10",
-                "poblacion": "Sant Feliu de Guíxols ",
+                "poblacion": "Sant Feliu de Guíxols",
                 "telefono": "972327019",
                 "codigopostal": "17220"
             }
@@ -41578,7 +41578,7 @@
             "properties": {
                 "nombre": "Can Palet (oficina Educació)",
                 "direccion": "C/ Pécher 7 -19",
-                "poblacion": "Sant Feliu de Guíxols ",
+                "poblacion": "Sant Feliu de Guíxols",
                 "telefono": "972327000(ext4901)",
                 "codigopostal": "17220"
             }
@@ -41595,7 +41595,7 @@
             "properties": {
                 "nombre": "Mercat cobert Municipal (estiu: obert també dilluns)",
                 "direccion": "Plaça del Mercat 5",
-                "poblacion": "Sant Feliu de Guíxols ",
+                "poblacion": "Sant Feliu de Guíxols",
                 "telefono": "972327033",
                 "codigopostal": "17220"
             }
@@ -41612,7 +41612,7 @@
             "properties": {
                 "nombre": "Monestir (inclou Oficina de Turisme)",
                 "direccion": "Plaça del Monestir s/n",
-                "poblacion": "Sant Feliu de Guíxols ",
+                "poblacion": "Sant Feliu de Guíxols",
                 "telefono": "",
                 "codigopostal": "17220"
             }
@@ -41765,7 +41765,7 @@
             "properties": {
                 "nombre": "Camp Futbol Vilartagues (obert setembre a maig)",
                 "direccion": "Prolongació Av Catalunya i C/ Canigó s/n",
-                "poblacion": " Sant Feliu de Guíxols",
+                "poblacion": "Sant Feliu de Guíxols",
                 "telefono": "972820187",
                 "codigopostal": "17220"
             }
@@ -41918,7 +41918,7 @@
             "properties": {
                 "nombre": "FARMÀCIA DE MAR",
                 "direccion": "RDA VILASSAR, 2 ",
-                "poblacion": "VILASSAR DE MAR ",
+                "poblacion": "Vilassar de Mar",
                 "telefono": "937500569",
                 "codigopostal": "08340"
             }
@@ -42020,7 +42020,7 @@
             "properties": {
                 "nombre": "Ajuntament de Monistrol de Calders ",
                 "direccion": "Carrer de la Vinya, 9",
-                "poblacion": "Monistrol de Calders ",
+                "poblacion": "Monistrol de Calders",
                 "telefono": "938399000",
                 "codigopostal": "08275"
             }
@@ -42054,7 +42054,7 @@
             "properties": {
                 "nombre": "CL La Torre de l'Espanyol (ICS)",
                 "direccion": "Plaça de La Pau, 5",
-                "poblacion": "La Torre de l'Espanyol",
+                "poblacion": "Torre de l'Espanyol, la",
                 "telefono": "977405375",
                 "codigopostal": "43792"
             }
@@ -42190,7 +42190,7 @@
             "properties": {
                 "nombre": "CAFETERIA CEYLAN",
                 "direccion": "Avinguda Generalitat, 26",
-                "poblacion": "TORTOSA",
+                "poblacion": "Tortosa",
                 "telefono": "977445729",
                 "codigopostal": "43500"
             }
@@ -42615,7 +42615,7 @@
             "properties": {
                 "nombre": "COMERCIAL D´AUTOMÒBILS FARRÉS, S.L. ",
                 "direccion": "CRTA. NOVA 139 I  C/Anselm Clave 46",
-                "poblacion": "LA GARRIGA ",
+                "poblacion": "Garriga, la",
                 "telefono": "938718015",
                 "codigopostal": "08530"
             }
@@ -42870,7 +42870,7 @@
             "properties": {
                 "nombre": "Grup Dental Costa Brava",
                 "direccion": "Carrer d'Almeria, 88 baixos",
-                "poblacion": "Sant Feliu de Guíxols ",
+                "poblacion": "Sant Feliu de Guíxols",
                 "telefono": "972321476",
                 "codigopostal": "17220"
             }
@@ -43771,7 +43771,7 @@
             "properties": {
                 "nombre": "Ajuntament de la Palma de Cervelló",
                 "direccion": "c/ Sant Cristòfol, s/n.",
-                "poblacion": "La Palma de Cervelló",
+                "poblacion": "Palma de Cervelló, la",
                 "telefono": "936720202",
                 "codigopostal": "08756"
             }
@@ -43805,7 +43805,7 @@
             "properties": {
                 "nombre": "SARA BUREU",
                 "direccion": "C/PRIMER DE MAIG NUMERO 6 BAIXOS",
-                "poblacion": "MANRESA",
+                "poblacion": "Manresa",
                 "telefono": "935216989",
                 "codigopostal": "08240"
             }
@@ -43873,7 +43873,7 @@
             "properties": {
                 "nombre": "VIATGES ALA DELTA",
                 "direccion": "JACINT VERDAGUER 28",
-                "poblacion": "VIC",
+                "poblacion": "Vic",
                 "telefono": "938833585",
                 "codigopostal": "08500"
             }
@@ -43890,7 +43890,7 @@
             "properties": {
                 "nombre": "Idees",
                 "direccion": "Crta.de Roda poligono industrial Malloles s/n",
-                "poblacion": "vic",
+                "poblacion": "Vic",
                 "telefono": "938890307",
                 "codigopostal": "08500"
             }
@@ -43907,7 +43907,7 @@
             "properties": {
                 "nombre": "Gargamel Joguines",
                 "direccion": "Rambla Passeig, 35",
-                "poblacion": "vic",
+                "poblacion": "Vic",
                 "telefono": "930115132",
                 "codigopostal": "08500"
             }
@@ -43941,7 +43941,7 @@
             "properties": {
                 "nombre": "MOBILECENTER MAN S.L",
                 "direccion": "C/ EL PORTAL DE LA RAMBLA, 8",
-                "poblacion": "VIC",
+                "poblacion": "Vic",
                 "telefono": "935991582",
                 "codigopostal": "08500"
             }
@@ -43958,7 +43958,7 @@
             "properties": {
                 "nombre": "MOBILECENTER MAN S.L",
                 "direccion": "C/ ÀNGEL GUIMERÀ, 19",
-                "poblacion": "MANRESA",
+                "poblacion": "Manresa",
                 "telefono": "938722470",
                 "codigopostal": "08240"
             }
@@ -43975,7 +43975,7 @@
             "properties": {
                 "nombre": "MOBILECENTER MAN S.L",
                 "direccion": "PL. DE LES OLLES, 13",
-                "poblacion": "GRANOLLERS",
+                "poblacion": "Granollers",
                 "telefono": "937684603",
                 "codigopostal": "08400"
             }
@@ -44026,7 +44026,7 @@
             "properties": {
                 "nombre": "SANTA GLORIA",
                 "direccion": "CARRER PORTAL DE LA RAMBLA, 5",
-                "poblacion": "VIC",
+                "poblacion": "Vic",
                 "telefono": "938881552",
                 "codigopostal": "08500"
             }
@@ -44043,7 +44043,7 @@
             "properties": {
                 "nombre": "VADESALUD",
                 "direccion": "C/ Tarragona, 2 (cantonada N-II)",
-                "poblacion": "Montgat ",
+                "poblacion": "Montgat",
                 "telefono": "934692396",
                 "codigopostal": "08390"
             }
@@ -44060,7 +44060,7 @@
             "properties": {
                 "nombre": "Terranova 18",
                 "direccion": "Josep V. Foix 10",
-                "poblacion": "Tarragona ",
+                "poblacion": "Tarragona",
                 "telefono": "669591920",
                 "codigopostal": "43007"
             }
@@ -44094,7 +44094,7 @@
             "properties": {
                 "nombre": "Piscines municipals de l'Hospitalet",
                 "direccion": "C/ Rosalia de Castro, 39",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08901"
             }
@@ -44111,7 +44111,7 @@
             "properties": {
                 "nombre": "Pavelló municipal de l'Hospitalet",
                 "direccion": "C/ Sant Pius X, 7",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08901"
             }
@@ -44128,7 +44128,7 @@
             "properties": {
                 "nombre": "Poliesportiu municipal del centre",
                 "direccion": "C/ Riera de l'escorxador, 15",
-                "poblacion": "l'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08901"
             }
@@ -44145,7 +44145,7 @@
             "properties": {
                 "nombre": "Poliesportiu Santfeliu",
                 "direccion": "C/ Estronci, 42",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08906"
             }
@@ -44162,7 +44162,7 @@
             "properties": {
                 "nombre": "Regiduria del Districte I",
                 "direccion": "Rambla Just Oliveras, 23",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08901"
             }
@@ -44179,7 +44179,7 @@
             "properties": {
                 "nombre": "Centre Cultural Sant Josep",
                 "direccion": "Av. Isabel la Catòlica, 32",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08901"
             }
@@ -44196,7 +44196,7 @@
             "properties": {
                 "nombre": "Regidoria Districte I - Santfeliu",
                 "direccion": "C/ Emigrant, 27",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08906"
             }
@@ -44213,7 +44213,7 @@
             "properties": {
                 "nombre": "Benestar Social",
                 "direccion": "C/ Tecla Sala, 11",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08901"
             }
@@ -44230,7 +44230,7 @@
             "properties": {
                 "nombre": "Biblioteca Can Sumarro",
                 "direccion": "C/ Riera de l'Escorxador, 2",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08901"
             }
@@ -44247,7 +44247,7 @@
             "properties": {
                 "nombre": "Centre Cultural Barradas",
                 "direccion": "Rambla Just Oliveras, 56",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08901"
             }
@@ -44264,7 +44264,7 @@
             "properties": {
                 "nombre": "Ca n'Arús",
                 "direccion": "Rambla Marina, 417",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08901"
             }
@@ -44281,7 +44281,7 @@
             "properties": {
                 "nombre": "Cemfo",
                 "direccion": "Carretera del Mig, 85",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08907"
             }
@@ -44298,7 +44298,7 @@
             "properties": {
                 "nombre": "La Farga",
                 "direccion": "C/ Girona, 10",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08901"
             }
@@ -44315,7 +44315,7 @@
             "properties": {
                 "nombre": "Mercat del Centre",
                 "direccion": "C/ Rossend Arús, 6-B",
-                "poblacion": "L'Hospitalt de Llobregat",
+                "poblacion": "Hospitalet de Llobregat. L'",
                 "telefono": "",
                 "codigopostal": "08901"
             }
@@ -44332,7 +44332,7 @@
             "properties": {
                 "nombre": "Regidoria d'Esports i Joventut",
                 "direccion": "C/ Digoine, 29",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08901"
             }
@@ -44349,7 +44349,7 @@
             "properties": {
                 "nombre": "Regidoria de Benestar Social",
                 "direccion": "C/ Santiago de Compostel·la, 8",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08901"
             }
@@ -44366,7 +44366,7 @@
             "properties": {
                 "nombre": "Regidoria d'Urbanisme, Espai públic i Habitatge",
                 "direccion": "C/ Migdia, 5",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08901"
             }
@@ -44383,7 +44383,7 @@
             "properties": {
                 "nombre": "Regidoria de Seguretat, Convivència i Civisme",
                 "direccion": "C/ Canigó, 10",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08901"
             }
@@ -44400,7 +44400,7 @@
             "properties": {
                 "nombre": "OMIC",
                 "direccion": "C/ Riera de la Creu, 32",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08901"
             }
@@ -44417,7 +44417,7 @@
             "properties": {
                 "nombre": "Ajuntament (Edifici B) Serveis Centrals (ordenances)",
                 "direccion": "C/ Josep Prats, 2",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08901"
             }
@@ -44434,7 +44434,7 @@
             "properties": {
                 "nombre": "Biblioteca i Centre Cultural Tecla Sala",
                 "direccion": "Av. Josep Tarradellas i Joan, 44",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08901"
             }
@@ -44451,7 +44451,7 @@
             "properties": {
                 "nombre": "Edifici de l'Arxiu Central, Brigades i servei de Salut",
                 "direccion": "C/ Cobalt, 57",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08907"
             }
@@ -44468,7 +44468,7 @@
             "properties": {
                 "nombre": "Poliesportiu Fum d'Estampa",
                 "direccion": "C/ Rosich, 12",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08904"
             }
@@ -44485,7 +44485,7 @@
             "properties": {
                 "nombre": "Regidoria Districte II",
                 "direccion": "C/ Mare de Déu dels Desemparats, 87",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08904"
             }
@@ -44502,7 +44502,7 @@
             "properties": {
                 "nombre": "Centre Cultural Collblanc-La Torrassa",
                 "direccion": "C/ Mare de Déu dels Desemparats, 87",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08904"
             }
@@ -44519,7 +44519,7 @@
             "properties": {
                 "nombre": "Biblioteca Josep Janés",
                 "direccion": "C/ Dr. Martí i Julià, 33",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08903"
             }
@@ -44536,7 +44536,7 @@
             "properties": {
                 "nombre": "Casa dels Cargols",
                 "direccion": "C/ Montseny, 90",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08904"
             }
@@ -44553,7 +44553,7 @@
             "properties": {
                 "nombre": "Serveis Socials",
                 "direccion": "Ronda Torrassa, 105",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08903"
             }
@@ -44570,7 +44570,7 @@
             "properties": {
                 "nombre": "Teatre Joventut",
                 "direccion": "C/ Joventut, 2",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08904"
             }
@@ -44587,7 +44587,7 @@
             "properties": {
                 "nombre": "Torre Barrina",
                 "direccion": "Carretera de Collblanc, 67",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08904"
             }
@@ -44604,7 +44604,7 @@
             "properties": {
                 "nombre": "Mercat Collblanc",
                 "direccion": "C/ Vaquer, 2",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08903"
             }
@@ -44621,7 +44621,7 @@
             "properties": {
                 "nombre": "Oficina d'Habitatges Vidrieres Llobregat",
                 "direccion": "C/ Llobregat, 116",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08904"
             }
@@ -44638,7 +44638,7 @@
             "properties": {
                 "nombre": "Can Colom, Centre d'atenció a la Dona - CAID",
                 "direccion": "C/ Aprestadora, 2",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08902"
             }
@@ -44655,7 +44655,7 @@
             "properties": {
                 "nombre": "Centre Cultural Santa Eulàlia",
                 "direccion": "C/ Santa Eulàlia, 60",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08902"
             }
@@ -44672,7 +44672,7 @@
             "properties": {
                 "nombre": "Districte III - Santa Eulàlia",
                 "direccion": "Av. Metro, 18",
-                "poblacion": "L´Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08902"
             }
@@ -44689,7 +44689,7 @@
             "properties": {
                 "nombre": "Mercat Santa Eulàlia",
                 "direccion": "C/ Josep Anselm Clavé, 35",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08902"
             }
@@ -44706,7 +44706,7 @@
             "properties": {
                 "nombre": "Biblioteca Plaça Europa",
                 "direccion": "C/ Amadeu Torner, 57",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08902"
             }
@@ -44723,7 +44723,7 @@
             "properties": {
                 "nombre": "Poliesportiu Municipal Santa Eulàlia",
                 "direccion": "C/ Jacint Verdaguer, 15",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08902"
             }
@@ -44740,7 +44740,7 @@
             "properties": {
                 "nombre": "Regidoria del Districte IV-V",
                 "direccion": "C/ Belchite, 5",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08906"
             }
@@ -44757,7 +44757,7 @@
             "properties": {
                 "nombre": "Biblioteca i Centre Cultural La Bòbila",
                 "direccion": "Plaça Bòbila, 1",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08906"
             }
@@ -44774,7 +44774,7 @@
             "properties": {
                 "nombre": "Biblioteca La Florida",
                 "direccion": "Av. Masnou, 40",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08905"
             }
@@ -44791,7 +44791,7 @@
             "properties": {
                 "nombre": "Centre Municipal La Florida - Ana Díaz Rico",
                 "direccion": "Plaça Blocs de la Florida, 15-B",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08905"
             }
@@ -44808,7 +44808,7 @@
             "properties": {
                 "nombre": "Mercat La Florida",
                 "direccion": "C/ Primavera, 71",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08905"
             }
@@ -44825,7 +44825,7 @@
             "properties": {
                 "nombre": "Poliesportiu Municipal Les Planes",
                 "direccion": "C/ Sant Rafael, s/n",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08905"
             }
@@ -44842,7 +44842,7 @@
             "properties": {
                 "nombre": "Complex Esportiu L'Hospitalet Nord",
                 "direccion": "Av. Manuel Hazaña, 21-23",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08906"
             }
@@ -44859,7 +44859,7 @@
             "properties": {
                 "nombre": "Regidoria, Biblioteca i Centre Cultural",
                 "direccion": "Plaça de la Cultura, 1",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08907"
             }
@@ -44876,7 +44876,7 @@
             "properties": {
                 "nombre": "Escola de Música, Dansa i Teatre",
                 "direccion": "Av. Vilanova, 28",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08908"
             }
@@ -44893,7 +44893,7 @@
             "properties": {
                 "nombre": "Gornal Activa",
                 "direccion": "C/ Can Tries, 20",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08902"
             }
@@ -44910,7 +44910,7 @@
             "properties": {
                 "nombre": "Mercat Bellvitge",
                 "direccion": "Rambla Marina, 220",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08907"
             }
@@ -44927,7 +44927,7 @@
             "properties": {
                 "nombre": "Poliesportiu Municipal de Bellvitge, sergio Manzano",
                 "direccion": "Av. Mare de Déu de Bellvitge, 7",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08907"
             }
@@ -44944,7 +44944,7 @@
             "properties": {
                 "nombre": "PM Gornal",
                 "direccion": "C/ Can Tries, 28",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08902"
             }
@@ -45029,7 +45029,7 @@
             "properties": {
                 "nombre": "Unitat MII - Hospital Universitari de Bellvitge",
                 "direccion": "Av. Feixa Llarga s/n",
-                "poblacion": "L’Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08907"
             }
@@ -45080,7 +45080,7 @@
             "properties": {
                 "nombre": "HOPITAL SANT JOAN DE DÉU",
                 "direccion": "C/DR.JOAN SOLER, 1-3",
-                "poblacion": "MANRESA",
+                "poblacion": "Manresa",
                 "telefono": "938742112",
                 "codigopostal": "08243"
             }
@@ -45097,7 +45097,7 @@
             "properties": {
                 "nombre": "CENTRE HOSPITALARI",
                 "direccion": "BASES DE MANRESA, 6-8",
-                "poblacion": "MANRESA",
+                "poblacion": "Manresa",
                 "telefono": "938732550",
                 "codigopostal": "08242"
             }
@@ -45114,7 +45114,7 @@
             "properties": {
                 "nombre": "CENTRE DE DISMINUÏTS FISICS DEL BAGES",
                 "direccion": "C/ CAPUTXINS, 28",
-                "poblacion": "MANRESA",
+                "poblacion": "Manresa",
                 "telefono": "938744490",
                 "codigopostal": "08241"
             }
@@ -45131,7 +45131,7 @@
             "properties": {
                 "nombre": "CLÍNICA SANT JOSEP",
                 "direccion": "C/ CAPUTXINS, 16",
-                "poblacion": "MANRESA",
+                "poblacion": "Manresa",
                 "telefono": "938744050",
                 "codigopostal": "08241"
             }
@@ -45148,7 +45148,7 @@
             "properties": {
                 "nombre": "CENTRE DE MEDICINA DE L'ESPORT",
                 "direccion": "C/ CAPUTXINS, 16",
-                "poblacion": "MANRESA",
+                "poblacion": "Manresa",
                 "telefono": "938724931",
                 "codigopostal": "08241"
             }
@@ -45165,7 +45165,7 @@
             "properties": {
                 "nombre": "SALUT MENTAL",
                 "direccion": "C/ DR. LLATJÓS, S/N",
-                "poblacion": "MANRESA",
+                "poblacion": "Manresa",
                 "telefono": "938742112",
                 "codigopostal": "08243"
             }
@@ -45182,7 +45182,7 @@
             "properties": {
                 "nombre": "ABS BASES DE MANRESA",
                 "direccion": "C/ CREU GUIXERA, 51",
-                "poblacion": "MANRESA",
+                "poblacion": "Manresa",
                 "telefono": "938772222",
                 "codigopostal": "08243"
             }
@@ -45199,7 +45199,7 @@
             "properties": {
                 "nombre": "ABS BARRI ANTIC",
                 "direccion": "C/ REMEI DE DALT, 8-14",
-                "poblacion": "MANRESA",
+                "poblacion": "Manresa",
                 "telefono": "938744100",
                 "codigopostal": "08241"
             }
@@ -45233,7 +45233,7 @@
             "properties": {
                 "nombre": "SABATERIA SELVA",
                 "direccion": "CARRER MANLLEU, 49",
-                "poblacion": "VIC",
+                "poblacion": "Vic",
                 "telefono": "938868579",
                 "codigopostal": "08500"
             }
@@ -45284,7 +45284,7 @@
             "properties": {
                 "nombre": "HOSPITAL DE VILADECANS",
                 "direccion": "AVINGUDA DE GAVÀ, 38",
-                "poblacion": "VILADECANS",
+                "poblacion": "Viladecans",
                 "telefono": "936319514",
                 "codigopostal": "08840"
             }
@@ -45471,7 +45471,7 @@
             "properties": {
                 "nombre": "CICLOS MORENITO SL",
                 "direccion": "CARRETERA DE MONTCADA 398",
-                "poblacion": "TERRASSA",
+                "poblacion": "Terrassa",
                 "telefono": "937316403",
                 "codigopostal": "08223"
             }
@@ -45692,7 +45692,7 @@
             "properties": {
                 "nombre": "Edifici municipal administratiu",
                 "direccion": "Pg. del Pintor Sert, 2-4",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "",
                 "codigopostal": "08120"
             }
@@ -45709,7 +45709,7 @@
             "properties": {
                 "nombre": "Mercat Municipal",
                 "direccion": " C/ del Mercat, 2",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "",
                 "codigopostal": "08120"
             }
@@ -45726,7 +45726,7 @@
             "properties": {
                 "nombre": "Can Pelegrí",
                 "direccion": "C/ de Jaume I, 7-9",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "",
                 "codigopostal": "08120"
             }
@@ -45743,7 +45743,7 @@
             "properties": {
                 "nombre": "Centre Cultural",
                 "direccion": "Pl. de l'Alcalde Sisó Pons, 1",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "",
                 "codigopostal": "08120"
             }
@@ -45760,7 +45760,7 @@
             "properties": {
                 "nombre": "Casal d'Avis",
                 "direccion": "Av. del Primer de Maig, 34-36",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "",
                 "codigopostal": "08120"
             }
@@ -45794,7 +45794,7 @@
             "properties": {
                 "nombre": "Pavelló Antonio Garcia Robledo",
                 "direccion": "C/ de la Riera Seca, s/n",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "",
                 "codigopostal": "08120"
             }
@@ -45811,7 +45811,7 @@
             "properties": {
                 "nombre": "Camp Municipal de Futbol Joan Gelabert",
                 "direccion": "Pg. del Pintor Sert, s/n",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "",
                 "codigopostal": "08120"
             }
@@ -46117,7 +46117,7 @@
             "properties": {
                 "nombre": "CARAVANES DEL BERGUEDA-GUIPU,S.A.",
                 "direccion": "E-9/C-16 KM 98  BERGA",
-                "poblacion": "berga",
+                "poblacion": "Berga",
                 "telefono": "938212114",
                 "codigopostal": "08600"
             }
@@ -46134,7 +46134,7 @@
             "properties": {
                 "nombre": "Associació Comerç de Mar de Vilanova i la Geltrú",
                 "direccion": "Carrer de la Llibertat, 121 ",
-                "poblacion": "Vilanova i la Geltrú ",
+                "poblacion": "Vilanova i la Geltrú",
                 "telefono": "938151818",
                 "codigopostal": "08800"
             }
@@ -46185,7 +46185,7 @@
             "properties": {
                 "nombre": "Bar la Flor",
                 "direccion": "Av. Once de Septiembre, 58",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "935601046",
                 "codigopostal": "08120"
             }
@@ -46202,7 +46202,7 @@
             "properties": {
                 "nombre": "CAFE PA",
                 "direccion": "Av. 11 de Setembre, 63, local B",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "636036869",
                 "codigopostal": "08120"
             }
@@ -46219,7 +46219,7 @@
             "properties": {
                 "nombre": "MacMobles Florimueble",
                 "direccion": "Av. 11 de Setembre, 82",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "935604761",
                 "codigopostal": "08120"
             }
@@ -46236,7 +46236,7 @@
             "properties": {
                 "nombre": "La Botiga",
                 "direccion": "Pza. Concordia, 4",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "654560010",
                 "codigopostal": "08120"
             }
@@ -46253,7 +46253,7 @@
             "properties": {
                 "nombre": "Mecatxis",
                 "direccion": "Plaça Pere IV, 4, local 4",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "610914660",
                 "codigopostal": "08120"
             }
@@ -46270,7 +46270,7 @@
             "properties": {
                 "nombre": "Pastisseria Dolç Estil",
                 "direccion": "C/ Brutau, 10",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "935605052",
                 "codigopostal": "08120"
             }
@@ -46287,7 +46287,7 @@
             "properties": {
                 "nombre": "Bar Tapeo Sam",
                 "direccion": "Av. 11 de Setembre, 87",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "696389036",
                 "codigopostal": "08120"
             }
@@ -46304,7 +46304,7 @@
             "properties": {
                 "nombre": "La Xicra",
                 "direccion": "C/ del Mercat, 8",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "650087216",
                 "codigopostal": "08120"
             }
@@ -46321,7 +46321,7 @@
             "properties": {
                 "nombre": "Cafeteria Ca la nena",
                 "direccion": "C/ Sant Miquel, 9",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "680946806",
                 "codigopostal": "08120"
             }
@@ -46338,7 +46338,7 @@
             "properties": {
                 "nombre": "La Troupe Restaurant",
                 "direccion": "Passeig Joan Miró, 1",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "935744952",
                 "codigopostal": "08120"
             }
@@ -46355,7 +46355,7 @@
             "properties": {
                 "nombre": "Bar Restaurant Isidre",
                 "direccion": "Passeig Pintor Sert, 23",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "935549049",
                 "codigopostal": "08120"
             }
@@ -46372,7 +46372,7 @@
             "properties": {
                 "nombre": "El Raconet",
                 "direccion": "Passeig Pintor Sert, 15",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "648826803",
                 "codigopostal": "08120"
             }
@@ -46389,7 +46389,7 @@
             "properties": {
                 "nombre": "Cerveceria Don Quijote",
                 "direccion": "C/ Pintor Fortuny, 2",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "935602382",
                 "codigopostal": "08120"
             }
@@ -46406,7 +46406,7 @@
             "properties": {
                 "nombre": "Fleca la Florida",
                 "direccion": "C/ Florida, 22 /Av. del Turó ",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "685800067",
                 "codigopostal": "08120"
             }
@@ -46423,7 +46423,7 @@
             "properties": {
                 "nombre": "LA PELU",
                 "direccion": "Passeig Joan Miró, 1",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "935744099",
                 "codigopostal": "08120"
             }
@@ -46440,7 +46440,7 @@
             "properties": {
                 "nombre": "Frankfurt Menphis",
                 "direccion": "Plaça de la Concòrdia, 2-7",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "935742748",
                 "codigopostal": "08120"
             }
@@ -46457,7 +46457,7 @@
             "properties": {
                 "nombre": "La Cafeterita",
                 "direccion": "C/ Cadaqués, 6",
-                "poblacion": "La Llagosta",
+                "poblacion": "Llagosta, la",
                 "telefono": "935740897",
                 "codigopostal": "08120"
             }
@@ -46899,7 +46899,7 @@
             "properties": {
                 "nombre": "El Pericó (Servei d'Equipaments Municipals i Espais Públics)",
                 "direccion": "C. de Comadaran, 1",
-                "poblacion": "Matarò",
+                "poblacion": "Mataró",
                 "telefono": "",
                 "codigopostal": "08304"
             }
@@ -47273,7 +47273,7 @@
             "properties": {
                 "nombre": "ÒPTICA LLIÇÀ",
                 "direccion": "C/ANSELM CLAVE 64",
-                "poblacion": "LLIÇÀ D'AMUNT",
+                "poblacion": "Lliçà d'Amunt",
                 "telefono": "667481604",
                 "codigopostal": "08186"
             }
@@ -48293,7 +48293,7 @@
             "properties": {
                 "nombre": "Escola Àngela Bransuela",
                 "direccion": "Ronda de Sant Oleguer 76",
-                "poblacion": "Mataró ",
+                "poblacion": "Mataró",
                 "telefono": "",
                 "codigopostal": "08304"
             }
@@ -48582,7 +48582,7 @@
             "properties": {
                 "nombre": "Centre Social Associació Serenata Sant Ramon",
                 "direccion": "C. de Pascual Madoz 16",
-                "poblacion": "Mataro",
+                "poblacion": "Mataró",
                 "telefono": "",
                 "codigopostal": "08301"
             }
@@ -48786,7 +48786,7 @@
             "properties": {
                 "nombre": "Servei de l'Aparell Digestiu - Hospital Sant Joan de Déu de Manresa (Fundació Althaia)",
                 "direccion": "C/ Dr. Joan Soler, 1-3,",
-                "poblacion": "Manresa ",
+                "poblacion": "Manresa",
                 "telefono": "938759300",
                 "codigopostal": "08243"
             }
@@ -49755,7 +49755,7 @@
             "properties": {
                 "nombre": "Institut Català d'Oncologia",
                 "direccion": "Avinguda Granvia de l'Hospitalet 199-203",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "932607217",
                 "codigopostal": "08908"
             }
@@ -49789,7 +49789,7 @@
             "properties": {
                 "nombre": "Ajuntament del Masnou ",
                 "direccion": "Pg. Prat de la Riba, 1",
-                "poblacion": "El Masnou",
+                "poblacion": "Masnou, el",
                 "telefono": "935571700",
                 "codigopostal": "08320"
             }
@@ -49806,7 +49806,7 @@
             "properties": {
                 "nombre": "L'ARTIGA",
                 "direccion": "PL. SOLER I CARBONELL, 35",
-                "poblacion": "VILANOVA I LA GELTRÚ",
+                "poblacion": "Vilanova i la Geltrú",
                 "telefono": "931739948",
                 "codigopostal": "08800"
             }
@@ -49840,7 +49840,7 @@
             "properties": {
                 "nombre": "Ajuntament de Vilassar de Mar ",
                 "direccion": "Plaça de l'Ajuntament, 6 ",
-                "poblacion": "Vilassar de Mar ",
+                "poblacion": "Vilassar de Mar",
                 "telefono": "937542400",
                 "codigopostal": "08340"
             }
@@ -49874,7 +49874,7 @@
             "properties": {
                 "nombre": "Ajuntament d'Arenys de Munt ",
                 "direccion": "Rambla Francesc Macià, 59",
-                "poblacion": "Arenys de Munt ",
+                "poblacion": "Arenys de Munt",
                 "telefono": "937937980",
                 "codigopostal": "08358"
             }
@@ -50078,7 +50078,7 @@
             "properties": {
                 "nombre": "Ajuntament de Vilassar de Mar ",
                 "direccion": "Plaça de l'Ajuntament, 6",
-                "poblacion": "Vilassar de Mar ",
+                "poblacion": "Vilassar de Mar",
                 "telefono": "937542400",
                 "codigopostal": "08340"
             }
@@ -50129,7 +50129,7 @@
             "properties": {
                 "nombre": "DELTAMEDIC LA RÀPITA",
                 "direccion": "Plaça Lluís Companys,16",
-                "poblacion": "La Ràpita ",
+                "poblacion": "Ràpita, la",
                 "telefono": "977741958",
                 "codigopostal": "43540"
             }
@@ -50384,7 +50384,7 @@
             "properties": {
                 "nombre": "Arxiu Nacional de Catalunya",
                 "direccion": "C/ de Jaume I, 33-51",
-                "poblacion": "Sant Cugat del Vallès ",
+                "poblacion": "Sant Cugat del Vallès",
                 "telefono": "935897260",
                 "codigopostal": "08195"
             }
@@ -50452,7 +50452,7 @@
             "properties": {
                 "nombre": "VISAGE",
                 "direccion": "Avda. comarques Catalanes, 59 baixos",
-                "poblacion": "MÓRA D'EBRE",
+                "poblacion": "Móra d'Ebre",
                 "telefono": "977414385",
                 "codigopostal": "43740"
             }
@@ -50469,7 +50469,7 @@
             "properties": {
                 "nombre": "ELS RETALLS",
                 "direccion": "Ps. Sant Antoni, 7",
-                "poblacion": "MÓRA D'EBRE",
+                "poblacion": "Móra d'Ebre",
                 "telefono": "977400811",
                 "codigopostal": "43740"
             }
@@ -50486,7 +50486,7 @@
             "properties": {
                 "nombre": "DIET NATURE",
                 "direccion": "C. Antoni Asens, 25",
-                "poblacion": "MÓRA D'EBRE",
+                "poblacion": "Móra d'Ebre",
                 "telefono": "977402795",
                 "codigopostal": "43740"
             }
@@ -50503,7 +50503,7 @@
             "properties": {
                 "nombre": "MOBLES MOD'EB",
                 "direccion": "Avda. Comarques Catalanes, 35",
-                "poblacion": "MÓRA D'EBRE",
+                "poblacion": "Móra d'Ebre",
                 "telefono": "977400258",
                 "codigopostal": "43740"
             }
@@ -50520,7 +50520,7 @@
             "properties": {
                 "nombre": "TEIXITS DESCARREGA",
                 "direccion": "C. Dr. Peris, 28",
-                "poblacion": "MÓRA D'EBRE",
+                "poblacion": "Móra d'Ebre",
                 "telefono": "977400222",
                 "codigopostal": "43740"
             }
@@ -50639,7 +50639,7 @@
             "properties": {
                 "nombre": "Ajuntament de Besalú (juliol i agost: dissabte tancat)",
                 "direccion": "Plaça de la Llibertat, 1 ",
-                "poblacion": "Besalú ",
+                "poblacion": "Besalú",
                 "telefono": "",
                 "codigopostal": "17850"
             }
@@ -50877,7 +50877,7 @@
             "properties": {
                 "nombre": "VALÈRIA ",
                 "direccion": "C/ Onze de setembre,19",
-                "poblacion": "BESALÚ",
+                "poblacion": "Besalú",
                 "telefono": "972590155",
                 "codigopostal": "17850"
             }
@@ -51013,7 +51013,7 @@
             "properties": {
                 "nombre": "CENTRE OCUPACIONAL CAN TARGA",
                 "direccion": "c/ Camil Fabra, 15",
-                "poblacion": "El Masnou",
+                "poblacion": "Masnou, el",
                 "telefono": "935400277",
                 "codigopostal": "08320"
             }
@@ -51115,7 +51115,7 @@
             "properties": {
                 "nombre": "Ajuntament del Masnou (Casa de la Vila)",
                 "direccion": "Pg. Prat de la Riba, 1",
-                "poblacion": "El Masnou",
+                "poblacion": "Masnou, el",
                 "telefono": "935571800",
                 "codigopostal": "08320"
             }
@@ -51132,7 +51132,7 @@
             "properties": {
                 "nombre": "Can Malet",
                 "direccion": "C/ de Sant Felip, 2, 2on",
-                "poblacion": "El Masnou",
+                "poblacion": "Masnou, el",
                 "telefono": "",
                 "codigopostal": "08320"
             }
@@ -51149,7 +51149,7 @@
             "properties": {
                 "nombre": "Edifici Centre (Mercat Municipal)",
                 "direccion": "C/ d'Itàlia, 50",
-                "poblacion": "El Masnou",
+                "poblacion": "Masnou, el",
                 "telefono": "",
                 "codigopostal": "08320"
             }
@@ -51166,7 +51166,7 @@
             "properties": {
                 "nombre": "Equipament Cívic ",
                 "direccion": "C/ de la Segarra, 12",
-                "poblacion": "El Masnou",
+                "poblacion": "Masnou, el",
                 "telefono": "",
                 "codigopostal": "08320"
             }
@@ -51183,7 +51183,7 @@
             "properties": {
                 "nombre": "Oficina d'Atenció Ciutadana",
                 "direccion": "C/ Roger de Flor, 23",
-                "poblacion": "El Masnou",
+                "poblacion": "Masnou, el",
                 "telefono": "",
                 "codigopostal": "08320"
             }
@@ -51200,7 +51200,7 @@
             "properties": {
                 "nombre": "Poliesportiu Municipal",
                 "direccion": "C/ de la Ciutat de Sant Sebastià, 14",
-                "poblacion": "El Masnou",
+                "poblacion": "Masnou, el",
                 "telefono": "",
                 "codigopostal": "08320"
             }
@@ -51217,7 +51217,7 @@
             "properties": {
                 "nombre": "Biblioteca municipal Joan Corominas",
                 "direccion": "C/ Josep Pujadas Truch, 1A",
-                "poblacion": "El Masnou",
+                "poblacion": "Masnou, el",
                 "telefono": "",
                 "codigopostal": "08320"
             }
@@ -51285,7 +51285,7 @@
             "properties": {
                 "nombre": "Curves Reus Paseo Prim",
                 "direccion": "Paseo Prim, 21-23 Local 2",
-                "poblacion": "Reus ",
+                "poblacion": "Reus",
                 "telefono": "977330372",
                 "codigopostal": "43202"
             }
@@ -51404,7 +51404,7 @@
             "properties": {
                 "nombre": "Ajuntament de Tarragona ",
                 "direccion": "Plaça de la Font, 1",
-                "poblacion": "Tarragona ",
+                "poblacion": "Tarragona",
                 "telefono": "977296112",
                 "codigopostal": "43003"
             }
@@ -52713,7 +52713,7 @@
             "properties": {
                 "nombre": "Farmacugat ",
                 "direccion": "Avda de la Clota 12",
-                "poblacion": "Sant Cugat del Vallès ",
+                "poblacion": "Sant Cugat del Vallès",
                 "telefono": "936243427",
                 "codigopostal": "08174"
             }
@@ -52815,7 +52815,7 @@
             "properties": {
                 "nombre": "CAP La Selva del Camp",
                 "direccion": "Carrer del Vilar, 2",
-                "poblacion": "La Selva del Camp",
+                "poblacion": "Selva del Camp, la",
                 "telefono": "977845717",
                 "codigopostal": "43470"
             }
@@ -53274,7 +53274,7 @@
             "properties": {
                 "nombre": "Ajuntament de Constantí ",
                 "direccion": "C/ Major, 27 ",
-                "poblacion": "Constantí ",
+                "poblacion": "Constantí",
                 "telefono": "",
                 "codigopostal": "43120"
             }
@@ -53750,7 +53750,7 @@
             "properties": {
                 "nombre": "El Cafe de la Plata",
                 "direccion": "Av. Drasanes, 48 - Port Esportiu D'Aiguadolç ",
-                "poblacion": "Sitges ",
+                "poblacion": "Sitges",
                 "telefono": "938949081",
                 "codigopostal": "08870"
             }
@@ -53801,7 +53801,7 @@
             "properties": {
                 "nombre": "Ajuntament de Vila-seca",
                 "direccion": "Pl. de l'Església, 26",
-                "poblacion": "Vila-seca ",
+                "poblacion": "Vila-seca",
                 "telefono": "",
                 "codigopostal": "43480"
             }
@@ -53869,7 +53869,7 @@
             "properties": {
                 "nombre": "Centre Civic i Cultural El Colomi",
                 "direccion": "Tarragona,22",
-                "poblacion": " Vila-seca",
+                "poblacion": "Vila-seca",
                 "telefono": "",
                 "codigopostal": "43480"
             }
@@ -54005,7 +54005,7 @@
             "properties": {
                 "nombre": "Pavelló Munincipal d'Esports de Vila-Seca",
                 "direccion": "Alcalde Pere Molas, 28",
-                "poblacion": "Vila-seca ",
+                "poblacion": "Vila-seca",
                 "telefono": "",
                 "codigopostal": "43480"
             }
@@ -54277,7 +54277,7 @@
             "properties": {
                 "nombre": "Automóviles Gracicar S.A.",
                 "direccion": "Avda. Ramon d’Olzina, 58",
-                "poblacion": " Vila-seca",
+                "poblacion": "Vila-seca",
                 "telefono": "977392414",
                 "codigopostal": "43480"
             }
@@ -54430,7 +54430,7 @@
             "properties": {
                 "nombre": "Cafè Central",
                 "direccion": "Sant Miquel, 19",
-                "poblacion": "El Masnou",
+                "poblacion": "Masnou, el",
                 "telefono": "661840742",
                 "codigopostal": "08320"
             }
@@ -54617,7 +54617,7 @@
             "properties": {
                 "nombre": "Cerveseria Bar Restaurant Mediterraneo",
                 "direccion": "Plaça Doctor Ramon i Cajal, 2",
-                "poblacion": "El Masnou",
+                "poblacion": "Masnou, el",
                 "telefono": "935555255",
                 "codigopostal": "08320"
             }
@@ -54736,7 +54736,7 @@
             "properties": {
                 "nombre": "El Càntir Blau . Granja Bar.",
                 "direccion": "C/ Rosa Sensat, 11, baixos",
-                "poblacion": "El Masnou",
+                "poblacion": "Masnou, el",
                 "telefono": "935550585",
                 "codigopostal": "08320"
             }
@@ -56028,7 +56028,7 @@
             "properties": {
                 "nombre": "McDONALD'S El Masnou",
                 "direccion": "C/ Migjorn, 14-15",
-                "poblacion": "El Masnou",
+                "poblacion": "Masnou, el",
                 "telefono": "935550267",
                 "codigopostal": "08320"
             }
@@ -56147,7 +56147,7 @@
             "properties": {
                 "nombre": "EQUIP D´ASSISTÈNCIA PRIMÀRIA VIC, SLP - CAP EL REMEI",
                 "direccion": "PASSATGE PLA DEL REMEI 10 -12",
-                "poblacion": "VIC",
+                "poblacion": "Vic",
                 "telefono": "938833443",
                 "codigopostal": "08500"
             }
@@ -56198,7 +56198,7 @@
             "properties": {
                 "nombre": "Arxiu Municipal del Masnou (Horari de juny a setembre: Dilluns i dimecres de 9 a 14 h)",
                 "direccion": "C/ de Sant Francesc d'Assís, 28",
-                "poblacion": "El Masnou",
+                "poblacion": "Masnou, el",
                 "telefono": "",
                 "codigopostal": "08320"
             }
@@ -56436,7 +56436,7 @@
             "properties": {
                 "nombre": "MUSEU DE LA MINA VELLA",
                 "direccion": "CASA DE CAMP, 106",
-                "poblacion": "VILASSAR DE MAR",
+                "poblacion": "Vilassar de Mar",
                 "telefono": "937597270",
                 "codigopostal": "08340"
             }
@@ -56470,7 +56470,7 @@
             "properties": {
                 "nombre": "ZAMORA Nens - Zapatería y Textil Infantil ",
                 "direccion": "AVDA. MONTEVIDEO 68",
-                "poblacion": "VILASSAR DE MAR ",
+                "poblacion": "Vilassar de Mar",
                 "telefono": "937500451",
                 "codigopostal": "08340"
             }
@@ -56861,7 +56861,7 @@
             "properties": {
                 "nombre": "Ajuntament de Mollerussa",
                 "direccion": "Pl. Ajuntament, 2 ",
-                "poblacion": "Mollerussa ",
+                "poblacion": "Mollerussa",
                 "telefono": "973600713",
                 "codigopostal": "25230"
             }
@@ -58051,7 +58051,7 @@
             "properties": {
                 "nombre": "Patchgraci",
                 "direccion": "C/ Cabanyes 74",
-                "poblacion": "Sant Feliu de Guixols",
+                "poblacion": "Sant Feliu de Guíxols",
                 "telefono": "972323016",
                 "codigopostal": "17220"
             }
@@ -58119,7 +58119,7 @@
             "properties": {
                 "nombre": "Ajuntament de Caldes d'Estrac ",
                 "direccion": "Plaça de la Vila s/n",
-                "poblacion": "Caldes d'Estrac ",
+                "poblacion": "Caldes d'Estrac",
                 "telefono": "937910005",
                 "codigopostal": "08393"
             }
@@ -58187,7 +58187,7 @@
             "properties": {
                 "nombre": "Servei de l'Aparell Digestiu - Hospital del Vendrell",
                 "direccion": "Carretera de Barcelona, s/n",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "977257900",
                 "codigopostal": "43700"
             }
@@ -59190,7 +59190,7 @@
             "properties": {
                 "nombre": "FGC Ferrocarrils de la Generalitat de Catalunya",
                 "direccion": "Estació Bellaterra",
-                "poblacion": "Bellaterra",
+                "poblacion": "Cerdanyola",
                 "telefono": "",
                 "codigopostal": "08193"
             }
@@ -59309,7 +59309,7 @@
             "properties": {
                 "nombre": "FGC Ferrocarrils de la Generalitat de Catalunya",
                 "direccion": "Estació de Europa/Fira",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08902"
             }
@@ -59326,7 +59326,7 @@
             "properties": {
                 "nombre": "FGC Ferrocarrils de la Generalitat de catalunya",
                 "direccion": "Estació de Gornal",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08902"
             }
@@ -59343,7 +59343,7 @@
             "properties": {
                 "nombre": "FGC Ferrocarrils de la Generalitat de Catalunya",
                 "direccion": "Estació FGC l'Hospitalet - Av. Carrilet",
-                "poblacion": "L'Hospitalet de Llobregat",
+                "poblacion": "Hospitalet de Llobregat, l'",
                 "telefono": "",
                 "codigopostal": "08901"
             }
@@ -59445,7 +59445,7 @@
             "properties": {
                 "nombre": "FGC Ferrocarrils de la Generalitat de Catalunya ",
                 "direccion": "Estació de Sant Andreu de la Barca",
-                "poblacion": "Sant Andreu de la Barca ",
+                "poblacion": "Sant Andreu de la Barca",
                 "telefono": "",
                 "codigopostal": "08740"
             }
@@ -59734,7 +59734,7 @@
             "properties": {
                 "nombre": "Servei de l'Aparell Digestiu - Hospital del Vendrell",
                 "direccion": "Carretera de Barcelona, s/n",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "977231814",
                 "codigopostal": "43700"
             }
@@ -59751,7 +59751,7 @@
             "properties": {
                 "nombre": "Ajuntament del Vendrell",
                 "direccion": "Plaça Vella, 1",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "977166400",
                 "codigopostal": "43700"
             }
@@ -59768,7 +59768,7 @@
             "properties": {
                 "nombre": "Consultori Coma-Ruga",
                 "direccion": "Avinguda de la Generalitat, S/N, 43880 ",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43880"
             }
@@ -59785,7 +59785,7 @@
             "properties": {
                 "nombre": "Auditori Pau Casals",
                 "direccion": "Av. Palfuriana, 34 - Sant Salvador ",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "977683468",
                 "codigopostal": "43700"
             }
@@ -59802,7 +59802,7 @@
             "properties": {
                 "nombre": "Biblioteca Pública Terra Baixa",
                 "direccion": "Carrer Major, 18",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43700"
             }
@@ -59819,7 +59819,7 @@
             "properties": {
                 "nombre": "Centre Civic Coma Ruga",
                 "direccion": "Avinguda de la Generalitat, 30-32",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43880"
             }
@@ -59836,7 +59836,7 @@
             "properties": {
                 "nombre": "Centre Cívic L'Estació",
                 "direccion": " Avinguda d'En Jaume Carner, 1",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43700"
             }
@@ -59887,7 +59887,7 @@
             "properties": {
                 "nombre": "Edifici l'Eina",
                 "direccion": "cami Reial 13-17 El Vendrell",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43700"
             }
@@ -59921,7 +59921,7 @@
             "properties": {
                 "nombre": "Edifici Policia Municipal",
                 "direccion": "Carretera de Calafell, s/n",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43700"
             }
@@ -59938,7 +59938,7 @@
             "properties": {
                 "nombre": "Escola Municipal de Música Pau Casals",
                 "direccion": "Passatge del Tívoli, 3-7",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43700"
             }
@@ -59955,7 +59955,7 @@
             "properties": {
                 "nombre": "Esplai De La Gent Gran Del Tívoli",
                 "direccion": "Carrer del Nord, 11",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43700"
             }
@@ -59972,7 +59972,7 @@
             "properties": {
                 "nombre": "Esplai de la Gent Gran del Tancat",
                 "direccion": "Carrer de les Magnòlies, 36 ",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43700"
             }
@@ -59989,7 +59989,7 @@
             "properties": {
                 "nombre": "Esplai de la Gent Grant de Coma-ruga",
                 "direccion": "Carrer Gafarró 8-12 Edifici Siofock, locals 11 i 12",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43700"
             }
@@ -60023,7 +60023,7 @@
             "properties": {
                 "nombre": "Local Policia Municipal Coma-ruga",
                 "direccion": "Carrer d'Antoni Gaudí 43880",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43880"
             }
@@ -60108,7 +60108,7 @@
             "properties": {
                 "nombre": "Mercat Municipal del Vendrell",
                 "direccion": "Plaça del Mercat, 1 ",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43700"
             }
@@ -60125,7 +60125,7 @@
             "properties": {
                 "nombre": "Oficina d'Empadronament Municipal ",
                 "direccion": "Av. Catalunya, 1, bx ",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43700"
             }
@@ -60142,7 +60142,7 @@
             "properties": {
                 "nombre": "Teatre Àngel Guimerà",
                 "direccion": "Avinguda Sant Jordi, 9-13  ",
-                "poblacion": "El Vendrell ",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43700"
             }
@@ -60159,7 +60159,7 @@
             "properties": {
                 "nombre": "Estació d'Autobusos",
                 "direccion": "Avinguda d'En Jaume Carner, 42",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43700"
             }
@@ -60176,7 +60176,7 @@
             "properties": {
                 "nombre": "Edifici Museu Deu",
                 "direccion": "Plaça Nova, 6 ",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43700"
             }
@@ -60193,7 +60193,7 @@
             "properties": {
                 "nombre": "Edifici Serveis Socials",
                 "direccion": "C/ Quarter, 4 ",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43700"
             }
@@ -60210,7 +60210,7 @@
             "properties": {
                 "nombre": "Sala del Portal del Pardo",
                 "direccion": "Carrer Major, 20",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43700"
             }
@@ -60227,7 +60227,7 @@
             "properties": {
                 "nombre": "Casa Museu Àngel Guimerà",
                 "direccion": "C/ Santa Anna, 10 ",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43700"
             }
@@ -60244,7 +60244,7 @@
             "properties": {
                 "nombre": "Pavelló Municipal",
                 "direccion": "Av. del Camp d'Esports, 36-38",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43700"
             }
@@ -60261,7 +60261,7 @@
             "properties": {
                 "nombre": "Complex Esportiu Municipal",
                 "direccion": "Av. del Camp d'Esports, 36-38",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43700"
             }
@@ -60278,7 +60278,7 @@
             "properties": {
                 "nombre": "Complex Esportiu Dr.Robert",
                 "direccion": "Carrer del Doctor Robert, 69",
-                "poblacion": "El Vendrell",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43700"
             }
@@ -60295,7 +60295,7 @@
             "properties": {
                 "nombre": "Pavelló Sta. Maria del Mar (Coma-ruga)",
                 "direccion": "Carrer Arenal, 1",
-                "poblacion": "El Vendrell ",
+                "poblacion": "Vendrell, el",
                 "telefono": "",
                 "codigopostal": "43880"
             }
@@ -60652,7 +60652,7 @@
             "properties": {
                 "nombre": "Ajuntament Móra d'Ebre",
                 "direccion": "Plaça de Baix, 1",
-                "poblacion": " Móra d’Ebre",
+                "poblacion": "Móra d'Ebre",
                 "telefono": "",
                 "codigopostal": "43740"
             }
@@ -60669,7 +60669,7 @@
             "properties": {
                 "nombre": "Biblioteca Comarcal",
                 "direccion": "Plaça de la Llanterna, 7",
-                "poblacion": " Móra d’Ebre",
+                "poblacion": "Móra d'Ebre",
                 "telefono": "",
                 "codigopostal": "43740"
             }
@@ -60686,7 +60686,7 @@
             "properties": {
                 "nombre": "Ksal Jove",
                 "direccion": "Plaça de la Llanterna, s/n",
-                "poblacion": " Móra d’Ebre",
+                "poblacion": "Móra d'Ebre",
                 "telefono": "",
                 "codigopostal": "43740"
             }
@@ -60703,7 +60703,7 @@
             "properties": {
                 "nombre": "Escola Municipal de Música i Dansa",
                 "direccion": "Plaça de la Cultura, 1",
-                "poblacion": "Móra d’Ebre",
+                "poblacion": "Móra d'Ebre",
                 "telefono": "",
                 "codigopostal": "43740"
             }
@@ -60720,7 +60720,7 @@
             "properties": {
                 "nombre": "Casal de Jubilats",
                 "direccion": "Av. Com. Catalanes, 2",
-                "poblacion": "Móra d’Ebre",
+                "poblacion": "Móra d'Ebre",
                 "telefono": "",
                 "codigopostal": "43740"
             }
@@ -60737,7 +60737,7 @@
             "properties": {
                 "nombre": "La Llanterna Teatre Municipal",
                 "direccion": "Carrer Miquel Rojals, 1",
-                "poblacion": " Móra d’Ebre",
+                "poblacion": "Móra d'Ebre",
                 "telefono": "",
                 "codigopostal": "43740"
             }
@@ -60754,7 +60754,7 @@
             "properties": {
                 "nombre": "Estació d'Autobusos",
                 "direccion": "Camí de les Hortes, 8",
-                "poblacion": "Móra d’Ebre",
+                "poblacion": "Móra d'Ebre",
                 "telefono": "",
                 "codigopostal": "43740"
             }
@@ -60771,7 +60771,7 @@
             "properties": {
                 "nombre": "Edifici ",
                 "direccion": "Plaça de la Democràcia, 1",
-                "poblacion": "Móra d’Ebre",
+                "poblacion": "Móra d'Ebre",
                 "telefono": "",
                 "codigopostal": "43740"
             }
@@ -60788,7 +60788,7 @@
             "properties": {
                 "nombre": "Escola Bressol “La Morera”",
                 "direccion": " Santiago Rusiñol, 22 - 43740 Móra d’Ebre",
-                "poblacion": "Móra d’Ebre",
+                "poblacion": "Móra d'Ebre",
                 "telefono": "",
                 "codigopostal": "43740"
             }
@@ -60805,7 +60805,7 @@
             "properties": {
                 "nombre": "Pavelló poliesportiu",
                 "direccion": "Avinguda Pius XII, s/n ",
-                "poblacion": "Móra d’Ebre",
+                "poblacion": "Móra d'Ebre",
                 "telefono": "",
                 "codigopostal": "43740"
             }
@@ -61162,7 +61162,7 @@
             "properties": {
                 "nombre": "Pista Poliesportiva de Les Botigues de Sitges",
                 "direccion": "Carrer del Ferrocarril, s/n ",
-                "poblacion": " Sitges",
+                "poblacion": "Sitges",
                 "telefono": "",
                 "codigopostal": "08870"
             }
@@ -61264,7 +61264,7 @@
             "properties": {
                 "nombre": "Poliesportiu Municipal",
                 "direccion": "Carrer del Gira-sol, 15",
-                "poblacion": "Móra d’Ebre",
+                "poblacion": "Móra d'Ebre",
                 "telefono": "",
                 "codigopostal": "43740"
             }
@@ -61281,7 +61281,7 @@
             "properties": {
                 "nombre": "GEMMA RODRIGUEZ SALUD - LA DOLCETA",
                 "direccion": "C/. URGELL, 95",
-                "poblacion": "BALAGUER",
+                "poblacion": "Balaguer",
                 "telefono": "669487952",
                 "codigopostal": "25699"
             }
@@ -61298,7 +61298,7 @@
             "properties": {
                 "nombre": "DISSENY VIATGES BR4",
                 "direccion": "PASSEIG DE L'ESTACIÓ, 33",
-                "poblacion": "BALAGUER",
+                "poblacion": "Balaguer",
                 "telefono": "973451198",
                 "codigopostal": "25600"
             }
@@ -61332,7 +61332,7 @@
             "properties": {
                 "nombre": "GAMMA FARRE",
                 "direccion": "C/URGELL, 39",
-                "poblacion": "BALAGUER",
+                "poblacion": "Balaguer",
                 "telefono": "973445765",
                 "codigopostal": "25600"
             }
@@ -61400,7 +61400,7 @@
             "properties": {
                 "nombre": "EXCUSES A DOLL",
                 "direccion": "C/ESCOLAPIS 2",
-                "poblacion": "VILANOVA I LA GELTRÚ",
+                "poblacion": "Vilanova i la Geltrú",
                 "telefono": "938531133",
                 "codigopostal": "08800"
             }
@@ -62064,7 +62064,7 @@
                 "nombre": "Termes Romanes",
                 "direccion": "Av. Maria Girona cantonada Carrer Hospital",
                 "poblacion": "Sant Boi de Llobregat",
-                "telefono": "",
+                "telefono": null,
                 "codigopostal": "08330"
             }
         },
@@ -63083,7 +63083,7 @@
             "properties": {
                 "nombre": "CULTIUS ROIG SLU",
                 "direccion": "FINCA CAN MAYO",
-                "poblacion": "PREMIA DE DALT",
+                "poblacion": "Premià de Dalt",
                 "telefono": "937522566",
                 "codigopostal": "08338"
             }
@@ -63610,7 +63610,7 @@
             "properties": {
                 "nombre": "L'agla ",
                 "direccion": "Diputació, 6 local B",
-                "poblacion": "MONTMELÓ ",
+                "poblacion": "Montmeló",
                 "telefono": "931705632",
                 "codigopostal": "08160"
             }
@@ -63661,7 +63661,7 @@
             "properties": {
                 "nombre": "Rosa G assessors d'imatge",
                 "direccion": "C/mayor 51",
-                "poblacion": "Montmeló ",
+                "poblacion": "Montmeló",
                 "telefono": "935722569",
                 "codigopostal": "08160"
             }
@@ -63763,7 +63763,7 @@
             "properties": {
                 "nombre": "BAR CAFETERIA TÀNDEM",
                 "direccion": "C/. NARCÍS MONTURIOL, 10",
-                "poblacion": "VILANOVA I LA GELTRÚ",
+                "poblacion": "Vilanova i la Geltrú",
                 "telefono": "938100608",
                 "codigopostal": "08800"
             }
@@ -63916,7 +63916,7 @@
             "properties": {
                 "nombre": "Centre Cívic Lourdes",
                 "direccion": " Carrer Josep de Maria Folch i Torres, 4",
-                "poblacion": "Mollet del Vallès ",
+                "poblacion": "Mollet del Vallès",
                 "telefono": "",
                 "codigopostal": "08100"
             }
@@ -64035,7 +64035,7 @@
             "properties": {
                 "nombre": "Pavelló Municipal de Plana Lledó, CB Mollet",
                 "direccion": "Av. Caldes de Montbui, 1, 08100 Mollet del Vallés",
-                "poblacion": "Mollet del Vallés",
+                "poblacion": "Mollet del Vallès",
                 "telefono": "",
                 "codigopostal": "08100"
             }
@@ -64494,7 +64494,7 @@
             "properties": {
                 "nombre": "Servei de l'Aparell Digestiu - Hospital de Sant Joan Despí Moisès Broggi",
                 "direccion": "C/ Jacint Verdaguer, 90",
-                "poblacion": "Sant Joan Despí ",
+                "poblacion": "Sant Joan Despí",
                 "telefono": "935531200",
                 "codigopostal": "08970"
             }
@@ -66024,7 +66024,7 @@
             "properties": {
                 "nombre": "Servei de l'Aparell Digestiu - Hospital General de Granollers",
                 "direccion": "Av. Francesc Ribas, s/n",
-                "poblacion": "Granollers ",
+                "poblacion": "Granollers",
                 "telefono": "938425000",
                 "codigopostal": "08402"
             }
@@ -66041,7 +66041,7 @@
             "properties": {
                 "nombre": "Hospital General de Granollers",
                 "direccion": "Av. Francesc Ribas, s/n",
-                "poblacion": "Granollers ",
+                "poblacion": "Granollers",
                 "telefono": "938425000",
                 "codigopostal": "08402"
             }
@@ -66704,7 +66704,7 @@
             "properties": {
                 "nombre": "Teteria India ",
                 "direccion": "Carrer de Jacint Verdaguer, 9",
-                "poblacion": "Sant Feliu de Llobregat ",
+                "poblacion": "Sant Feliu de Llobregat",
                 "telefono": "936666663",
                 "codigopostal": "08980"
             }
@@ -67418,7 +67418,7 @@
             "properties": {
                 "nombre": "Centre Alpí Vall del Segadell",
                 "direccion": "Carrer del Mestre Isern, 24",
-                "poblacion": "Pardínes",
+                "poblacion": "Pardines",
                 "telefono": "",
                 "codigopostal": "17534"
             }
@@ -67435,7 +67435,7 @@
             "properties": {
                 "nombre": "La ferreteria",
                 "direccion": "Plaça constitucio, 4",
-                "poblacion": "Les Borges Blanques",
+                "poblacion": "Borges Blanques, les",
                 "telefono": "973100949",
                 "codigopostal": "25400"
             }
@@ -67775,7 +67775,7 @@
             "properties": {
                 "nombre": "Autoescola AMBIENT",
                 "direccion": "Rda Rocablanca,17",
-                "poblacion": "MATARO",
+                "poblacion": "Mataró",
                 "telefono": "625508925",
                 "codigopostal": "08303"
             }
@@ -67809,7 +67809,7 @@
             "properties": {
                 "nombre": "Instalaciones Jurado",
                 "direccion": "Sant Isidre, 24",
-                "poblacion": "Cornellà de llobregat",
+                "poblacion": "Cornellà de Llobregat",
                 "telefono": "933779651",
                 "codigopostal": "08940"
             }
@@ -67877,7 +67877,7 @@
             "properties": {
                 "nombre": "Piscina descoberta Municipal",
                 "direccion": "Avinguda de l'Esport s/n",
-                "poblacion": "Cervera ",
+                "poblacion": "Cervera",
                 "telefono": "",
                 "codigopostal": "25200"
             }
@@ -68064,7 +68064,7 @@
             "properties": {
                 "nombre": "Oficina de Turisme d’Empuriabrava ",
                 "direccion": "Av. Pompeu Fabra, s/n ",
-                "poblacion": "Empuriabrava",
+                "poblacion": "Castelló d'Empúries",
                 "telefono": "",
                 "codigopostal": "17487"
             }
@@ -68081,7 +68081,7 @@
             "properties": {
                 "nombre": "Oficina Serveis a la Ciutadania ",
                 "direccion": "Plaça Catalunya 1",
-                "poblacion": "Castelló d'Empuries",
+                "poblacion": "Castelló d'Empúries",
                 "telefono": "972250165",
                 "codigopostal": "17486"
             }
@@ -68098,7 +68098,7 @@
             "properties": {
                 "nombre": "Centre de Serveis",
                 "direccion": "Carrer Puigmal s/n. ",
-                "poblacion": "Empuriabrava ",
+                "poblacion": "Castelló d'Empúries",
                 "telefono": "972456611",
                 "codigopostal": "17487"
             }
@@ -68183,7 +68183,7 @@
             "properties": {
                 "nombre": "Escola El Bruel",
                 "direccion": "Carrer Olivera - Pla de Roses, 74",
-                "poblacion": "Empuriabrava",
+                "poblacion": "Castelló d'Empúries",
                 "telefono": "972456625",
                 "codigopostal": "17487"
             }
@@ -68217,7 +68217,7 @@
             "properties": {
                 "nombre": "Institut Empuriabrava",
                 "direccion": "Carrer Olivera - Pla de Roses, s/n",
-                "poblacion": "Empuriabrava",
+                "poblacion": "Castelló d'Empúries",
                 "telefono": "972456143",
                 "codigopostal": "17487"
             }
@@ -68234,7 +68234,7 @@
             "properties": {
                 "nombre": "Casal Cívic Empuriabrava",
                 "direccion": "Carrer Alberes Comercial, 45 ",
-                "poblacion": "Empuriabrava",
+                "poblacion": "Castelló d'Empúries",
                 "telefono": "",
                 "codigopostal": "17487"
             }
@@ -68302,7 +68302,7 @@
             "properties": {
                 "nombre": "Camp de Futbol Municipal Aeroclub",
                 "direccion": "Sector Aeroclub s/n",
-                "poblacion": "Empuriabrava",
+                "poblacion": "Castelló d'Empúries",
                 "telefono": "",
                 "codigopostal": "17487"
             }
@@ -68336,7 +68336,7 @@
             "properties": {
                 "nombre": "Policia local ",
                 "direccion": "Calle Puigmal, 1, ",
-                "poblacion": "Empuriabrava",
+                "poblacion": "Castelló d'Empúries",
                 "telefono": "",
                 "codigopostal": "17487"
             }
@@ -68370,7 +68370,7 @@
             "properties": {
                 "nombre": "Deixalleria d'Empuriabrava",
                 "direccion": "Avinguda de la Muga, s/n, (Sector Carlit)",
-                "poblacion": "Empuriabrava",
+                "poblacion": "Castelló d'Empúries",
                 "telefono": "",
                 "codigopostal": "17487"
             }
@@ -68404,7 +68404,7 @@
             "properties": {
                 "nombre": "Unitat de Digestiu de la Fundació Sant Hospital",
                 "direccion": "Pg Joan Brudieu Número 8",
-                "poblacion": "La Seu de Urgell Lérida",
+                "poblacion": "Seu d'Urgell, la",
                 "telefono": "973350050",
                 "codigopostal": "25700"
             }
@@ -68625,7 +68625,7 @@
             "properties": {
                 "nombre": "Ajuntament Badia del Vallès",
                 "direccion": "Avinguda Burgos s/n",
-                "poblacion": "Badia del Vallès (Barcelona)",
+                "poblacion": "Badia del Vallès",
                 "telefono": "937182216",
                 "codigopostal": "08214"
             }
@@ -68642,7 +68642,7 @@
             "properties": {
                 "nombre": "Biblioteca Vicente Aleixandre",
                 "direccion": "Av. de la Mediterrània, S/N",
-                "poblacion": "Badia del Vallès, Barcelona",
+                "poblacion": "Badia del Vallès",
                 "telefono": "",
                 "codigopostal": "08214"
             }
@@ -68676,7 +68676,7 @@
             "properties": {
                 "nombre": "Casal de Joves",
                 "direccion": "Carrer de Porto, 21",
-                "poblacion": "Badia del VAllès",
+                "poblacion": "Badia del Vallès",
                 "telefono": "",
                 "codigopostal": "08214"
             }
@@ -68965,7 +68965,7 @@
             "properties": {
                 "nombre": "Consell Comarcal de l'Alt Urgell",
                 "direccion": "Passeig Joan Brudieu 15",
-                "poblacion": "La Seu d'Urgell",
+                "poblacion": "Seu d'Urgell, la",
                 "telefono": "973353112",
                 "codigopostal": "25700"
             }
@@ -68982,7 +68982,7 @@
             "properties": {
                 "nombre": "Restaurant Llar de Foc-Adrall, S.L.",
                 "direccion": "N-260, km. 233,5",
-                "poblacion": "Adrall",
+                "poblacion": "Ribera d'Urgellet",
                 "telefono": "640610621",
                 "codigopostal": "25797"
             }
@@ -69339,7 +69339,7 @@
             "properties": {
                 "nombre": "Ajuntament de La Seu d'Urgell",
                 "direccion": "Plaça dels Oms, 1 ",
-                "poblacion": "La Seu d'Urgell (Lleida)",
+                "poblacion": "Seu d'Urgell, la",
                 "telefono": "973350010",
                 "codigopostal": "25700"
             }
@@ -69407,7 +69407,7 @@
             "properties": {
                 "nombre": "Consorci d'Atenció a les Persones Alt Urgell ",
                 "direccion": "Plaça Soldevila 1",
-                "poblacion": "La Seu d'Urgell",
+                "poblacion": "Seu d'Urgell, la",
                 "telefono": "973354102",
                 "codigopostal": "25700"
             }
@@ -69424,7 +69424,7 @@
             "properties": {
                 "nombre": "Centre Cultural Les Monges",
                 "direccion": "Plaça de les Monges núm. 2 ",
-                "poblacion": "La Seu d'Urgell",
+                "poblacion": "Seu d'Urgell, la",
                 "telefono": "973350010",
                 "codigopostal": "25700"
             }
@@ -69458,7 +69458,7 @@
             "properties": {
                 "nombre": "Biblioteca de Sant Agustí",
                 "direccion": "Lluís de Sabater, 10-14",
-                "poblacion": "La Seu d'Urgell",
+                "poblacion": "Seu d'Urgell, la",
                 "telefono": "973360666",
                 "codigopostal": "25700"
             }
@@ -69509,7 +69509,7 @@
             "properties": {
                 "nombre": "Oficina Jove de l'Alt Urgell",
                 "direccion": "Camí de la Palanca, 43 ",
-                "poblacion": "Seo de Urgel Lérida",
+                "poblacion": "Seu d'Urgell, la",
                 "telefono": "",
                 "codigopostal": "25700"
             }
@@ -69526,7 +69526,7 @@
             "properties": {
                 "nombre": "Palau Municipal d'Esports",
                 "direccion": "Avinguda del Camí Ral de Cerdanya, 31",
-                "poblacion": "La Seu d'Urgell, Lérida",
+                "poblacion": "Seu d'Urgell, la",
                 "telefono": "",
                 "codigopostal": "25700"
             }
@@ -69628,7 +69628,7 @@
             "properties": {
                 "nombre": "Valeria Modes",
                 "direccion": "Carrer Major, 78 baixos ",
-                "poblacion": "Seo de Urgel Lérida",
+                "poblacion": "Seu d'Urgell, la",
                 "telefono": "973351212",
                 "codigopostal": "25700"
             }
@@ -69696,7 +69696,7 @@
             "properties": {
                 "nombre": "CAPICÚA",
                 "direccion": "Carrer Major, 53 ",
-                "poblacion": "La Seu de Urgel Lérida",
+                "poblacion": "Seu d'Urgell, la",
                 "telefono": "973360001",
                 "codigopostal": "25700"
             }
@@ -69730,7 +69730,7 @@
             "properties": {
                 "nombre": "Xics Moda Infantil i Juvenil",
                 "direccion": "Carrer Major, 71",
-                "poblacion": "La Seu d'Urgell Lérida",
+                "poblacion": "Seu d'Urgell, la",
                 "telefono": "973989676",
                 "codigopostal": "25700"
             }
@@ -69798,7 +69798,7 @@
             "properties": {
                 "nombre": "Consultori Municipal Cabanes",
                 "direccion": "Carrer Escoles, s/n",
-                "poblacion": "Cabanes Girona",
+                "poblacion": "Cabanes",
                 "telefono": "972510067",
                 "codigopostal": "17761"
             }
@@ -69849,7 +69849,7 @@
             "properties": {
                 "nombre": "Consultori Municipal Vilabertan",
                 "direccion": "Carrer Santa Maria, 17",
-                "poblacion": "Vilabertran ",
+                "poblacion": "Vilabertran",
                 "telefono": "972510751",
                 "codigopostal": "17760"
             }
@@ -69900,7 +69900,7 @@
             "properties": {
                 "nombre": "Consultori Municipal Mollet de Peralada",
                 "direccion": "Carrer la Plaça 12",
-                "poblacion": "Mollet de Peralada ",
+                "poblacion": "Mollet de Peralada",
                 "telefono": "972545197",
                 "codigopostal": "17752"
             }
@@ -70002,7 +70002,7 @@
             "properties": {
                 "nombre": "Creu Roja Urgell",
                 "direccion": "Avinguda Catalunya n51",
-                "poblacion": "TÀRREGA",
+                "poblacion": "Tàrrega",
                 "telefono": "973500679",
                 "codigopostal": "25300"
             }
@@ -70240,7 +70240,7 @@
             "properties": {
                 "nombre": "Consell Comarcal del Bages",
                 "direccion": "Muralla Sant Domènec, 24 ",
-                "poblacion": "MANRESA",
+                "poblacion": "Manresa",
                 "telefono": "936930397",
                 "codigopostal": "08241"
             }
@@ -70308,7 +70308,7 @@
             "properties": {
                 "nombre": "GESEME GIRONA",
                 "direccion": "RONDA FERRAN PUIG 37 BAIXOS",
-                "poblacion": "GIRONA",
+                "poblacion": "Girona",
                 "telefono": "972106061",
                 "codigopostal": "17001"
             }
@@ -70410,7 +70410,7 @@
             "properties": {
                 "nombre": "LA REVOLTA CAFÈ RESTAURANT",
                 "direccion": "CARRER VOLTA, 5 ",
-                "poblacion": "TERRASSA",
+                "poblacion": "Terrassa",
                 "telefono": "931150146",
                 "codigopostal": "08224"
             }
@@ -70427,7 +70427,7 @@
             "properties": {
                 "nombre": "AM ADVOCATS ",
                 "direccion": "AV. VIDAL I BARRAQUER Nº 1 ESC B LOCAL B",
-                "poblacion": "TARRAGONA",
+                "poblacion": "Tarragona",
                 "telefono": "977245317",
                 "codigopostal": "43005"
             }
@@ -70471,12 +70471,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.154772,
-                    41.401104
+                    2.154713,
+                    41.401182
                 ]
             },
             "properties": {
-                "nombre": "---",
+                "nombre": "Centre Moral i Instructiu de Gràcia",
                 "direccion": "Carrer de Ros de Olano, 9",
                 "poblacion": "Barcelona",
                 "telefono": "932181964",
@@ -70546,7 +70546,7 @@
             "properties": {
                 "nombre": "MERCAT MUNICIPAL SANT JOAN",
                 "direccion": "GRAN VIA DE LLUÍS COMPANYS, 129",
-                "poblacion": "PREMIÀ DE MAR",
+                "poblacion": "Premià de Mar",
                 "telefono": "937417400(ext3204)",
                 "codigopostal": "08330"
             }
@@ -70563,7 +70563,7 @@
             "properties": {
                 "nombre": "Ajuntament de L'Ametlla del Vallès",
                 "direccion": "Plaça Ajuntament, 1",
-                "poblacion": "L'Ametlla del Vallès",
+                "poblacion": "Ametlla del Vallès, l'",
                 "telefono": "938432501",
                 "codigopostal": "08480"
             }
@@ -70580,7 +70580,7 @@
             "properties": {
                 "nombre": " Espai Can Muntanyola-Biblioteca",
                 "direccion": "Carrer Torregassa 35-37",
-                "poblacion": "L'Ametlla del Vallès",
+                "poblacion": "Ametlla del Vallès, l'",
                 "telefono": "938431966",
                 "codigopostal": "08480"
             }
@@ -70597,7 +70597,7 @@
             "properties": {
                 "nombre": "Escola de Música Muncipal de l'Ametlla del Vallès",
                 "direccion": "Carrer del Club, 7",
-                "poblacion": "L'Ametlla del Vallès",
+                "poblacion": "Ametlla del Vallès, l'",
                 "telefono": "938432882",
                 "codigopostal": "08480"
             }
@@ -70614,7 +70614,7 @@
             "properties": {
                 "nombre": "Pavelló Poliesportiu de L'Ametlla del Vallès",
                 "direccion": "Carrer La Mina 16, ",
-                "poblacion": "L'Ametlla del Vallès",
+                "poblacion": "Ametlla del Vallès, l'",
                 "telefono": "660075166",
                 "codigopostal": "08480"
             }
@@ -70631,7 +70631,7 @@
             "properties": {
                 "nombre": "Camp de Futbol Municipal Josep Costa",
                 "direccion": "Carrer Mestre Millet,12",
-                "poblacion": "L'Ametlla del Vallès",
+                "poblacion": "Ametlla del Vallès, l'",
                 "telefono": "938457094",
                 "codigopostal": "08480"
             }
@@ -70699,7 +70699,7 @@
             "properties": {
                 "nombre": "FERRETERIA MASPOR",
                 "direccion": "Carrer de Barcelona, 15",
-                "poblacion": "L'AMETLLA DEL VALLES",
+                "poblacion": "Ametlla del Vallès, l'",
                 "telefono": "938430003",
                 "codigopostal": "08480"
             }
@@ -70716,7 +70716,7 @@
             "properties": {
                 "nombre": "LASERCAMP VALLES",
                 "direccion": "Centre Comercial Sant Jordi local 2-3 baixos",
-                "poblacion": "l'ametlla del valles",
+                "poblacion": "Ametlla del Vallès, l'",
                 "telefono": "627419857",
                 "codigopostal": "08480"
             }
@@ -70733,7 +70733,7 @@
             "properties": {
                 "nombre": "JOCADI DE L´AMETLLA DEL VALLES",
                 "direccion": "Pompeu Fabra, 30",
-                "poblacion": "L´AMETLLA DEL VALLES",
+                "poblacion": "Ametlla del Vallès, l'",
                 "telefono": "938432837",
                 "codigopostal": "08480"
             }
@@ -71345,7 +71345,7 @@
             "properties": {
                 "nombre": "CENTRE AUDITIU CASTELLAR",
                 "direccion": "PLAÇA CALISSÓ, 2",
-                "poblacion": "CASTELLAR DEL VALLÈS",
+                "poblacion": "Castellar del Vallès",
                 "telefono": "637159191",
                 "codigopostal": "08211"
             }
@@ -71362,7 +71362,7 @@
             "properties": {
                 "nombre": "Hostal i Pizzeria Juventus",
                 "direccion": "Avda Barcelona, 3",
-                "poblacion": "Portbou ",
+                "poblacion": "Portbou",
                 "telefono": "972390241",
                 "codigopostal": "17497"
             }
@@ -71501,6 +71501,23 @@
                 "poblacion": "Tarragona",
                 "telefono": "977869056",
                 "codigopostal": "43439"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.192797,
+                    41.117636
+                ]
+            },
+            "properties": {
+                "nombre": "El Rincón de Emilio",
+                "direccion": "Carrer Vint-I-Un, 28",
+                "poblacion": "Tarragona",
+                "telefono": "696529238",
+                "codigopostal": "43100"
             }
         }
     ]
