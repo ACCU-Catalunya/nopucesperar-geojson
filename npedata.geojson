@@ -71519,57 +71519,6 @@
                 "telefono": "696529238",
                 "codigopostal": "43100"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "nombre": "El corte inglés",
-                "direccion": "Plaza Catalunya",
-                "poblacion": "Barcelona",
-                "telefono": null,
-                "codigopostal": null
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "nombre": "El corte inglés",
-                "direccion": "Plaza Catalunya",
-                "poblacion": "Barcelona",
-                "telefono": null,
-                "codigopostal": null
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "nombre": "El corte inglés",
-                "direccion": "Plaza Catalunya",
-                "poblacion": "Barcelona",
-                "telefono": null,
-                "codigopostal": null
-            }
         }
     ]
 }
