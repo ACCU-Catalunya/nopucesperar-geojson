@@ -51771,23 +51771,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.244474,
-                    41.122154
-                ]
-            },
-            "properties": {
-                "nombre": "LLAR DE JUBILATS TÀRRACO",
-                "direccion": "Av. Principat d’Andorra, 15 baixos",
-                "poblacion": "Tarragona",
-                "telefono": "",
-                "codigopostal": "43002"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     1.203795,
                     41.115664
                 ]
@@ -57441,40 +57424,6 @@
                 "direccion": "C/ de la Cort, 16",
                 "poblacion": "Valls",
                 "telefono": "606239234",
-                "codigopostal": "43800"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.251481,
-                    41.287061
-                ]
-            },
-            "properties": {
-                "nombre": "El Nou Teatre",
-                "direccion": "C/ Jaume Huguet, 14",
-                "poblacion": "Valls",
-                "telefono": "690020086",
-                "codigopostal": "43800"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.252845,
-                    41.286853
-                ]
-            },
-            "properties": {
-                "nombre": "Peña Barça",
-                "direccion": "C/ Anselm Clavé, 23",
-                "poblacion": "Valls",
-                "telefono": "610670026",
                 "codigopostal": "43800"
             }
         },
@@ -71518,6 +71467,91 @@
                 "poblacion": "Tarragona",
                 "telefono": "696529238",
                 "codigopostal": "43100"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.105806,
+                    41.155414
+                ]
+            },
+            "properties": {
+                "nombre": "Orfeo Reusenc",
+                "direccion": "Carrer de Sant Llorenç, 14",
+                "poblacion": "Reus",
+                "telefono": "628497831",
+                "codigopostal": "43201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.251408,
+                    41.287472
+                ]
+            },
+            "properties": {
+                "nombre": "Los Jijonencos",
+                "direccion": "Plaça Font de la Manxa, 6",
+                "poblacion": "Valls",
+                "telefono": "619081767",
+                "codigopostal": "43800"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.250159,
+                    41.285907
+                ]
+            },
+            "properties": {
+                "nombre": "Los Jijonencos",
+                "direccion": "Plaça del pati, 5",
+                "poblacion": "Valls",
+                "telefono": "619081767",
+                "codigopostal": "43800"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.255637,
+                    41.287288
+                ]
+            },
+            "properties": {
+                "nombre": "L'Ecliss",
+                "direccion": "Passeig de l'Estació, 21",
+                "poblacion": "Valls",
+                "telefono": "977613048",
+                "codigopostal": "43800"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.257166,
+                    41.295515
+                ]
+            },
+            "properties": {
+                "nombre": "L'Espiga d'Or",
+                "direccion": "Av. del Fornàs, 14 bxs.",
+                "poblacion": "Valls",
+                "telefono": "625241807",
+                "codigopostal": "43800"
             }
         }
     ]
