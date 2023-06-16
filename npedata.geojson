@@ -52099,10 +52099,10 @@
                 ]
             },
             "properties": {
-                "nombre": "AMFITEATRE ",
+                "nombre": "AMFITEATRE",
                 "direccion": "Parc de l'Amfiteatre romà",
                 "poblacion": "Tarragona",
-                "telefono": "",
+                "telefono": null,
                 "codigopostal": "43003"
             }
         },
