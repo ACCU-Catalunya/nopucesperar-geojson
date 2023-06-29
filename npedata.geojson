@@ -71338,13 +71338,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.042734,
-                    41.347419
+                    2.042838,
+                    41.347099
                 ]
             },
             "properties": {
                 "nombre": "Centre Auditiu Llobregat",
-                "direccion": "Rambla Rafael Casanova, 4",
+                "direccion": "Plaça Ajuntement, 14",
                 "poblacion": "Sant Boi de Llobregat",
                 "telefono": "605867280",
                 "codigopostal": "08830"
@@ -71552,6 +71552,23 @@
                 "poblacion": "Valls",
                 "telefono": "625241807",
                 "codigopostal": "43800"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.536305,
+                    41.219378
+                ]
+            },
+            "properties": {
+                "nombre": "El Niu 1976",
+                "direccion": "C/ Born, 4",
+                "poblacion": "Vendrell, el",
+                "telefono": "616669807",
+                "codigopostal": "43700"
             }
         }
     ]
