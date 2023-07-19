@@ -71570,6 +71570,23 @@
                 "telefono": "616669807",
                 "codigopostal": "43700"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.536591,
+                    41.220357
+                ]
+            },
+            "properties": {
+                "nombre": "La fábrica del pernil",
+                "direccion": "La Rambla, 14",
+                "poblacion": "Vendrell, el",
+                "telefono": "977664982",
+                "codigopostal": "43700"
+            }
         }
     ]
 }
