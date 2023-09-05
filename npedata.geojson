@@ -70590,8 +70590,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.030124,
-                    41.49287
+                    2.030354,
+                    41.49276
                 ]
             },
             "properties": {
@@ -71586,6 +71586,23 @@
                 "poblacion": "Vendrell, el",
                 "telefono": "977664982",
                 "codigopostal": "43700"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.865816,
+                    42.048082
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Infermer Sanitari de Cures CISC SLP",
+                "direccion": "C/ de Medinyà, 1 PB 1",
+                "poblacion": "Cornellà del Terri",
+                "telefono": "608458113",
+                "codigopostal": "17844"
             }
         }
     ]
