@@ -71604,6 +71604,23 @@
                 "telefono": "608458113",
                 "codigopostal": "17844"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.513643,
+                    41.816096
+                ]
+            },
+            "properties": {
+                "nombre": "Museu Etnològic del Montseny La Gabella",
+                "direccion": "C/ Major, 6",
+                "poblacion": "Arbúcies",
+                "telefono": "972860908",
+                "codigopostal": "17401"
+            }
         }
     ]
 }
