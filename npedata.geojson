@@ -71621,6 +71621,40 @@
                 "telefono": "972860908",
                 "codigopostal": "17401"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.025195,
+                    41.782993
+                ]
+            },
+            "properties": {
+                "nombre": "Edifici Vetlladores",
+                "direccion": "C/ Mall, 57-61",
+                "poblacion": "Sant Feliu de Guíxols",
+                "telefono": null,
+                "codigopostal": "17220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.023888,
+                    41.782253
+                ]
+            },
+            "properties": {
+                "nombre": "Casa Palet (Oficina d'educació)",
+                "direccion": "C/ Pécher 7-19",
+                "poblacion": "Sant Feliu de Guíxols",
+                "telefono": "972327000-ext 4901",
+                "codigopostal": "17220"
+            }
         }
     ]
 }
