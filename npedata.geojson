@@ -41605,15 +41605,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.026968,
-                    41.780496
+                    3.029895,
+                    41.781366
                 ]
             },
             "properties": {
-                "nombre": "Monestir (inclou Oficina de Turisme)",
-                "direccion": "Plaça del Monestir s/n",
+                "nombre": "Oficina de Turisme",
+                "direccion": "C/ Major, 2, cantonada Rambla amb carrer Major",
                 "poblacion": "Sant Feliu de Guíxols",
-                "telefono": "",
+                "telefono": "972327033",
                 "codigopostal": "17220"
             }
         },
@@ -41662,7 +41662,7 @@
             },
             "properties": {
                 "nombre": "Centre cívic Tueda - Casal Tueda",
-                "direccion": "C/ Gravina 39 - 41",
+                "direccion": "C/ Gravina 39-41",
                 "poblacion": "Sant Feliu de Guíxols",
                 "telefono": "972821058",
                 "codigopostal": "17220"
@@ -41741,29 +41741,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.02054,
-                    41.780511
-                ]
-            },
-            "properties": {
-                "nombre": "Camp Futbol Mascanada (obert de setembre a maig)",
-                "direccion": "Ronda Narcís Massanas s/n",
-                "poblacion": "Sant Feliu de Guíxols",
-                "telefono": "972320665",
-                "codigopostal": "17220"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     3.021552,
                     41.793964
                 ]
             },
             "properties": {
-                "nombre": "Camp Futbol Vilartagues (obert setembre a maig)",
+                "nombre": "Camp Futbol Vilartagues",
                 "direccion": "Prolongació Av Catalunya i C/ Canigó s/n",
                 "poblacion": "Sant Feliu de Guíxols",
                 "telefono": "972820187",
@@ -71653,6 +71636,227 @@
                 "direccion": "C/ Pécher 7-19",
                 "poblacion": "Sant Feliu de Guíxols",
                 "telefono": "972327000-ext 4901",
+                "codigopostal": "17220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.029852,
+                    41.782323
+                ]
+            },
+            "properties": {
+                "nombre": "Oficina d'Habitatge",
+                "direccion": "C/ Rutlla, 20",
+                "poblacion": "Sant Feliu de Guíxols",
+                "telefono": "972822599",
+                "codigopostal": "17220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.025825,
+                    41.783746
+                ]
+            },
+            "properties": {
+                "nombre": "Biblioteca pública Octavi Viader i Margarit",
+                "direccion": "C/ Joan Surís, 28-34",
+                "poblacion": "Sant Feliu de Guíxols",
+                "telefono": "972324057",
+                "codigopostal": "17220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.026231,
+                    41.783942
+                ]
+            },
+            "properties": {
+                "nombre": "Arxiu Municipal de Sant Feliu de Guíxols",
+                "direccion": "Ctra. Girona, 45-47",
+                "poblacion": "Sant Feliu de Guíxols",
+                "telefono": "972322593",
+                "codigopostal": "17220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.02453,
+                    41.792056
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Cívic Vilartagues",
+                "direccion": "Plaça Salvador Espriu., s/n.",
+                "poblacion": "Sant Feliu de Guíxols",
+                "telefono": "972820101",
+                "codigopostal": "17220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.026559,
+                    41.781737
+                ]
+            },
+            "properties": {
+                "nombre": "Escola Municipal de Música",
+                "direccion": "C/ d'Antoni de Capmany, 23-25",
+                "poblacion": "Sant Feliu de Guíxols",
+                "telefono": "972821393",
+                "codigopostal": "17220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.025054,
+                    41.781263
+                ]
+            },
+            "properties": {
+                "nombre": "Edifici Policia Local",
+                "direccion": "C/ Callao, s/n.",
+                "poblacion": "Sant Feliu de Guíxols",
+                "telefono": "972324211",
+                "codigopostal": "17220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.021639,
+                    41.792798
+                ]
+            },
+            "properties": {
+                "nombre": "Pavelló esportiu Vilartagues-Carles Nadal",
+                "direccion": "Av. de Catalunya, s/n.",
+                "poblacion": "Sant Feliu de Guíxols",
+                "telefono": "972325476",
+                "codigopostal": "17220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.021277,
+                    41.78047
+                ]
+            },
+            "properties": {
+                "nombre": "Camp Futbol Mascanada",
+                "direccion": "Ronda Narcís Massanas, s/n.",
+                "poblacion": "Sant Feliu de Guíxols",
+                "telefono": "972320665",
+                "codigopostal": "17220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.021639,
+                    41.792798
+                ]
+            },
+            "properties": {
+                "nombre": "WC Zona Pícnic Sant Feliu",
+                "direccion": "Prolongació Av. Catalunya, s/n.",
+                "poblacion": "Sant Feliu de Guíxols",
+                "telefono": null,
+                "codigopostal": "17220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.029743,
+                    41.781316
+                ]
+            },
+            "properties": {
+                "nombre": "WC Engronxadors Barana de Mar",
+                "direccion": "Barana de Mar amb la Rambla",
+                "poblacion": "Sant Feliu de Guíxols",
+                "telefono": null,
+                "codigopostal": "17220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.032749,
+                    41.781118
+                ]
+            },
+            "properties": {
+                "nombre": "WC Quiosc Juli Garreta",
+                "direccion": "Jardins juli Garreta C/ Cristògol Colom",
+                "poblacion": "Sant Feliu de Guíxols",
+                "telefono": null,
+                "codigopostal": "17220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.028695,
+                    41.780902
+                ]
+            },
+            "properties": {
+                "nombre": "Oficina Recaptació",
+                "direccion": "C/ Especiers, 4",
+                "poblacion": "Sant Feliu de Guíxols",
+                "telefono": "972327017",
+                "codigopostal": "17220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.024517,
+                    41.791787
+                ]
+            },
+            "properties": {
+                "nombre": "Oficina d'Acció Social",
+                "direccion": "C/ Almeria, 81-83",
+                "poblacion": "Sant Feliu de Guíxols",
+                "telefono": "972821091",
                 "codigopostal": "17220"
             }
         }
