@@ -41848,8 +41848,8 @@
                 ]
             },
             "properties": {
-                "nombre": "Funeraria Juanals ",
-                "direccion": "Avinguda de Catalunya 150",
+                "nombre": "Funeraria Juanals",
+                "direccion": "Avinguda de Catalunya, 150",
                 "poblacion": "Sant Feliu de Guíxols",
                 "telefono": "972328855",
                 "codigopostal": "17220"
@@ -71857,6 +71857,40 @@
                 "direccion": "C/ Almeria, 81-83",
                 "poblacion": "Sant Feliu de Guíxols",
                 "telefono": "972821091",
+                "codigopostal": "17220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.023715,
+                    41.781189
+                ]
+            },
+            "properties": {
+                "nombre": "Servei d'Ocupació Municipal Estació d'autobusos",
+                "direccion": "C/ dels Enamorats, 65-99",
+                "poblacion": "Sant Feliu de Guíxols",
+                "telefono": "972327033",
+                "codigopostal": "17220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.02194,
+                    41.780599
+                ]
+            },
+            "properties": {
+                "nombre": "Aparcament de Ponent",
+                "direccion": "C/ Dr. Rovira, 47",
+                "poblacion": "Sant Feliu de Guíxols",
+                "telefono": null,
                 "codigopostal": "17220"
             }
         }
