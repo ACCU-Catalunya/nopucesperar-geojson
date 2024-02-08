@@ -71893,6 +71893,91 @@
                 "telefono": null,
                 "codigopostal": "17220"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.82542,
+                    42.012244
+                ]
+            },
+            "properties": {
+                "nombre": "Ajuntament de Sarrià de Ter",
+                "direccion": "C/ Major, 71-73",
+                "poblacion": "Sarrià de Ter",
+                "telefono": "972170211",
+                "codigopostal": "17840"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.825286,
+                    42.018736
+                ]
+            },
+            "properties": {
+                "nombre": "Cafetería el Coro",
+                "direccion": "Plaça de la Font, 8",
+                "poblacion": "Sarrià de Ter",
+                "telefono": "675415711",
+                "codigopostal": "17840"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.815119,
+                    42.012803
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Cívic la Cooperativa",
+                "direccion": "Plaça la Renaixença s/n",
+                "poblacion": "Sarrià de Ter",
+                "telefono": "972172102",
+                "codigopostal": "17840"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.821162,
+                    42.015443
+                ]
+            },
+            "properties": {
+                "nombre": "Pavelló Municipal d'Esports de Sarrià de Ter",
+                "direccion": "-C/ Francesc Cambó s/n",
+                "poblacion": "Sarrià de Ter",
+                "telefono": "678214379",
+                "codigopostal": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.822342,
+                    42.020955
+                ]
+            },
+            "properties": {
+                "nombre": "Local Social La Rasa",
+                "direccion": "C/ Flor de Neu s/n",
+                "poblacion": "Sarrià de Ter",
+                "telefono": null,
+                "codigopostal": "17840"
+            }
         }
     ]
 }
