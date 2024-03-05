@@ -71978,6 +71978,57 @@
                 "telefono": null,
                 "codigopostal": "17840"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.108107,
+                    41.157038
+                ]
+            },
+            "properties": {
+                "nombre": "Forn Sistaré Amargura",
+                "direccion": "Carrer de l'Amargura, 2",
+                "poblacion": "Reus",
+                "telefono": "656982605",
+                "codigopostal": "43201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.103451,
+                    41.156819
+                ]
+            },
+            "properties": {
+                "nombre": "Zero Gluten ADN Sistaré",
+                "direccion": "C/ de Josep Sardà i Cailà, s/n (dins Mercat Central)",
+                "poblacion": "Reus",
+                "telefono": "656 98 26 05",
+                "codigopostal": "43201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.104979,
+                    41.158341
+                ]
+            },
+            "properties": {
+                "nombre": "Cafeteria ADN Sistaré",
+                "direccion": "Plaça de la Llibertat, 2",
+                "poblacion": "Reus",
+                "telefono": "656982605",
+                "codigopostal": "43201"
+            }
         }
     ]
 }
