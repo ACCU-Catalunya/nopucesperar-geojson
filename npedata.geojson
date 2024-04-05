@@ -72029,6 +72029,23 @@
                 "telefono": "656982605",
                 "codigopostal": "43201"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.209253,
+                    41.535179
+                ]
+            },
+            "properties": {
+                "nombre": "Café Kactus",
+                "direccion": "Av. Burgos, 60",
+                "poblacion": "Mollet del Vallès",
+                "telefono": "645681147",
+                "codigopostal": "08100"
+            }
         }
     ]
 }
