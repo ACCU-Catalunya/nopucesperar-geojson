@@ -72046,6 +72046,40 @@
                 "telefono": "645681147",
                 "codigopostal": "08100"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.134615,
+                    41.386308
+                ]
+            },
+            "properties": {
+                "nombre": "Associació contra el Cáncer",
+                "direccion": "Travessera de les Corts, 268",
+                "poblacion": "Barcelona",
+                "telefono": "932002099",
+                "codigopostal": "08003"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.202747,
+                    41.548059
+                ]
+            },
+            "properties": {
+                "nombre": "DecorEvents Rosa",
+                "direccion": "C/ Francesc Ferrer i Guàrdia, 34",
+                "poblacion": "Mollet del Vallès",
+                "telefono": "676153610",
+                "codigopostal": "08100"
+            }
         }
     ]
 }
