@@ -72080,6 +72080,210 @@
                 "telefono": "676153610",
                 "codigopostal": "08100"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.181935,
+                    41.120825
+                ]
+            },
+            "properties": {
+                "nombre": "L'Hort del Poble",
+                "direccion": "C/ Escultor Martorell, 2",
+                "poblacion": "Canonja, la",
+                "telefono": "691065054",
+                "codigopostal": "43110"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.488,
+                    41.28051
+                ]
+            },
+            "properties": {
+                "nombre": "Ajunatment La Bisbal del Penedès",
+                "direccion": "C/ Major, 21",
+                "poblacion": "Bisbal del Penedès, la",
+                "telefono": "977688438",
+                "codigopostal": "43717"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.48777,
+                    41.28043
+                ]
+            },
+            "properties": {
+                "nombre": "Associació de dones La Roca Foradada",
+                "direccion": "C/ Jacint Verdaguer, 30",
+                "poblacion": "Bisbal del Penedès, la",
+                "telefono": null,
+                "codigopostal": "43717"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.48657,
+                    41.281608
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Municipal de Cultura",
+                "direccion": "Plaça Major, 11",
+                "poblacion": "Bisbal del Penedès, la",
+                "telefono": "977169926",
+                "codigopostal": "43717"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.489114,
+                    41.281128
+                ]
+            },
+            "properties": {
+                "nombre": "Racó de la gent gran",
+                "direccion": "Av. Baix Penedès, 8",
+                "poblacion": "Bisbal del Penedès, la",
+                "telefono": "977688438",
+                "codigopostal": "43717"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.489831,
+                    41.280241
+                ]
+            },
+            "properties": {
+                "nombre": "Poliesportiu Municipal",
+                "direccion": "Av. Baix Penedès, s/n",
+                "poblacion": "Bisbal del Penedès, la",
+                "telefono": "977688438",
+                "codigopostal": "43717"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.489831,
+                    41.280241
+                ]
+            },
+            "properties": {
+                "nombre": "Oficines d'Aqualia i Rebost Solidari",
+                "direccion": "Av. Baix Penedès, s/n",
+                "poblacion": "Bisbal del Penedès, la",
+                "telefono": "977688438",
+                "codigopostal": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.472872,
+                    41.285174
+                ]
+            },
+            "properties": {
+                "nombre": "Lolcal Social del Priorat",
+                "direccion": "Av. Priorat, 1",
+                "poblacion": "Bisbal del Penedès, la",
+                "telefono": "977688438",
+                "codigopostal": "43717"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.474903,
+                    41.264474
+                ]
+            },
+            "properties": {
+                "nombre": "Local social de Can Gordei",
+                "direccion": "Av. de Can Gordei, 25 BIS",
+                "poblacion": "Bisbal del Penedès, la",
+                "telefono": "977688438",
+                "codigopostal": "43717"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.492183,
+                    41.264459
+                ]
+            },
+            "properties": {
+                "nombre": "Local social de la Miralva",
+                "direccion": "C/ Gladiol, 6",
+                "poblacion": "Bisbal del Penedès, la",
+                "telefono": "977688438",
+                "codigopostal": "43717"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.462225,
+                    41.261887
+                ]
+            },
+            "properties": {
+                "nombre": "Local social de l'Esplai",
+                "direccion": "Av. de l'Esplai s/n",
+                "poblacion": "Bisbal del Penedès, la",
+                "telefono": "977688438",
+                "codigopostal": "43717"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.180809,
+                    41.120876
+                ]
+            },
+            "properties": {
+                "nombre": "Ferreteria Guinovart, S.L:",
+                "direccion": "Av. Raval, 84",
+                "poblacion": "Canonja, la",
+                "telefono": "682373106",
+                "codigopostal": "43110"
+            }
         }
     ]
 }
