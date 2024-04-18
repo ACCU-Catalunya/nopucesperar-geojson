@@ -71959,7 +71959,7 @@
                 "direccion": "-C/ Francesc Cambó s/n",
                 "poblacion": "Sarrià de Ter",
                 "telefono": "678214379",
-                "codigopostal": null
+                "codigopostal": "17840"
             }
         },
         {
@@ -72086,6 +72086,40 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    1.18083,
+                    41.121203
+                ]
+            },
+            "properties": {
+                "nombre": "Nolita Brunch",
+                "direccion": "C/ Raval, 77",
+                "poblacion": "Canonja, la",
+                "telefono": "977276428 /  696 260 495",
+                "codigopostal": "43110"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.181466,
+                    41.121243
+                ]
+            },
+            "properties": {
+                "nombre": "Aplec Restaurant",
+                "direccion": "C/Alcalde Marian Fonts, 46",
+                "poblacion": "Canonja, la",
+                "telefono": "639401535",
+                "codigopostal": "43110"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     1.181935,
                     41.120825
                 ]
@@ -72197,7 +72231,7 @@
                 "direccion": "Av. Baix Penedès, s/n",
                 "poblacion": "Bisbal del Penedès, la",
                 "telefono": "977688438",
-                "codigopostal": null
+                "codigopostal": "4371"
             }
         },
         {
