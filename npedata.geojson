@@ -72318,6 +72318,23 @@
                 "telefono": "682373106",
                 "codigopostal": "43110"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.873727,
+                    41.862263
+                ]
+            },
+            "properties": {
+                "nombre": "La Tempesta",
+                "direccion": "Carretera de Moià, 3",
+                "poblacion": "Balsareny",
+                "telefono": "699776354",
+                "codigopostal": "08660"
+            }
         }
     ]
 }
