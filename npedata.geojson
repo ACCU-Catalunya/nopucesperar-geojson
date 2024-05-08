@@ -72335,6 +72335,23 @@
                 "telefono": "699776354",
                 "codigopostal": "08660"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.72312,
+                    41.220602
+                ]
+            },
+            "properties": {
+                "nombre": "Associació contra el cáncer del Garraf",
+                "direccion": "C/ Pare Garí, 91",
+                "poblacion": "Vilanova i la Geltrú",
+                "telefono": "930267537",
+                "codigopostal": "08800"
+            }
         }
     ]
 }
