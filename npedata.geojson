@@ -72352,6 +72352,108 @@
                 "telefono": "930267537",
                 "codigopostal": "08800"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.695671,
+                    41.34249
+                ]
+            },
+            "properties": {
+                "nombre": "L'Atelier Saludable",
+                "direccion": "Av. Tarragona 72, bxs. esquerra",
+                "poblacion": "Vilafranca del Penedès",
+                "telefono": "633811469",
+                "codigopostal": "08720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.693615,
+                    41.345456
+                ]
+            },
+            "properties": {
+                "nombre": "Regina's Cake",
+                "direccion": "C/ d'Eugeni d'Ors, 13",
+                "poblacion": "Vilafranca del Penedès",
+                "telefono": "666093973",
+                "codigopostal": "08720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.697294,
+                    41.343669
+                ]
+            },
+            "properties": {
+                "nombre": "Makondo Coffee",
+                "direccion": "Av. Tarragona, 24",
+                "poblacion": "Vilafranca del Penedès",
+                "telefono": "665209422",
+                "codigopostal": "08720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.698452,
+                    41.343985
+                ]
+            },
+            "properties": {
+                "nombre": "Audiocentro Vilafranca",
+                "direccion": "Av. de Tarragona, 3",
+                "poblacion": "Vilafranca del Penedès",
+                "telefono": "601908287",
+                "codigopostal": "08720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.699193,
+                    41.346774
+                ]
+            },
+            "properties": {
+                "nombre": "Fic 5 Shop S.L.",
+                "direccion": "C/ de la Parellada, 17",
+                "poblacion": "Vilafranca del Penedès",
+                "telefono": "938924214",
+                "codigopostal": "08720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.697189,
+                    41.3467
+                ]
+            },
+            "properties": {
+                "nombre": "Manpuk",
+                "direccion": "Plaça Santa Maria 3, local B",
+                "poblacion": "Vilafranca del Penedès",
+                "telefono": "651596227",
+                "codigopostal": "08720"
+            }
         }
     ]
 }
