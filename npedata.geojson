@@ -72454,6 +72454,23 @@
                 "telefono": "651596227",
                 "codigopostal": "08720"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.293476,
+                    41.607111
+                ]
+            },
+            "properties": {
+                "nombre": "Associació contra el càncer al Vallès Oriental",
+                "direccion": "Passeig de la Muntanya, 68 baixos",
+                "poblacion": "Granollers",
+                "telefono": "931190074",
+                "codigopostal": "08402"
+            }
         }
     ]
 }
