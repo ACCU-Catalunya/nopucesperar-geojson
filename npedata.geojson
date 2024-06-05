@@ -72471,6 +72471,363 @@
                 "telefono": "931190074",
                 "codigopostal": "08402"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.74328,
+                    41.22878
+                ]
+            },
+            "properties": {
+                "nombre": "Els amics - Bar - Degustació",
+                "direccion": "C/ d'Antoni Gaudí, 5. Centre Cívic",
+                "poblacion": "Roquetes",
+                "telefono": "935844340",
+                "codigopostal": "08812"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.743102,
+                    41.225521
+                ]
+            },
+            "properties": {
+                "nombre": "Tapping Bar",
+                "direccion": "C/ Federico García Lorca, 149",
+                "poblacion": "Roquetes",
+                "telefono": "938148240",
+                "codigopostal": "08812"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.747317,
+                    41.229126
+                ]
+            },
+            "properties": {
+                "nombre": "Perruqueria Mònica",
+                "direccion": "C/ de Múrcia, 82",
+                "poblacion": "Roquetes",
+                "telefono": "938939356",
+                "codigopostal": "08812"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.745052,
+                    41.227076
+                ]
+            },
+            "properties": {
+                "nombre": "Cerveceria Taperia Les Roquetes",
+                "direccion": "C/ Miquel Servet, 111",
+                "poblacion": "Roquetes",
+                "telefono": "641908691",
+                "codigopostal": "08812"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.806151,
+                    41.238201
+                ]
+            },
+            "properties": {
+                "nombre": "Xampú Sitges",
+                "direccion": "Passeig de Vilanova 6-8",
+                "poblacion": "Sitges",
+                "telefono": "606815161",
+                "codigopostal": "08870"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.725975,
+                    41.225203
+                ]
+            },
+            "properties": {
+                "nombre": "Tutto Donna",
+                "direccion": "C/  Dels Caputxins, 33",
+                "poblacion": "Vilanova i la Geltrú",
+                "telefono": "937682340",
+                "codigopostal": "08800"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.721986,
+                    41.224601
+                ]
+            },
+            "properties": {
+                "nombre": "Iturat Bicicletes",
+                "direccion": "C/del Jardí, 42",
+                "poblacion": "Vilanova i la Geltrú",
+                "telefono": "938932815",
+                "codigopostal": "08800"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.70546,
+                    41.350479
+                ]
+            },
+            "properties": {
+                "nombre": "Serveis Penedès",
+                "direccion": "C/ Igualada, 70-78",
+                "poblacion": "Vilafranca del Penedès",
+                "telefono": "938922244",
+                "codigopostal": "08720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.704739,
+                    41.349746
+                ]
+            },
+            "properties": {
+                "nombre": "Saüc Floristería",
+                "direccion": "C/ Igualada, 60",
+                "poblacion": "Vilafranca del Penedès",
+                "telefono": "627412657",
+                "codigopostal": "08720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.69794,
+                    41.346126
+                ]
+            },
+            "properties": {
+                "nombre": "Bar Restaurant Llumeneta Cuina",
+                "direccion": "C/ d'Amàlia Soler, 97",
+                "poblacion": "Vilafranca del Penedès",
+                "telefono": "931133522",
+                "codigopostal": "08720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.696904,
+                    41.341392
+                ]
+            },
+            "properties": {
+                "nombre": "Centre de Podologia Álvar Francés",
+                "direccion": "C/ Amàlia Soler, 104",
+                "poblacion": "Vilafranca del Penedès",
+                "telefono": "644310620",
+                "codigopostal": "08720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.696285,
+                    41.340708
+                ]
+            },
+            "properties": {
+                "nombre": "Repro-Abac S.L.",
+                "direccion": "C/ Tossa de Mar, 16",
+                "poblacion": "Vilafranca del Penedès",
+                "telefono": "938900777",
+                "codigopostal": "08720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.699944,
+                    41.343024
+                ]
+            },
+            "properties": {
+                "nombre": "Magí Autoescola",
+                "direccion": "C/ Amàlia Soler, 34-36",
+                "poblacion": "Vilafranca del Penedès",
+                "telefono": "938902773",
+                "codigopostal": "08720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.703983,
+                    41.346469
+                ]
+            },
+            "properties": {
+                "nombre": "Vingis Perruqueria",
+                "direccion": "Av. de Barcelona, 83 local 2",
+                "poblacion": "Vilafranca del Penedès",
+                "telefono": "931406592",
+                "codigopostal": "08720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.699102,
+                    41.342401
+                ]
+            },
+            "properties": {
+                "nombre": "On Vila Perruqueria",
+                "direccion": "C/ d'Amàlia Soler, 67",
+                "poblacion": "Vilafranca del Penedès",
+                "telefono": "938900784",
+                "codigopostal": "93890"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.703358,
+                    41.34519
+                ]
+            },
+            "properties": {
+                "nombre": "Bar Plaza Cafeteria",
+                "direccion": "Plaça Estació, 2",
+                "poblacion": "Vilafranca del Penedès",
+                "telefono": "632606480",
+                "codigopostal": "08720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.697653,
+                    41.340722
+                ]
+            },
+            "properties": {
+                "nombre": "Ca L'hostale",
+                "direccion": "C/Germanor, 32",
+                "poblacion": "Vilafranca del Penedès",
+                "telefono": "930066030",
+                "codigopostal": "08720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.706214,
+                    41.343163
+                ]
+            },
+            "properties": {
+                "nombre": "Montse Bonet Perruqueria",
+                "direccion": "Passeig Camps dels Rolls, s/n",
+                "poblacion": "Vilafranca del Penedès",
+                "telefono": "938902905 / 660189744",
+                "codigopostal": "08720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.703101,
+                    41.339408
+                ]
+            },
+            "properties": {
+                "nombre": "La Serenoa Herbodietètica",
+                "direccion": "Av. Mediterrània, 11",
+                "poblacion": "Vilafranca del Penedès",
+                "telefono": "938902363",
+                "codigopostal": "08720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.743683,
+                    41.22645
+                ]
+            },
+            "properties": {
+                "nombre": "Celler Can Joan",
+                "direccion": "C/ de Torres Quevedo, 27",
+                "poblacion": "Roquetes",
+                "telefono": "938141987",
+                "codigopostal": "08812"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.701561,
+                    41.337907
+                ]
+            },
+            "properties": {
+                "nombre": "Biopompas",
+                "direccion": "Rambla de la Girada, 50",
+                "poblacion": "Vilafranca del Penedès",
+                "telefono": "935312208",
+                "codigopostal": "08720"
+            }
         }
     ]
 }
