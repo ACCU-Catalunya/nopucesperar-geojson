@@ -72828,6 +72828,448 @@
                 "telefono": "935312208",
                 "codigopostal": "08720"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.163287,
+                    41.378655
+                ]
+            },
+            "properties": {
+                "nombre": "Fet a la Conca, SCCL",
+                "direccion": "Muralla de Santa Tecla,  54-56",
+                "poblacion": "Montblanc",
+                "telefono": "977863206",
+                "codigopostal": "43400"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.580054,
+                    41.187863
+                ]
+            },
+            "properties": {
+                "nombre": "Akquaaa Restaurant",
+                "direccion": "Av. Sant Joan de Déu, 119",
+                "poblacion": "Calafell",
+                "telefono": "977692507",
+                "codigopostal": "43820"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.805136,
+                    41.234319
+                ]
+            },
+            "properties": {
+                "nombre": "Sercotel Kalma Sitges",
+                "direccion": "Passeig de la Ribera, 65-68",
+                "poblacion": "Sitges",
+                "telefono": "938113725",
+                "codigopostal": "08870"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.806532,
+                    41.234673
+                ]
+            },
+            "properties": {
+                "nombre": "Sports Bar",
+                "direccion": "Passeig de la Ribera, 48",
+                "poblacion": "Sitges",
+                "telefono": "938111100",
+                "codigopostal": "08870"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.809191,
+                    41.23659
+                ]
+            },
+            "properties": {
+                "nombre": "La granja de Sitges",
+                "direccion": "C/ de Parellades, 4",
+                "poblacion": "Sitges",
+                "telefono": "938114962",
+                "codigopostal": "08870"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.810031,
+                    41.236837
+                ]
+            },
+            "properties": {
+                "nombre": "Bar Tomeu",
+                "direccion": "C/ Jesús, 8",
+                "poblacion": "Sitges",
+                "telefono": "936785347",
+                "codigopostal": "08870"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.805899,
+                    41.236593
+                ]
+            },
+            "properties": {
+                "nombre": "Redbar",
+                "direccion": "C/ d'Espalter, 16",
+                "poblacion": "Sitges",
+                "telefono": "938109500",
+                "codigopostal": "08870"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.806643,
+                    41.237553
+                ]
+            },
+            "properties": {
+                "nombre": "Clínica Dental del Vinyet",
+                "direccion": "C/ Sant Josep, 33-35",
+                "poblacion": "Sitges",
+                "telefono": "938948322",
+                "codigopostal": "08870"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.725379,
+                    41.225915
+                ]
+            },
+            "properties": {
+                "nombre": "Happy Time",
+                "direccion": "C/ Caputxins, 12",
+                "poblacion": "Vilanova i la Geltrú",
+                "telefono": "938934732",
+                "codigopostal": "08800"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.725774,
+                    41.22566
+                ]
+            },
+            "properties": {
+                "nombre": "El Llençol",
+                "direccion": "C/ Caputxins, 17",
+                "poblacion": "Vilanova i la Geltrú",
+                "telefono": "938166099",
+                "codigopostal": "08800"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.725474,
+                    41.226208
+                ]
+            },
+            "properties": {
+                "nombre": "Jeicolori Shop",
+                "direccion": "C/ Caputxins, 3",
+                "poblacion": "Vilanova i la Geltrú",
+                "telefono": "677431986",
+                "codigopostal": "08800"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.725465,
+                    41.226139
+                ]
+            },
+            "properties": {
+                "nombre": "Llibreria A Tres Tintes",
+                "direccion": "C/ Caputxins, 5",
+                "poblacion": "Vilanova i la Geltrú",
+                "telefono": "933217026",
+                "codigopostal": "08800"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.725384,
+                    41.226276
+                ]
+            },
+            "properties": {
+                "nombre": "Galimany Prat",
+                "direccion": "C/ Caputxins, 1",
+                "poblacion": "Vilanova i la Geltrú",
+                "telefono": "938930436",
+                "codigopostal": "08800"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.806443,
+                    41.237678
+                ]
+            },
+            "properties": {
+                "nombre": "Hotel El Cid",
+                "direccion": "C/ Sant Josep, 39",
+                "poblacion": "Sitges",
+                "telefono": "938941379",
+                "codigopostal": "08870"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.808666,
+                    41.235296
+                ]
+            },
+            "properties": {
+                "nombre": "Guria Taberna",
+                "direccion": "C/ Sant Pere, 30",
+                "poblacion": "Sitges",
+                "telefono": "619139834",
+                "codigopostal": "08870"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.809191,
+                    41.236394
+                ]
+            },
+            "properties": {
+                "nombre": "CINC Food Parlour",
+                "direccion": "C/ Parellades, 5",
+                "poblacion": "Sitges",
+                "telefono": "936693130",
+                "codigopostal": "08870"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.809578,
+                    41.236774
+                ]
+            },
+            "properties": {
+                "nombre": "Bella Ciao",
+                "direccion": "Plaça Cap de la Vila, 4",
+                "poblacion": "Sitges",
+                "telefono": "699860545",
+                "codigopostal": "08870"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.74455,
+                    41.22842
+                ]
+            },
+            "properties": {
+                "nombre": "César Café & Bar",
+                "direccion": "C/ Miquel Àngel, 27",
+                "poblacion": "Roquetes",
+                "telefono": "641908608",
+                "codigopostal": "08812"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.744647,
+                    41.229915
+                ]
+            },
+            "properties": {
+                "nombre": "Forn l'Alegria",
+                "direccion": "Av. Catalunya, 10",
+                "poblacion": "Roquetes",
+                "telefono": "622535699",
+                "codigopostal": "08812"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.746573,
+                    41.230269
+                ]
+            },
+            "properties": {
+                "nombre": "Autoescola Les Roquetes",
+                "direccion": "Av.  Mas d'En Serra, 25",
+                "poblacion": "Roquetes",
+                "telefono": "938140502",
+                "codigopostal": "08812"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.725896,
+                    41.215068
+                ]
+            },
+            "properties": {
+                "nombre": "Gelats Passeig",
+                "direccion": "Passeig del Carme, 8",
+                "poblacion": "Vilanova i la Geltrú",
+                "telefono": "630825198",
+                "codigopostal": "08800"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.727727,
+                    41.215543
+                ]
+            },
+            "properties": {
+                "nombre": "La Tangana",
+                "direccion": "Passeig del Carme, 31",
+                "poblacion": "Vilanova i la Geltrú",
+                "telefono": "695502553",
+                "codigopostal": "08800"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.727282,
+                    41.21483
+                ]
+            },
+            "properties": {
+                "nombre": "Xodó Restobar",
+                "direccion": "Passeig del Carme, 36",
+                "poblacion": "Vilanova i la Geltrú",
+                "telefono": "638853981",
+                "codigopostal": "08800"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.729765,
+                    41.215931
+                ]
+            },
+            "properties": {
+                "nombre": "1918 Cuina de Mar Restaurant",
+                "direccion": "Passeig Maritim, 56",
+                "poblacion": "Vilanova i la Geltrú",
+                "telefono": "938532355",
+                "codigopostal": "08800"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.255637,
+                    41.287288
+                ]
+            },
+            "properties": {
+                "nombre": "Autoescola Clàxon",
+                "direccion": "Passeig de l'estació, 21",
+                "poblacion": "Valls",
+                "telefono": "977609094",
+                "codigopostal": "43800"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.699326,
+                    41.345499
+                ]
+            },
+            "properties": {
+                "nombre": "La Cultural Lliberia",
+                "direccion": "C/ Sant Joan, 12",
+                "poblacion": "Vilobí del Penedès",
+                "telefono": "938920848",
+                "codigopostal": "08720"
+            }
         }
     ]
 }
