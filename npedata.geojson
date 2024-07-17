@@ -73270,6 +73270,23 @@
                 "telefono": "938920848",
                 "codigopostal": "08720"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.162391,
+                    42.42653
+                ]
+            },
+            "properties": {
+                "nombre": "Consorci Port de Portbou",
+                "direccion": "Passeig de la Sardana s/n (Port Esportiu)",
+                "poblacion": "Portbou",
+                "telefono": "972390712",
+                "codigopostal": "17497"
+            }
         }
     ]
 }
