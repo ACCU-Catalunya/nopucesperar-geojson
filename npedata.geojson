@@ -73287,6 +73287,40 @@
                 "telefono": "972390712",
                 "codigopostal": "17497"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.626533,
+                    41.614889
+                ]
+            },
+            "properties": {
+                "nombre": "La Paeria - Ajuntament de Lleida",
+                "direccion": "Plaça de la Paeria, 1",
+                "poblacion": "Lleida",
+                "telefono": "973700300",
+                "codigopostal": "25007"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.625061,
+                    41.613035
+                ]
+            },
+            "properties": {
+                "nombre": "Casa dels Gegants",
+                "direccion": "Av. Blondel, 64",
+                "poblacion": "Lleida",
+                "telefono": "973700393",
+                "codigopostal": "25002"
+            }
         }
     ]
 }
