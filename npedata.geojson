@@ -73321,6 +73321,142 @@
                 "telefono": "973700393",
                 "codigopostal": "25002"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.625481,
+                    41.613552
+                ]
+            },
+            "properties": {
+                "nombre": "Sala d'Exposicions de l'Ajuntament de Lledia",
+                "direccion": "Av. Blondel, 40",
+                "poblacion": "Lleida",
+                "telefono": null,
+                "codigopostal": "25002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.622309,
+                    41.617173
+                ]
+            },
+            "properties": {
+                "nombre": "Centre d'Art la Panera",
+                "direccion": "Plaça de la Panera, 2",
+                "poblacion": "Lleida",
+                "telefono": "973262185",
+                "codigopostal": "25002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.636589,
+                    41.602962
+                ]
+            },
+            "properties": {
+                "nombre": "Museu de l'Aigua - Campament de la Canadenca",
+                "direccion": "AV.  Miquel Batllori, 52",
+                "poblacion": "Lleida",
+                "telefono": "973211992",
+                "codigopostal": "25002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.621986,
+                    41.616157
+                ]
+            },
+            "properties": {
+                "nombre": "Dipòsit el Pla de l'Aigua",
+                "direccion": "C/ Múrcia, 10",
+                "poblacion": "Lleida",
+                "telefono": "973211992",
+                "codigopostal": "25002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.632764,
+                    41.613314
+                ]
+            },
+            "properties": {
+                "nombre": "Museu d'Automoció Roda Roda",
+                "direccion": "C/ Santa Cecilia, 22 (Davant dels Camps Elisis)",
+                "poblacion": "Lleida",
+                "telefono": "973212635",
+                "codigopostal": "25002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.621626,
+                    41.614028
+                ]
+            },
+            "properties": {
+                "nombre": "Biblioteca - Fonoteca de l'Auditori",
+                "direccion": "Pl. Josep Prenafeta, s/n",
+                "poblacion": "Lleida",
+                "telefono": "973700639",
+                "codigopostal": "25002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.629485,
+                    41.617591
+                ]
+            },
+            "properties": {
+                "nombre": "Morera, Museu d'Art Modern i Contemporani",
+                "direccion": "Rambla de Ferran, 13",
+                "poblacion": "Lleida",
+                "telefono": "973700419",
+                "codigopostal": "25007"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.629064,
+                    41.6178
+                ]
+            },
+            "properties": {
+                "nombre": "Auditori Municipal Enric Granados",
+                "direccion": "Plaça Josep Prenafeta, s/n",
+                "poblacion": "Lleida",
+                "telefono": "973700639",
+                "codigopostal": "25004"
+            }
         }
     ]
 }
