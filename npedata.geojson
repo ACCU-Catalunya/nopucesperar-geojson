@@ -73335,7 +73335,7 @@
                 "nombre": "Sala d'Exposicions de l'Ajuntament de Lledia",
                 "direccion": "Av. Blondel, 40",
                 "poblacion": "Lleida",
-                "telefono": null,
+                "telefono": "973700393",
                 "codigopostal": "25002"
             }
         },
@@ -73370,7 +73370,7 @@
                 "direccion": "AV.  Miquel Batllori, 52",
                 "poblacion": "Lleida",
                 "telefono": "973211992",
-                "codigopostal": "25002"
+                "codigopostal": "25001"
             }
         },
         {
@@ -73404,7 +73404,7 @@
                 "direccion": "C/ Santa Cecilia, 22 (Davant dels Camps Elisis)",
                 "poblacion": "Lleida",
                 "telefono": "973212635",
-                "codigopostal": "25002"
+                "codigopostal": "25001"
             }
         },
         {
@@ -73412,16 +73412,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.621626,
-                    41.614028
+                    0.625746,
+                    41.622561
                 ]
             },
             "properties": {
                 "nombre": "Biblioteca - Fonoteca de l'Auditori",
-                "direccion": "Pl. Josep Prenafeta, s/n",
+                "direccion": "Pl. Josep Prenafeta, s/n, 4t. planta",
                 "poblacion": "Lleida",
                 "telefono": "973700639",
-                "codigopostal": "25002"
+                "codigopostal": "25004"
             }
         },
         {
@@ -73456,6 +73456,261 @@
                 "poblacion": "Lleida",
                 "telefono": "973700639",
                 "codigopostal": "25004"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.615618,
+                    41.61328
+                ]
+            },
+            "properties": {
+                "nombre": "Aula Municipal de Teatre de Lleida",
+                "direccion": "C/ Roca Labrador, s/n",
+                "poblacion": "Lleida",
+                "telefono": "973 268 318",
+                "codigopostal": "25003"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.616842,
+                    41.611891
+                ]
+            },
+            "properties": {
+                "nombre": "Teatre Municipal de l'Escorxador",
+                "direccion": "C/ Lluís Companys, s/n",
+                "poblacion": "Lleida",
+                "telefono": "973279356",
+                "codigopostal": "25003"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.642432,
+                    41.601988
+                ]
+            },
+            "properties": {
+                "nombre": "Bucs d'Assaig El Mercat",
+                "direccion": "Plaça de Sant Jordi s/n",
+                "poblacion": "Lleida",
+                "telefono": "973204593",
+                "codigopostal": "25001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.635227,
+                    41.603248
+                ]
+            },
+            "properties": {
+                "nombre": "Club Jove Magraners",
+                "direccion": "Plaça de Joan XXIII, s/n",
+                "poblacion": "Lleida",
+                "telefono": "973249253",
+                "codigopostal": "25001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.629618,
+                    41.635971
+                ]
+            },
+            "properties": {
+                "nombre": "Club Jove Secà de Sant Pere (Centre Cívic Secà de Sant Pere)",
+                "direccion": "Plaça Sant Pere, s/n",
+                "poblacion": "Lleida",
+                "telefono": "973249253",
+                "codigopostal": "25005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.623482,
+                    41.614607
+                ]
+            },
+            "properties": {
+                "nombre": "Conservatori de Música de Lleida",
+                "direccion": "Plaça Josep Prenafeta, 1",
+                "poblacion": "Lleida",
+                "telefono": "973700676",
+                "codigopostal": "25004"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.623251,
+                    41.613837
+                ]
+            },
+            "properties": {
+                "nombre": "Escola d’Art Municipal Leandre Cristòfol (EAM)",
+                "direccion": "C/ La Palma, 12",
+                "poblacion": "Lleida",
+                "telefono": "973700362",
+                "codigopostal": "25002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.622693,
+                    41.627858
+                ]
+            },
+            "properties": {
+                "nombre": "Esplai Balàfia",
+                "direccion": "Av. Alcalde Porqueres, 80",
+                "poblacion": "Lleida",
+                "telefono": "973221325",
+                "codigopostal": "25005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.62348,
+                    41.61365
+                ]
+            },
+            "properties": {
+                "nombre": "Lleida Jove",
+                "direccion": "C/ La Palma, 6-10",
+                "poblacion": "Lleida",
+                "telefono": "973700666",
+                "codigopostal": "25002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.626638,
+                    41.627537
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Cívic Balàfia",
+                "direccion": "C/ Terrassa, 1",
+                "poblacion": "Lleida",
+                "telefono": "973700655",
+                "codigopostal": "25005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.64556,
+                    41.601985
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Cívic Bordeta",
+                "direccion": "Av. Pla d'Urgell, 28-32",
+                "poblacion": "Lleida",
+                "telefono": "973700666",
+                "codigopostal": "25001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.632891,
+                    41.61157
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Cívic Cappont",
+                "direccion": "C/ Alfons II, 14",
+                "poblacion": "Lleida",
+                "telefono": "973700645",
+                "codigopostal": "25001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.639334,
+                    41.649234
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Cívic Llívia",
+                "direccion": "C/ Gran de Llívia, 58",
+                "poblacion": "Lleida",
+                "telefono": null,
+                "codigopostal": "25195"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.635227,
+                    41.603248
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Cívir Magraners",
+                "direccion": "Plaça de Joan XXIII, s/n",
+                "poblacion": "Lleida",
+                "telefono": "973700697",
+                "codigopostal": "25001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.611289,
+                    41.612708
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Cívic Mariola",
+                "direccion": "C/ Artur Mor, 1",
+                "poblacion": "Lleida",
+                "telefono": "973700656",
+                "codigopostal": "25003"
             }
         }
     ]
