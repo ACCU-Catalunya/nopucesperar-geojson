@@ -73712,6 +73712,125 @@
                 "telefono": "973700656",
                 "codigopostal": "25003"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.629064,
+                    41.6178
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Cívic l'Ereta",
+                "direccion": "Plaça Erata s/n",
+                "poblacion": "Lleida",
+                "telefono": "973700643",
+                "codigopostal": "25002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.629661,
+                    41.619296
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Cívic Democràcia",
+                "direccion": "C/ Democràcia, 19",
+                "poblacion": "Lleida",
+                "telefono": "973700651",
+                "codigopostal": "25007"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.629618,
+                    41.635971
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Cívic Secà de Sant Pere",
+                "direccion": "Plaça Sant Pere, s/n",
+                "poblacion": "Lleida",
+                "telefono": "973249253",
+                "codigopostal": "25005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.638167,
+                    41.626128
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Cívic Pardinyes",
+                "direccion": "C/ Sant Pere Claver, 5",
+                "poblacion": "Lleida",
+                "telefono": "606014339",
+                "codigopostal": "25005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.622213,
+                    41.619373
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Senior Bonaire",
+                "direccion": "C/ Bonaire, 37",
+                "poblacion": "Lleida",
+                "telefono": "973246498",
+                "codigopostal": "25004"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.642314,
+                    41.604988
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Sènior de la Bordeta",
+                "direccion": "C/ Sant Jaume, 1",
+                "poblacion": "Lleida",
+                "telefono": "973205291",
+                "codigopostal": "25001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.631314,
+                    41.618139
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Sènior de Democràcia",
+                "direccion": "C/ Comerç, 38",
+                "poblacion": "Lleida",
+                "telefono": "973230725",
+                "codigopostal": "25007"
+            }
         }
     ]
 }
