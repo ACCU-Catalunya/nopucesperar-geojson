@@ -73831,6 +73831,176 @@
                 "telefono": "973230725",
                 "codigopostal": "25007"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.663414,
+                    41.608976
+                ]
+            },
+            "properties": {
+                "nombre": "LLar dels Magraners",
+                "direccion": "Plaça Joan XXIII",
+                "poblacion": "Lleida",
+                "telefono": "690 984 404",
+                "codigopostal": "25001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.611289,
+                    41.612708
+                ]
+            },
+            "properties": {
+                "nombre": "Centre  Sènior de la Mariola",
+                "direccion": "C/Artur Mor, 1",
+                "poblacion": "Lleida",
+                "telefono": null,
+                "codigopostal": "25003"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.637953,
+                    41.626223
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Sènior de Pardinyes",
+                "direccion": "Sant Pere Claver, 1",
+                "poblacion": "Lleida",
+                "telefono": "973 247 919",
+                "codigopostal": "25005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.620456,
+                    41.616839
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Sènior Santa Teresina",
+                "direccion": "C/ Pica d'Estacs, 4",
+                "poblacion": "Lleida",
+                "telefono": "973 269 762",
+                "codigopostal": "25006"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.63295,
+                    41.612851
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Sènior de Santa Cecília",
+                "direccion": "C/ Eduard Velasco, 5",
+                "poblacion": "Lleida",
+                "telefono": "973 205 991",
+                "codigopostal": "25001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.629777,
+                    41.636097
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Sènior Secà de Sant Pere",
+                "direccion": "Plaça Sant Pere, 3",
+                "poblacion": "Lleida",
+                "telefono": "973 243 353",
+                "codigopostal": "25005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.618542,
+                    41.622774
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Sènior el Pilar",
+                "direccion": "C/ Tamarit de Llitera, 6",
+                "poblacion": "Lleida",
+                "telefono": "973 228 124",
+                "codigopostal": "25008"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.626208,
+                    41.609183
+                ]
+            },
+            "properties": {
+                "nombre": "Piscina Municipal de Cappont",
+                "direccion": "AV. València, 36",
+                "poblacion": "Lleida",
+                "telefono": "973 700 614",
+                "codigopostal": "25001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.625395,
+                    41.630719
+                ]
+            },
+            "properties": {
+                "nombre": "Piscina Municipal de Balàfia",
+                "direccion": "C/ de José Olondriz Ortiz s/n",
+                "poblacion": "Lleida",
+                "telefono": "973 700 614 / 632 63 04 80",
+                "codigopostal": "25005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.638135,
+                    41.620846
+                ]
+            },
+            "properties": {
+                "nombre": "Piscina Municipal de Pardinyes",
+                "direccion": "Av. Tortosa, s/n",
+                "poblacion": "Lleida",
+                "telefono": "973 700 614",
+                "codigopostal": "25005"
+            }
         }
     ]
 }
