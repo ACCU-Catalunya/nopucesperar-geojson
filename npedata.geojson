@@ -73913,7 +73913,7 @@
                 "nombre": "Centre Sènior de Santa Cecília",
                 "direccion": "C/ Eduard Velasco, 5",
                 "poblacion": "Lleida",
-                "telefono": "973 205 991",
+                "telefono": "973205991",
                 "codigopostal": "25001"
             }
         },
@@ -73998,8 +73998,144 @@
                 "nombre": "Piscina Municipal de Pardinyes",
                 "direccion": "Av. Tortosa, s/n",
                 "poblacion": "Lleida",
-                "telefono": "973 700 614",
+                "telefono": "973700614",
                 "codigopostal": "25005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.645661,
+                    41.602408
+                ]
+            },
+            "properties": {
+                "nombre": "Piscina Municipal de la Bordeta",
+                "direccion": "AV. Hostal de la Bordeta s/n",
+                "poblacion": "Lleida",
+                "telefono": "973700614",
+                "codigopostal": "25001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.629038,
+                    41.635596
+                ]
+            },
+            "properties": {
+                "nombre": "Piscina Municipal del Secà",
+                "direccion": "C/ del Camí de Marimunt, 1",
+                "poblacion": "Lleida",
+                "telefono": "643825509 / 973700614",
+                "codigopostal": "25005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.665368,
+                    41.607629
+                ]
+            },
+            "properties": {
+                "nombre": "Piscina Municipal de Magraners",
+                "direccion": "C/ Vila-Rodona, s/n",
+                "poblacion": "Lleida",
+                "telefono": "973700614",
+                "codigopostal": "25001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.639402,
+                    41.621127
+                ]
+            },
+            "properties": {
+                "nombre": "Complex Esportiu Municipal (CEM Trèvol Lleida)",
+                "direccion": "AV. de Tortosa, 84",
+                "poblacion": "Lleida",
+                "telefono": "973106885",
+                "codigopostal": "25005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.626005,
+                    41.629302
+                ]
+            },
+            "properties": {
+                "nombre": "Pavelló Agnès Gregori",
+                "direccion": "C/ Baró de Maials, 117",
+                "poblacion": "Lleida",
+                "telefono": "973700614",
+                "codigopostal": "25005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.63173,
+                    41.625866
+                ]
+            },
+            "properties": {
+                "nombre": "Pavelló Barris Nord",
+                "direccion": "AV Prat de la Riba, 113",
+                "poblacion": "Lleida",
+                "telefono": "973224934",
+                "codigopostal": "25005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.63251,
+                    41.613214
+                ]
+            },
+            "properties": {
+                "nombre": "Pavelló Camps Elisis",
+                "direccion": "C/ Santa Cecília, s/n",
+                "poblacion": "Lleida",
+                "telefono": "973700614",
+                "codigopostal": "25001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.629115,
+                    41.610064
+                ]
+            },
+            "properties": {
+                "nombre": "Pavelló de Cappont",
+                "direccion": "C/de la Dra Castells, s/n",
+                "poblacion": "Lleida",
+                "telefono": "973700614",
+                "codigopostal": "25001"
             }
         }
     ]
