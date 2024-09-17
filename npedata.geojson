@@ -74137,6 +74137,244 @@
                 "telefono": "973700614",
                 "codigopostal": "25001"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.645229,
+                    41.601426
+                ]
+            },
+            "properties": {
+                "nombre": "Pavelló Municipal de la Bordeta",
+                "direccion": "Travessia de Sant Jordi, 45",
+                "poblacion": "Lleida",
+                "telefono": "973700614",
+                "codigopostal": "25001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.638135,
+                    41.620846
+                ]
+            },
+            "properties": {
+                "nombre": "Pavelló de Pardinyes",
+                "direccion": "AV. Tortosa s/n",
+                "poblacion": "Lleida",
+                "telefono": "973700614",
+                "codigopostal": "25005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.665368,
+                    41.607629
+                ]
+            },
+            "properties": {
+                "nombre": "Pavelló Municipal els Magraners",
+                "direccion": "C/ de Vila Rodona s/n",
+                "poblacion": "Lleida",
+                "telefono": "973700614",
+                "codigopostal": "25001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.611313,
+                    41.62334
+                ]
+            },
+            "properties": {
+                "nombre": "Pavelló Municipal Onze de setembre",
+                "direccion": "Passeig de l'Onze de setembre, 12",
+                "poblacion": "Lleida",
+                "telefono": "973249678",
+                "codigopostal": "25199"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.625788,
+                    41.634954
+                ]
+            },
+            "properties": {
+                "nombre": "Pavelló Municipal Juanjo Garra",
+                "direccion": "C/ de Jordi Solé Tura, s/n",
+                "poblacion": "Lleida",
+                "telefono": "973700614",
+                "codigopostal": "25005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.623466,
+                    41.614011
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Municipal i d'atenció a les dones (CIAD)",
+                "direccion": "Plaça dels Fanalets de Sant Jaume, s/n",
+                "poblacion": "Lleida",
+                "telefono": "973700461",
+                "codigopostal": "25002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.620456,
+                    41.616839
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Jove de Salud Sexual",
+                "direccion": "Carrer Nou 14, bxs. local 12",
+                "poblacion": "Lleida",
+                "telefono": "973700608",
+                "codigopostal": "25002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.620456,
+                    41.616839
+                ]
+            },
+            "properties": {
+                "nombre": "Cementiri de Lledia",
+                "direccion": "AV. Marqués Boldalba Montardit",
+                "poblacion": "Lleida",
+                "telefono": "973211524",
+                "codigopostal": "25190"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.601924,
+                    41.626532
+                ]
+            },
+            "properties": {
+                "nombre": "Arborètum Jardí Botànic",
+                "direccion": "Carrer Enric Farreny, 49",
+                "poblacion": "Lleida",
+                "telefono": "973070083",
+                "codigopostal": "25199"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.642525,
+                    41.628781
+                ]
+            },
+            "properties": {
+                "nombre": "Centre d’Interpretació de la Mitjana",
+                "direccion": "Parc de la Mitjana",
+                "poblacion": "Lleida",
+                "telefono": "973232559",
+                "codigopostal": "25005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.670692,
+                    41.61049
+                ]
+            },
+            "properties": {
+                "nombre": "Mercat Central de fruites i verdures",
+                "direccion": "Polígon Industrial \"Camí dels Frares\" CIM",
+                "poblacion": "Lleida",
+                "telefono": "973257084 / 973700616",
+                "codigopostal": "25191"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.622502,
+                    41.629016
+                ]
+            },
+            "properties": {
+                "nombre": "Mercat Municipal de Balàfia",
+                "direccion": "AV. Alcalde Porqueres, 98",
+                "poblacion": "Lleida",
+                "telefono": "973243655",
+                "codigopostal": "25005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.628361,
+                    41.611739
+                ]
+            },
+            "properties": {
+                "nombre": "Mercat Municipal de Cappont",
+                "direccion": "C/ Sant Joan de Mata, 2",
+                "poblacion": "Lleida",
+                "telefono": "935644323",
+                "codigopostal": "25001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.615982,
+                    41.619549
+                ]
+            },
+            "properties": {
+                "nombre": "Mercat Municipal de Ronda-Fleming",
+                "direccion": "AV. Doctor Fleming, 12",
+                "poblacion": "Lleida",
+                "telefono": "973700616",
+                "codigopostal": "25006"
+            }
         }
     ]
 }
