@@ -74375,6 +74375,57 @@
                 "telefono": "973700616",
                 "codigopostal": "25006"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.629485,
+                    41.618076
+                ]
+            },
+            "properties": {
+                "nombre": "Diputació de Lleida",
+                "direccion": "C/ del Carme, 26",
+                "poblacion": "Lleida",
+                "telefono": "973249200",
+                "codigopostal": "25007"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.581966,
+                    41.596781
+                ]
+            },
+            "properties": {
+                "nombre": "Gerència Caparrella",
+                "direccion": "Complex de la Caparrella",
+                "poblacion": "Lleida",
+                "telefono": null,
+                "codigopostal": "25192"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.581966,
+                    41.596781
+                ]
+            },
+            "properties": {
+                "nombre": "Escoles especials",
+                "direccion": "Complex de la Caparrella",
+                "poblacion": "Lleida",
+                "telefono": null,
+                "codigopostal": "25192"
+            }
         }
     ]
 }
