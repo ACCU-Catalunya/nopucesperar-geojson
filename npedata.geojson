@@ -74420,11 +74420,79 @@
                 ]
             },
             "properties": {
+                "nombre": "Imprempta provincial de la Diputació",
+                "direccion": "Complex de la Caparrella",
+                "poblacion": "Lleida",
+                "telefono": null,
+                "codigopostal": "25192"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.581966,
+                    41.596781
+                ]
+            },
+            "properties": {
                 "nombre": "Escoles especials",
                 "direccion": "Complex de la Caparrella",
                 "poblacion": "Lleida",
                 "telefono": null,
                 "codigopostal": "25192"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.472324,
+                    41.949763
+                ]
+            },
+            "properties": {
+                "nombre": "Ajuntament de Llobera",
+                "direccion": "Plaça de la Vila s/s",
+                "poblacion": "Llobera",
+                "telefono": "973483829",
+                "codigopostal": "25281"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.959905,
+                    41.501135
+                ]
+            },
+            "properties": {
+                "nombre": "Ajuntament dels Omellons",
+                "direccion": "Plaça Major, 13",
+                "poblacion": "Omellons, els",
+                "telefono": "973156031",
+                "codigopostal": "25412"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.959905,
+                    41.501135
+                ]
+            },
+            "properties": {
+                "nombre": "Bar Casal dels Avis",
+                "direccion": "Plaça Major, 13 bxos.",
+                "poblacion": "Omellons, els",
+                "telefono": "973156031",
+                "codigopostal": "25412"
             }
         }
     ]
