@@ -74494,6 +74494,23 @@
                 "telefono": "973156031",
                 "codigopostal": "25412"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.192911,
+                    42.210331
+                ]
+            },
+            "properties": {
+                "nombre": "Ajuntament d'Organyà",
+                "direccion": "C/ de Lleida, 21",
+                "poblacion": "Lleida",
+                "telefono": "973383007",
+                "codigopostal": "25794"
+            }
         }
     ]
 }
