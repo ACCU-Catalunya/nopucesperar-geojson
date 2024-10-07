@@ -74511,6 +74511,40 @@
                 "telefono": "973383007",
                 "codigopostal": "25794"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.328912,
+                    42.211721
+                ]
+            },
+            "properties": {
+                "nombre": "Museu de les Homilies",
+                "direccion": "Plaça de les Homilies s/n",
+                "poblacion": "Organyà",
+                "telefono": "973383007",
+                "codigopostal": "25794"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.873545,
+                    41.634783
+                ]
+            },
+            "properties": {
+                "nombre": "Ajuntament de Fondarella",
+                "direccion": "Rambla de la Font, 26",
+                "poblacion": "Fondarella",
+                "telefono": "973600082",
+                "codigopostal": "25244"
+            }
         }
     ]
 }
