@@ -74545,6 +74545,74 @@
                 "telefono": "973600082",
                 "codigopostal": "25244"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.905945,
+                    41.759455
+                ]
+            },
+            "properties": {
+                "nombre": "Ajuntament de Bellcaire d'Urgell",
+                "direccion": "Plaça Major, 1",
+                "poblacion": "Bellcaire d'Urgell",
+                "telefono": "973586005",
+                "codigopostal": "25337"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.906334,
+                    41.759276
+                ]
+            },
+            "properties": {
+                "nombre": "Consultori Mèdic local de Bellcaire d'Urgell",
+                "direccion": "Plaça Major, 5",
+                "poblacion": "Bellcaire d'Urgell",
+                "telefono": null,
+                "codigopostal": "25337"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.905246,
+                    41.7576
+                ]
+            },
+            "properties": {
+                "nombre": "Restaurant Poliesportiu de Bellcaire",
+                "direccion": "C/ de la Sardana s/n",
+                "poblacion": "Bellcaire d'Urgell",
+                "telefono": "600322879",
+                "codigopostal": "25337"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.774454,
+                    42.370781
+                ]
+            },
+            "properties": {
+                "nombre": "Ajuntament de Bellver de Cerdanya",
+                "direccion": "Plaça Major, 12",
+                "poblacion": "Bellver de Cerdanya",
+                "telefono": "973510016",
+                "codigopostal": "25720"
+            }
         }
     ]
 }
