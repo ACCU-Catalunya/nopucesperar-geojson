@@ -74613,6 +74613,176 @@
                 "telefono": "973510016",
                 "codigopostal": "25720"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.802791,
+                    42.504763
+                ]
+            },
+            "properties": {
+                "nombre": "Ajuntament de la Vall de Boí",
+                "direccion": "Passeig de Sant Feliu, 43",
+                "poblacion": "Vall de Boí, la",
+                "telefono": "973694018",
+                "codigopostal": "25527"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.802791,
+                    42.504763
+                ]
+            },
+            "properties": {
+                "nombre": "Oficina de Turisme de la Vall de Boí",
+                "direccion": "Passeig Sant Feliu, 43",
+                "poblacion": "Vall de Boí, la",
+                "telefono": "973694000",
+                "codigopostal": "25527"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.820385,
+                    42.498887
+                ]
+            },
+            "properties": {
+                "nombre": "Pàrquing Durro",
+                "direccion": "2 Carrer Font d'Aran-ag.durro",
+                "poblacion": "Vall de Boí, la",
+                "telefono": null,
+                "codigopostal": "25527"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.82624,
+                    42.52522
+                ]
+            },
+            "properties": {
+                "nombre": "Erill la Vall pàrquing",
+                "direccion": "Carrer de Sta. Eulàlia, 1A",
+                "poblacion": "Vall de Boí, la",
+                "telefono": null,
+                "codigopostal": "25528"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.674318,
+                    41.494152
+                ]
+            },
+            "properties": {
+                "nombre": "Ajuntament d'Aspa",
+                "direccion": "Pladça de la Vila, 7",
+                "poblacion": "Aspa",
+                "telefono": "973122113",
+                "codigopostal": "25151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.67182,
+                    41.49604
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Social i Cultural d'Aspa",
+                "direccion": "C/ Major, 5",
+                "poblacion": "Aspa",
+                "telefono": null,
+                "codigopostal": "25151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.672672,
+                    41.495609
+                ]
+            },
+            "properties": {
+                "nombre": "Bar Restaurant Casal So de Nostre",
+                "direccion": "Plaça de la Vila, 3",
+                "poblacion": "Aspa",
+                "telefono": "973122082",
+                "codigopostal": "25151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.673212,
+                    41.494547
+                ]
+            },
+            "properties": {
+                "nombre": "Recinte Poliesportiu i Piscines",
+                "direccion": "Plaça Portal de les Garrigues, 3",
+                "poblacion": "Aspa",
+                "telefono": null,
+                "codigopostal": "25151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.874087,
+                    41.634355
+                ]
+            },
+            "properties": {
+                "nombre": "Piscines Municipals de Fondarella",
+                "direccion": "Rambla la Font, 26",
+                "poblacion": "Fondarella",
+                "telefono": "973600082",
+                "codigopostal": "25244"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.87262,
+                    41.636047
+                ]
+            },
+            "properties": {
+                "nombre": "Consultori mèdic Fondarella",
+                "direccion": "c/ Mossen Jesus Huguet s/n",
+                "poblacion": "Fondarella",
+                "telefono": "97371 1790",
+                "codigopostal": "25244"
+            }
         }
     ]
 }
