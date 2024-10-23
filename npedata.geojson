@@ -74783,6 +74783,57 @@
                 "telefono": "97371 1790",
                 "codigopostal": "25244"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.763594,
+                    41.999398
+                ]
+            },
+            "properties": {
+                "nombre": "Ajuntament d'Àger",
+                "direccion": "Plaça Major, 1",
+                "poblacion": "Àger",
+                "telefono": "973455004",
+                "codigopostal": "25691"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.76323,
+                    41.998899
+                ]
+            },
+            "properties": {
+                "nombre": "Biblioteca Municipal  Amèlia Claverol",
+                "direccion": "Carrer Sant Martí 9b",
+                "poblacion": "Àger",
+                "telefono": "973455182",
+                "codigopostal": "25691"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.76512,
+                    42.003059
+                ]
+            },
+            "properties": {
+                "nombre": "Zona esportiva Àger",
+                "direccion": "Ctra de Tremp a Ctra. del Cos",
+                "poblacion": "Àger",
+                "telefono": null,
+                "codigopostal": "25691"
+            }
         }
     ]
 }
