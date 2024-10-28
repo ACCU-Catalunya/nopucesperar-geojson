@@ -48796,23 +48796,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.28229,
-                    41.92629
-                ]
-            },
-            "properties": {
-                "nombre": "Ababol teca i glops",
-                "direccion": "Carrer doctor sant Martí 4",
-                "poblacion": "Calldetenes",
-                "telefono": "931438807",
-                "codigopostal": "08506"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     1.809351,
                     41.503623
                 ]
