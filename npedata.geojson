@@ -74817,6 +74817,23 @@
                 "telefono": null,
                 "codigopostal": "25691"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.96126,
+                    41.615
+                ]
+            },
+            "properties": {
+                "nombre": "Ajuntament Vilanova de Bellpuig",
+                "direccion": "C/ Doctor Gassol, 1",
+                "poblacion": "Vilanova de Bellpuig",
+                "telefono": "973324000",
+                "codigopostal": "25264"
+            }
         }
     ]
 }
