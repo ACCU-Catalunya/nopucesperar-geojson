@@ -74834,6 +74834,74 @@
                 "telefono": "973324000",
                 "codigopostal": "25264"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.96126,
+                    41.615
+                ]
+            },
+            "properties": {
+                "nombre": "Biblioteca Gloria Tudela",
+                "direccion": "Carrer Doctor Gassol, 1",
+                "poblacion": "Vilanova de Bellpuig",
+                "telefono": "973324256",
+                "codigopostal": "25264"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.961929,
+                    41.613505
+                ]
+            },
+            "properties": {
+                "nombre": "Residència i Centre de Dia Pare Pacìfic",
+                "direccion": "Carrer Pare Pacìfic, 2-4",
+                "poblacion": "Vilanova de Bellpuig",
+                "telefono": "973989740",
+                "codigopostal": "25264"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.961049,
+                    41.612734
+                ]
+            },
+            "properties": {
+                "nombre": "Escola pública Marinada",
+                "direccion": "Carrer Pare Pacìfic, 16",
+                "poblacion": "Vilanova de Bellpuig",
+                "telefono": "973324334",
+                "codigopostal": "25264"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.960787,
+                    41.61247
+                ]
+            },
+            "properties": {
+                "nombre": "Llar d'infants municipal La Placeta",
+                "direccion": "Carrer Pare Pacìfic, 18",
+                "poblacion": "Vilanova de Bellpuig",
+                "telefono": "973324214",
+                "codigopostal": "25264"
+            }
         }
     ]
 }
