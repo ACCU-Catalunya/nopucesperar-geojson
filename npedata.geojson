@@ -74902,6 +74902,23 @@
                 "telefono": "973324214",
                 "codigopostal": "25264"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.18638,
+                    41.915396
+                ]
+            },
+            "properties": {
+                "nombre": "Ajuntament de Ponts",
+                "direccion": "Plaça Planell, 5",
+                "poblacion": "Ponts",
+                "telefono": "697167930 / 973460003",
+                "codigopostal": "25740"
+            }
         }
     ]
 }
