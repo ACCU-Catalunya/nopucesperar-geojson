@@ -74919,6 +74919,74 @@
                 "telefono": "697167930 / 973460003",
                 "codigopostal": "25740"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.04577,
+                    41.89572
+                ]
+            },
+            "properties": {
+                "nombre": "Ajuntament d'Artesa de Segre",
+                "direccion": "Plaça de l'Ajuntament, 3",
+                "poblacion": "Artesa de Segre",
+                "telefono": "973400013",
+                "codigopostal": "25730"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.045516,
+                    41.896081
+                ]
+            },
+            "properties": {
+                "nombre": "Biblioteca Joan Maluquer i Viladot",
+                "direccion": "Carrer València, 1",
+                "poblacion": "Artesa de Segre",
+                "telefono": "973400754",
+                "codigopostal": "25730"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.042789,
+                    41.895806
+                ]
+            },
+            "properties": {
+                "nombre": "Camp de Futbol Municipal d'Artesa de Segre",
+                "direccion": "C/ Camp de fútbol, 4",
+                "poblacion": "Artesa de Segre",
+                "telefono": "97340013",
+                "codigopostal": "25730"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.047,
+                    41.890639
+                ]
+            },
+            "properties": {
+                "nombre": "Pavelló Municipal d'Artesa de Segre",
+                "direccion": "C/ del Poliesportiu s/n",
+                "poblacion": "Artesa de Segre",
+                "telefono": "973400013",
+                "codigopostal": "25730"
+            }
         }
     ]
 }
