@@ -74987,6 +74987,125 @@
                 "telefono": "973400013",
                 "codigopostal": "25730"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.63025,
+                    41.617567
+                ]
+            },
+            "properties": {
+                "nombre": "Organisme Autònom de Gestió i Recaptació de Lleida",
+                "direccion": "Rambla de Ferran, 18",
+                "poblacion": "Lleida",
+                "telefono": "973230401",
+                "codigopostal": "25007"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.716667,
+                    42.716667
+                ]
+            },
+            "properties": {
+                "nombre": "Ajuntament d'Es Bòrdes",
+                "direccion": "Carrer Entecada, 2",
+                "poblacion": "Bòrdes, Es",
+                "telefono": "973640939",
+                "codigopostal": "25551"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.804721,
+                    41.785334
+                ]
+            },
+            "properties": {
+                "nombre": "Oficina Balaguer Gestió Tributs Locals",
+                "direccion": "Carrer Àngel Guimerà, 32",
+                "poblacion": "Balaguer",
+                "telefono": "973445666",
+                "codigopostal": "25600"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.273107,
+                    41.669273
+                ]
+            },
+            "properties": {
+                "nombre": "Ofician Cervera Gestió Tributs Locals",
+                "direccion": "Rambla de Lluís Sanpere, 14",
+                "poblacion": "Cervera",
+                "telefono": "973530455",
+                "codigopostal": "25200"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.460616,
+                    42.355457
+                ]
+            },
+            "properties": {
+                "nombre": "Organisme Autònom de Gestió i Recaptació de Tributs de la Seu d'Urgell",
+                "direccion": "Passseig de Joan Brudieu, 16",
+                "poblacion": "Seu d'Urgell, la",
+                "telefono": "973353135",
+                "codigopostal": "25700"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.86663,
+                    41.520917
+                ]
+            },
+            "properties": {
+                "nombre": "Organisme Autònom de Gestió i Recaptació de Les Borges Blanques",
+                "direccion": "C/ Raval de Lleida, 26",
+                "poblacion": "Borges Blanques, les",
+                "telefono": "973142850",
+                "codigopostal": "25400"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.893349,
+                    41.629813
+                ]
+            },
+            "properties": {
+                "nombre": "Organisme Autònom de Gestió i Recaptació de Mollerussa",
+                "direccion": "Plaça Manel Bertrand 2, 1r B",
+                "poblacion": "Mollerussa",
+                "telefono": "973710132",
+                "codigopostal": "25230"
+            }
         }
     ]
 }
