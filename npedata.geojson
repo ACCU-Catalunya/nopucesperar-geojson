@@ -75106,6 +75106,91 @@
                 "telefono": "973710132",
                 "codigopostal": "25230"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.18826,
+                    41.443571
+                ]
+            },
+            "properties": {
+                "nombre": "Quvitec Centro de Ayudas Técnicas S.L.",
+                "direccion": "Carrer Gran de Sant Andreu, 505",
+                "poblacion": "Barcelona",
+                "telefono": "932118376",
+                "codigopostal": "08030"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.518177,
+                    41.994432
+                ]
+            },
+            "properties": {
+                "nombre": "Organisme Autònom de Gestió i Recaptació de Solsona",
+                "direccion": "Plaça Major, 8",
+                "poblacion": "Solsona",
+                "telefono": "973480050",
+                "codigopostal": "25280"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.141074,
+                    41.646434
+                ]
+            },
+            "properties": {
+                "nombre": "Organisme Autònom de Gestió i Recaptació de Tàrrega",
+                "direccion": "Plaça de les Nacions sense Estat, 1",
+                "poblacion": "Tàrrega",
+                "telefono": "973314545",
+                "codigopostal": "25300"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.89605,
+                    42.166432
+                ]
+            },
+            "properties": {
+                "nombre": "Organisme Autònom de Gestió i Recaptació de Tremp",
+                "direccion": "Passeig del Vall, 2",
+                "poblacion": "Tremp",
+                "telefono": "973650263",
+                "codigopostal": "25620"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.734273,
+                    42.68571
+                ]
+            },
+            "properties": {
+                "nombre": "Organisme Autònom de Gestió i Recaptació de Vielha",
+                "direccion": "Carrer Sarriuela, 12",
+                "poblacion": "Vielha e Mijaran",
+                "telefono": "973641525",
+                "codigopostal": "25530"
+            }
         }
     ]
 }
