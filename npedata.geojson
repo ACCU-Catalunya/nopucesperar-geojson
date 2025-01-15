@@ -75191,6 +75191,40 @@
                 "telefono": "973641525",
                 "codigopostal": "25530"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.880822,
+                    41.651639
+                ]
+            },
+            "properties": {
+                "nombre": "Ajuntament de Palau d'Anglesola",
+                "direccion": "Carrer Sant Josep, 1",
+                "poblacion": "Palau d'Anglesola, el",
+                "telefono": "973601314",
+                "codigopostal": "25243"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.901565,
+                    41.5164
+                ]
+            },
+            "properties": {
+                "nombre": "Ajuntament d'Abrera",
+                "direccion": "Plaça de la Constitució, 1",
+                "poblacion": "Abrera",
+                "telefono": "937700325",
+                "codigopostal": "08630"
+            }
         }
     ]
 }
