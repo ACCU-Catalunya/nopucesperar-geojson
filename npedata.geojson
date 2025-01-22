@@ -75225,6 +75225,23 @@
                 "telefono": "937700325",
                 "codigopostal": "08630"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.202228,
+                    41.40004
+                ]
+            },
+            "properties": {
+                "nombre": "Casal de Barri del Poblenou",
+                "direccion": "Rambla del Poblenou, 49",
+                "poblacion": "Barcelona",
+                "telefono": "663144985",
+                "codigopostal": "08005"
+            }
         }
     ]
 }
