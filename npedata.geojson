@@ -75242,6 +75242,57 @@
                 "telefono": "663144985",
                 "codigopostal": "08005"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.698155,
+                    41.347307
+                ]
+            },
+            "properties": {
+                "nombre": "Casals Sabaters",
+                "direccion": "Plaça Constitució, 22",
+                "poblacion": "Vilafranca del Penedès",
+                "telefono": "938180507",
+                "codigopostal": "08720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.699841,
+                    41.346774
+                ]
+            },
+            "properties": {
+                "nombre": "HALCON Viatges",
+                "direccion": "Carrer de Puigmoltó, 8",
+                "poblacion": "Vilafranca del Penedès",
+                "telefono": "938199013",
+                "codigopostal": "08720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.69959,
+                    41.345406
+                ]
+            },
+            "properties": {
+                "nombre": "Electrodomèstics Guardiet",
+                "direccion": "Carrer Sant Joan, 11",
+                "poblacion": "Vilafranca del Penedès",
+                "telefono": "938920565",
+                "codigopostal": "08120"
+            }
         }
     ]
 }
