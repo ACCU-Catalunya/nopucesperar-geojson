@@ -75293,6 +75293,108 @@
                 "telefono": "938920565",
                 "codigopostal": "08120"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.522684,
+                    41.18266
+                ]
+            },
+            "properties": {
+                "nombre": "Frankfurt Pizzeria Papas",
+                "direccion": "Carrer Josep Pla, 2",
+                "poblacion": "Vendrell, el",
+                "telefono": "617271254",
+                "codigopostal": "43880"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.523616,
+                    41.182494
+                ]
+            },
+            "properties": {
+                "nombre": "Cafetería Churrería Laura",
+                "direccion": "Carrer Víctor Català, 4",
+                "poblacion": "Vendrell, el",
+                "telefono": "604800669",
+                "codigopostal": "43880"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.525231,
+                    41.181137
+                ]
+            },
+            "properties": {
+                "nombre": "Restaurant El Puppet del Passeig",
+                "direccion": "Passeig Marítim de Coma-Ruga, 29",
+                "poblacion": "Vendrell, el",
+                "telefono": "coloraines1981@hotmail.com",
+                "codigopostal": "43880"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.52391,
+                    41.180768
+                ]
+            },
+            "properties": {
+                "nombre": "Gastro - Lounge El puppet",
+                "direccion": "Passeig Marítim de Coma-Ruga, 29B",
+                "poblacion": "Vendrell, el",
+                "telefono": "658934012",
+                "codigopostal": "43880"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.525208,
+                    41.181021
+                ]
+            },
+            "properties": {
+                "nombre": "Casa Pepe",
+                "direccion": "Passeig Marítim de Comarruga, 26",
+                "poblacion": "Vendrell, el",
+                "telefono": "629164723",
+                "codigopostal": "43880"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.527095,
+                    41.181218
+                ]
+            },
+            "properties": {
+                "nombre": "Jijonenca de Coma-Ruga",
+                "direccion": "Passeig Marítim de Comarruga, 17",
+                "poblacion": "Vendrell, el",
+                "telefono": "655492914",
+                "codigopostal": "43880"
+            }
         }
     ]
 }
