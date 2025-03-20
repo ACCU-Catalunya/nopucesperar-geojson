@@ -75395,6 +75395,40 @@
                 "telefono": "655492914",
                 "codigopostal": "43880"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.776202,
+                    42.368658
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Cívic Escoles Velles",
+                "direccion": "Carrer Escoles, 6",
+                "poblacion": "Bellver de Cerdanya",
+                "telefono": "973 51 0104",
+                "codigopostal": "25720"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.836931,
+                    42.365023
+                ]
+            },
+            "properties": {
+                "nombre": "Centre de Talló",
+                "direccion": "Plaça de la Font, 5",
+                "poblacion": "Bellver de Cerdanya",
+                "telefono": null,
+                "codigopostal": "25721"
+            }
         }
     ]
 }
