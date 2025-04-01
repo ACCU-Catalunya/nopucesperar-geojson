@@ -75429,6 +75429,57 @@
                 "telefono": null,
                 "codigopostal": "25721"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.159372,
+                    41.378914
+                ]
+            },
+            "properties": {
+                "nombre": "Rellotgeria N. Roca",
+                "direccion": "Carrer Floridablanca 90, local 2",
+                "poblacion": "Barcelona",
+                "telefono": "669120820",
+                "codigopostal": "08015"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.523321,
+                    41.1824
+                ]
+            },
+            "properties": {
+                "nombre": "Bar Crisand",
+                "direccion": "Carrer Víctor Català, 1",
+                "poblacion": "Vendrell, el",
+                "telefono": "682532253",
+                "codigopostal": "43880"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.63025,
+                    41.617566
+                ]
+            },
+            "properties": {
+                "nombre": "Patronat de Turisme de la Diputació de Lleida",
+                "direccion": "Rambla de Ferran, 18",
+                "poblacion": "Lleida",
+                "telefono": "973245408",
+                "codigopostal": "25007"
+            }
         }
     ]
 }
