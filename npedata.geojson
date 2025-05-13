@@ -75480,6 +75480,40 @@
                 "telefono": "973245408",
                 "codigopostal": "25007"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.107069,
+                    41.154932
+                ]
+            },
+            "properties": {
+                "nombre": "Sandhu Supermercado",
+                "direccion": "Carrer Raval de Jesús 27",
+                "poblacion": "Reus",
+                "telefono": "633105507",
+                "codigopostal": "43201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.107103,
+                    41.153363
+                ]
+            },
+            "properties": {
+                "nombre": "Sabor Casero",
+                "direccion": "Avda. Jaume I, 25",
+                "poblacion": "Reus",
+                "telefono": "632063648",
+                "codigopostal": "43201"
+            }
         }
     ]
 }
