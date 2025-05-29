@@ -75514,6 +75514,193 @@
                 "telefono": "632063648",
                 "codigopostal": "43201"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.205806,
+                    41.19202
+                ]
+            },
+            "properties": {
+                "nombre": "Beauty Way",
+                "direccion": "Av. Camí de Reus, 6, local bajos",
+                "poblacion": "Morell, el",
+                "telefono": "655321426",
+                "codigopostal": "43760"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.441638,
+                    41.167614
+                ]
+            },
+            "properties": {
+                "nombre": "Mirador de Creixell",
+                "direccion": "Carrer Major, 18",
+                "poblacion": "Creixell",
+                "telefono": "977802156",
+                "codigopostal": "43839"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.542932,
+                    41.183658
+                ]
+            },
+            "properties": {
+                "nombre": "Les Palmeres Ba r& Tapes",
+                "direccion": "Plaça Sant Salvador 1, local 3",
+                "poblacion": "Tarragona",
+                "telefono": "665213570",
+                "codigopostal": "43880"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.539722,
+                    41.183341
+                ]
+            },
+            "properties": {
+                "nombre": "Antic Magon's - Bar Joan",
+                "direccion": "Avda. Palfuriana, 77",
+                "poblacion": "Tarragona",
+                "telefono": "687952948",
+                "codigopostal": "43880"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.533991,
+                    41.183061
+                ]
+            },
+            "properties": {
+                "nombre": "La Branca Beach by Quebracho",
+                "direccion": "Avda. Palfuriana, 72",
+                "poblacion": "Tarragona",
+                "telefono": "657075629",
+                "codigopostal": "43880"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.204816,
+                    41.192388
+                ]
+            },
+            "properties": {
+                "nombre": "Informàtic Morell S.L.",
+                "direccion": "Carrer Sardana, 27",
+                "poblacion": "Morell, el",
+                "telefono": "977843052",
+                "codigopostal": "43760"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.536676,
+                    41.182823
+                ]
+            },
+            "properties": {
+                "nombre": "Cal Ros",
+                "direccion": "Avda. Palfuriana, 103",
+                "poblacion": "Tarragona",
+                "telefono": "977094874",
+                "codigopostal": "43880"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.524768,
+                    41.181312
+                ]
+            },
+            "properties": {
+                "nombre": "Chevy 55 Comarruga S.L",
+                "direccion": "Plaça dels Germans Trillas, 2",
+                "poblacion": "Vendrell, el",
+                "telefono": "877666746",
+                "codigopostal": "43880"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.205595,
+                    41.191066
+                ]
+            },
+            "properties": {
+                "nombre": "MI BAZAR",
+                "direccion": "Carrer Barranc de les Bruixes, 4",
+                "poblacion": "Morell, el",
+                "telefono": "636775155",
+                "codigopostal": "43760"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.20819,
+                    41.191857
+                ]
+            },
+            "properties": {
+                "nombre": "Pastisseria Nadal",
+                "direccion": "Plaça Era del Castell, 2",
+                "poblacion": "Morell, el",
+                "telefono": "977840953",
+                "codigopostal": "43760"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.205167,
+                    41.191763
+                ]
+            },
+            "properties": {
+                "nombre": "Ferreteria Edya",
+                "direccion": "Plaça Francesc Macià, 3 baixos",
+                "poblacion": "Morell, el",
+                "telefono": "613305702",
+                "codigopostal": "43760"
+            }
         }
     ]
 }
