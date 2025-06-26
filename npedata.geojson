@@ -14,7 +14,7 @@
                 "nombre": "CALZEDONIA",
                 "direccion": "Santa Clara, 1",
                 "poblacion": "Girona",
-                "telefono": null,
+                "telefono": "972203481",
                 "codigopostal": "17001"
             }
         },
@@ -728,7 +728,7 @@
                 "nombre": "HOTEL PENINSULAR",
                 "direccion": "Av. de Sant Francesc, 6",
                 "poblacion": "Girona",
-                "telefono": "",
+                "telefono": "972 20 38 00",
                 "codigopostal": "17001"
             }
         },
