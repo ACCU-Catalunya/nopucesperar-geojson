@@ -75701,6 +75701,74 @@
                 "telefono": "613305702",
                 "codigopostal": "43760"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.891337,
+                    41.54517
+                ]
+            },
+            "properties": {
+                "nombre": "Pastisseries Magda",
+                "direccion": "Carrer de l'Esglèsia, 24",
+                "poblacion": "Olesa de Montserrat",
+                "telefono": "615485149",
+                "codigopostal": "08340"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.894195,
+                    41.543137
+                ]
+            },
+            "properties": {
+                "nombre": "Gelisiosso gelats",
+                "direccion": "Passeig del Progrés, 1",
+                "poblacion": "Olesa de Montserrat",
+                "telefono": "636277289",
+                "codigopostal": "08640"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.893605,
+                    41.544368
+                ]
+            },
+            "properties": {
+                "nombre": "Forn d'Sara",
+                "direccion": "Carrer dels Arbres, 9-11",
+                "poblacion": "Olesa de Montserrat",
+                "telefono": "628443635",
+                "codigopostal": "08640"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.894135,
+                    41.544926
+                ]
+            },
+            "properties": {
+                "nombre": "La Vermuteria",
+                "direccion": "Carrer de l'Esglèsia, 27",
+                "poblacion": "Olesa de Montserrat",
+                "telefono": "606660606",
+                "codigopostal": "08640"
+            }
         }
     ]
 }
