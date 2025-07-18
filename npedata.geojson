@@ -75769,6 +75769,23 @@
                 "telefono": "606660606",
                 "codigopostal": "08640"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.237844,
+                    41.459492
+                ]
+            },
+            "properties": {
+                "nombre": "Central Park Academy",
+                "direccion": "Carrer Muntaner, 23",
+                "poblacion": "Badalona",
+                "telefono": "687684142",
+                "codigopostal": "08917"
+            }
         }
     ]
 }
