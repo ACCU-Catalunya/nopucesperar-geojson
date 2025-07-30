@@ -75786,6 +75786,23 @@
                 "telefono": "687684142",
                 "codigopostal": "08917"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.064978,
+                    42.343295
+                ]
+            },
+            "properties": {
+                "nombre": "Bar La Espera",
+                "direccion": "Carrer Gran, 13",
+                "poblacion": "Garriguella",
+                "telefono": "626722229",
+                "codigopostal": "17780"
+            }
         }
     ]
 }
