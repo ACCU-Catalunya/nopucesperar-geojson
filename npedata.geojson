@@ -75803,6 +75803,23 @@
                 "telefono": "626722229",
                 "codigopostal": "17780"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.286344,
+                    41.678537
+                ]
+            },
+            "properties": {
+                "nombre": "La Fleca 158",
+                "direccion": "Carrer dels Banys, 158",
+                "poblacion": "Garriga, la",
+                "telefono": "677181195",
+                "codigopostal": "08530"
+            }
         }
     ]
 }
