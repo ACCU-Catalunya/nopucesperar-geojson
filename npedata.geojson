@@ -75820,6 +75820,23 @@
                 "telefono": "677181195",
                 "codigopostal": "08530"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.877809,
+                    41.751084
+                ]
+            },
+            "properties": {
+                "nombre": "Ajuntament de Canyelles",
+                "direccion": "Plaça 11 de setembre 1",
+                "poblacion": "Canyelles",
+                "telefono": "600851229",
+                "codigopostal": "08811"
+            }
         }
     ]
 }
