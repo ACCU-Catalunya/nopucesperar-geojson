@@ -64682,7 +64682,7 @@
                 "nombre": "Ajuntament de Reus",
                 "direccion": "Pl. Mercadal, 1",
                 "poblacion": "Reus",
-                "telefono": "",
+                "telefono": null,
                 "codigopostal": "43201"
             }
         },
@@ -64731,9 +64731,9 @@
             },
             "properties": {
                 "nombre": "Biblioteca Central Xavier Amorós",
-                "direccion": "C. Escorxador, 1",
+                "direccion": "Carrer de l'Escorxador, 1",
                 "poblacion": "Reus",
-                "telefono": "",
+                "telefono": "977010025",
                 "codigopostal": "43202"
             }
         },
