@@ -67751,23 +67751,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.270935,
-                    41.665533
-                ]
-            },
-            "properties": {
-                "nombre": "Ajuntament de Cervera (Paeria de Cervera)",
-                "direccion": "Plaça Major, 1",
-                "poblacion": "Cervera",
-                "telefono": "973530025",
-                "codigopostal": "25200"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     1.271176,
                     41.677086
                 ]
@@ -69247,31 +69230,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.46193,
-                    42.358118
-                ]
-            },
-            "properties": {
-                "nombre": "Ajuntament de La Seu d'Urgell",
-                "direccion": "Plaça dels Oms, 1 ",
-                "poblacion": "Seu d'Urgell, la",
-                "telefono": "973350010",
-                "codigopostal": "25700"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.46193,
-                    42.358118
+                    1.462357,
+                    42.358093
                 ]
             },
             "properties": {
                 "nombre": "Ajuntament de La Seu d'Urgell",
                 "direccion": "Plaça dels Oms, 1",
-                "poblacion": "La Seu d'Urgell, Lleida",
+                "poblacion": "Seu d'Urgell, la",
                 "telefono": "973350010",
                 "codigopostal": "25700"
             }
