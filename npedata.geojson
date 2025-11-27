@@ -75803,6 +75803,23 @@
                 "telefono": "600851229",
                 "codigopostal": "08811"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.186702,
+                    41.430751
+                ]
+            },
+            "properties": {
+                "nombre": "Gabinet psicopedagògic Meraki",
+                "direccion": "Carrer Llenguadoc, 68",
+                "poblacion": "Barcelona",
+                "telefono": "692613382",
+                "codigopostal": "08030"
+            }
         }
     ]
 }
