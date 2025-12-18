@@ -42319,40 +42319,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.026556,
-                    41.480437
-                ]
-            },
-            "properties": {
-                "nombre": "Recinte Escola Industrial (Accés 2) (Diputació de Barcelona)",
-                "direccion": "C/ París, 90",
-                "poblacion": "Barcelona",
-                "telefono": "",
-                "codigopostal": "08029"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.829724,
-                    41.732174
-                ]
-            },
-            "properties": {
-                "nombre": "Recinte Escola Industrial (Accés 3) (Diputació de Barcelona)",
-                "direccion": "C/ Rosselló, 121",
-                "poblacion": "Barcelona",
-                "telefono": "",
-                "codigopostal": "08029"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     1.933142,
                     41.329632
                 ]
