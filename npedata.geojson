@@ -75786,6 +75786,40 @@
                 "telefono": "692613382",
                 "codigopostal": "08030"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.721802,
+                    41.285021
+                ]
+            },
+            "properties": {
+                "nombre": "Espai Romanguer",
+                "direccion": "Av. del Romanguer, 11",
+                "poblacion": "Canyelles",
+                "telefono": "938 97 30 11",
+                "codigopostal": "08811"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.719716,
+                    41.283381
+                ]
+            },
+            "properties": {
+                "nombre": "Pavelló Municipal Canyelles",
+                "direccion": "Passeig Zona Esportiva S/N",
+                "poblacion": "Canyelles",
+                "telefono": null,
+                "codigopostal": "08811"
+            }
         }
     ]
 }
