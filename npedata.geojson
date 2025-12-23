@@ -75820,6 +75820,23 @@
                 "telefono": null,
                 "codigopostal": "08811"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.72093,
+                    41.285186
+                ]
+            },
+            "properties": {
+                "nombre": "Sala Multicultural Canyelles",
+                "direccion": "Camí del Romanguer, 15",
+                "poblacion": "Canyelles",
+                "telefono": "938 97 30 11",
+                "codigopostal": "08811"
+            }
         }
     ]
 }
