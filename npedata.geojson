@@ -75837,6 +75837,40 @@
                 "telefono": "938 97 30 11",
                 "codigopostal": "08811"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.722311,
+                    41.286076
+                ]
+            },
+            "properties": {
+                "nombre": "ARTÍFEX  Institució educativa a Canyellas",
+                "direccion": "Plaça Ajuntament, 1",
+                "poblacion": "Canyelles",
+                "telefono": "938973011",
+                "codigopostal": "08811"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.711692,
+                    41.275322
+                ]
+            },
+            "properties": {
+                "nombre": "Local Social Les Palmeres",
+                "direccion": "Parc de Llacunalba, s/n",
+                "poblacion": "Canyelles",
+                "telefono": "938973011",
+                "codigopostal": "08811"
+            }
         }
     ]
 }
