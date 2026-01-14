@@ -42302,23 +42302,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.150239,
-                    41.388316
-                ]
-            },
-            "properties": {
-                "nombre": "Recinte Escola Industrial (Accés 1) (Diputació de Barcelona)",
-                "direccion": "Comte d'Urgell, 187",
-                "poblacion": "Barcelona",
-                "telefono": "",
-                "codigopostal": "08036"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     1.933142,
                     41.329632
                 ]
@@ -75870,6 +75853,227 @@
                 "poblacion": "Canyelles",
                 "telefono": "938973011",
                 "codigopostal": "08811"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.103531,
+                    41.162476
+                ]
+            },
+            "properties": {
+                "nombre": "Maria Perruquers",
+                "direccion": "Carrer General Moragues 119, Bxos.",
+                "poblacion": "Reus",
+                "telefono": "626321616",
+                "codigopostal": "43203"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.105244,
+                    41.156618
+                ]
+            },
+            "properties": {
+                "nombre": "Dos per Tu perruqueria S.C.P.",
+                "direccion": "Carrer dels Recs, 14",
+                "poblacion": "Reus",
+                "telefono": "658036535",
+                "codigopostal": "43201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.738635,
+                    42.378511
+                ]
+            },
+            "properties": {
+                "nombre": "Cerdanya Viva Ecoestades",
+                "direccion": "Carrer Puig, 4",
+                "poblacion": "Prullans",
+                "telefono": "973510260",
+                "codigopostal": "25727"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.633249,
+                    41.617878
+                ]
+            },
+            "properties": {
+                "nombre": "Hotel Zenit Lleida",
+                "direccion": "Carrer General Brito, 21",
+                "poblacion": "Lleida",
+                "telefono": "973229191",
+                "codigopostal": "25007"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.123048,
+                    42.62581
+                ]
+            },
+            "properties": {
+                "nombre": "Hostal Vall d'Àneu",
+                "direccion": "Carrer Major, 46",
+                "poblacion": "Esterri d'Àneu",
+                "telefono": "638678644",
+                "codigopostal": "25580"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.123561,
+                    42.625831
+                ]
+            },
+            "properties": {
+                "nombre": "Hotel Vall d'Àneu",
+                "direccion": "Carrer Major 69 B",
+                "poblacion": "Esterri d'Àneu",
+                "telefono": "638678644",
+                "codigopostal": "25580"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.183668,
+                    41.416746
+                ]
+            },
+            "properties": {
+                "nombre": "Musicant Escola d'Educació musical i instrumental",
+                "direccion": "Carrer de la Indústria, 311",
+                "poblacion": "Barcelona",
+                "telefono": "933406999",
+                "codigopostal": "08041"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.147902,
+                    41.389241
+                ]
+            },
+            "properties": {
+                "nombre": "Recinte Escola Industrial (accés 2) - Diputació de Barcelona",
+                "direccion": "Carrer París 90",
+                "poblacion": "Barcelona",
+                "telefono": null,
+                "codigopostal": "08029"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.149467,
+                    41.387541
+                ]
+            },
+            "properties": {
+                "nombre": "Recinte Escola Industrial (Accés 3)",
+                "direccion": "Carrer Roselló, 121",
+                "poblacion": "Barcelona",
+                "telefono": null,
+                "codigopostal": "08029"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.190603,
+                    41.394972
+                ]
+            },
+            "properties": {
+                "nombre": "Edifici Bogatell de la Diputació de Barcelona",
+                "direccion": "Carrer Zamora, 73",
+                "poblacion": "Barcelona",
+                "telefono": null,
+                "codigopostal": "08018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.125219,
+                    41.382424
+                ]
+            },
+            "properties": {
+                "nombre": "Recinte Maternitat",
+                "direccion": "Travessera de les Corts, 131-159",
+                "poblacion": "Barcelona",
+                "telefono": null,
+                "codigopostal": "08028"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.122323,
+                    41.383761
+                ]
+            },
+            "properties": {
+                "nombre": "Recinte Maternitat",
+                "direccion": "Avinguda Joan XXIII",
+                "poblacion": "Barcelona",
+                "telefono": null,
+                "codigopostal": "08028"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.123466,
+                    41.383745
+                ]
+            },
+            "properties": {
+                "nombre": "Pavelló Garbí – Recinte Maternitat (Accés 1)",
+                "direccion": "Carrer d’Elisabeth Eidenbenz, 2",
+                "poblacion": "Barcelona",
+                "telefono": null,
+                "codigopostal": "08029"
             }
         }
     ]
