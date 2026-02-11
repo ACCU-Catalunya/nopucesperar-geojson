@@ -76075,6 +76075,23 @@
                 "telefono": null,
                 "codigopostal": "08029"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.82455,
+                    41.980143
+                ]
+            },
+            "properties": {
+                "nombre": "Inkdependent Tattoo",
+                "direccion": "Carrer del Carme, 21 Baixos A",
+                "poblacion": "Girona",
+                "telefono": "679138030",
+                "codigopostal": "17004"
+            }
         }
     ]
 }
