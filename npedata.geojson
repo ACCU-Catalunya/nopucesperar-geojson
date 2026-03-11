@@ -76092,6 +76092,23 @@
                 "telefono": "679138030",
                 "codigopostal": "17004"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.535781,
+                    41.221
+                ]
+            },
+            "properties": {
+                "nombre": "Farmàcia Carme Mestres Català",
+                "direccion": "Carrer Prat de la Riba, 2",
+                "poblacion": "Vendrell, el",
+                "telefono": "977666084",
+                "codigopostal": "43700"
+            }
         }
     ]
 }
