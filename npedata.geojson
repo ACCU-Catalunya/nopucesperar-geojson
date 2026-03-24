@@ -76109,6 +76109,23 @@
                 "telefono": "977666084",
                 "codigopostal": "43700"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.09302,
+                    41.32521
+                ]
+            },
+            "properties": {
+                "nombre": "Panaderia cafeteria Granier",
+                "direccion": "Avda. Verge de Montserrat, 138",
+                "poblacion": "Prat de Llobregat, el",
+                "telefono": "652937825",
+                "codigopostal": "08820"
+            }
         }
     ]
 }
