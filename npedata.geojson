@@ -76126,6 +76126,23 @@
                 "telefono": "652937825",
                 "codigopostal": "08820"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.532297,
+                    41.220674
+                ]
+            },
+            "properties": {
+                "nombre": "Gimnàs Record",
+                "direccion": "Carrer Sant jordi, 2",
+                "poblacion": "Vendrell, el",
+                "telefono": "977182706",
+                "codigopostal": "43700"
+            }
         }
     ]
 }
