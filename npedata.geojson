@@ -76143,6 +76143,40 @@
                 "telefono": "977182706",
                 "codigopostal": "43700"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.289073,
+                    41.605895
+                ]
+            },
+            "properties": {
+                "nombre": "Associació Gran Centre Granollers",
+                "direccion": "Carrer Lleó, 3 local E",
+                "poblacion": "Granollers",
+                "telefono": "938796446",
+                "codigopostal": "08402"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.493958,
+                    42.183182
+                ]
+            },
+            "properties": {
+                "nombre": "Consorci d'Acció Social de la Garrotxa",
+                "direccion": "Plaça Palau, 8",
+                "poblacion": "Olot",
+                "telefono": "972266644",
+                "codigopostal": "17800"
+            }
         }
     ]
 }
