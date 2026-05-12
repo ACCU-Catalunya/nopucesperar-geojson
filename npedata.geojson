@@ -76177,6 +76177,108 @@
                 "telefono": "972266644",
                 "codigopostal": "17800"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.246396,
+                    41.11408
+                ]
+            },
+            "properties": {
+                "nombre": "Restaurant La Marroquina",
+                "direccion": "Carrer de Sevilla, 5",
+                "poblacion": "Tarragona",
+                "telefono": "614878998",
+                "codigopostal": "43001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.247471,
+                    41.114909
+                ]
+            },
+            "properties": {
+                "nombre": "Cafetería Florida",
+                "direccion": "Carrer de Crostòfor Colom, 36",
+                "poblacion": "Tarragona",
+                "telefono": "977217901",
+                "codigopostal": "43001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.248903,
+                    41.115318
+                ]
+            },
+            "properties": {
+                "nombre": "¡Ay mi Niña! Bar de Tapas",
+                "direccion": "Carrer de Lleida, 7",
+                "poblacion": "Tarragona",
+                "telefono": "657158666",
+                "codigopostal": "43003"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.249917,
+                    41.115322
+                ]
+            },
+            "properties": {
+                "nombre": "MYL cafés",
+                "direccion": "Plaça Corsini, 6",
+                "poblacion": "Tarragona",
+                "telefono": "662942827",
+                "codigopostal": "43001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.248213,
+                    41.114877
+                ]
+            },
+            "properties": {
+                "nombre": "Circus Tarraco Restaurant",
+                "direccion": "Carrer de Lleida, 19",
+                "poblacion": "Tarragona",
+                "telefono": "877217608",
+                "codigopostal": "43001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.248222,
+                    41.114888
+                ]
+            },
+            "properties": {
+                "nombre": "Restarurante Latino Son's Cubano",
+                "direccion": "Carrer de Lleida, 17",
+                "poblacion": "Tarragona",
+                "telefono": "644501646",
+                "codigopostal": "43001"
+            }
         }
     ]
 }
