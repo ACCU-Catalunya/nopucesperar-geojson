@@ -76279,6 +76279,278 @@
                 "telefono": "644501646",
                 "codigopostal": "43001"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.287197,
+                    41.608123
+                ]
+            },
+            "properties": {
+                "nombre": "Ajuntament de Granollers",
+                "direccion": "Plaça de la Porxada, 6",
+                "poblacion": "Granollers",
+                "telefono": "938 42 66 10",
+                "codigopostal": "08401"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.284112,
+                    41.607488
+                ]
+            },
+            "properties": {
+                "nombre": "OAC Ajuntament de Granollers",
+                "direccion": "Carre de Sant Josep, 7",
+                "poblacion": "Granollers",
+                "telefono": "93 842 66 10",
+                "codigopostal": "08401"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.284031,
+                    41.598364
+                ]
+            },
+            "properties": {
+                "nombre": "Masia de les Tres Torres",
+                "direccion": "Carrer de les Tres Torres, 18-20",
+                "poblacion": "Granollers",
+                "telefono": null,
+                "codigopostal": "08401"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.287468,
+                    41.607591
+                ]
+            },
+            "properties": {
+                "nombre": "OFICINA MUNICIPAL D'INFORMACIÓ AL CONSUMIDOR",
+                "direccion": "Carrer Portalet, 4",
+                "poblacion": "Granollers",
+                "telefono": "938 42 66 35",
+                "codigopostal": "08401"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.284547,
+                    41.604639
+                ]
+            },
+            "properties": {
+                "nombre": "Policia Local de Granollers",
+                "direccion": "Carrer de la Princesa, 55",
+                "poblacion": "Granollers",
+                "telefono": "938 42 66 92",
+                "codigopostal": "08401"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.288396,
+                    41.608926
+                ]
+            },
+            "properties": {
+                "nombre": "Biblioteca Can Pedrals",
+                "direccion": "Carrer Antoni Espí i Grau, 2",
+                "poblacion": "Granollers",
+                "telefono": "938 79 30 91",
+                "codigopostal": "08400"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.287934,
+                    41.609013
+                ]
+            },
+            "properties": {
+                "nombre": "Can Puntes",
+                "direccion": "Carrer de Santa Elisabet, 16",
+                "poblacion": "Granollers",
+                "telefono": null,
+                "codigopostal": "08401"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.28424,
+                    41.602312
+                ]
+            },
+            "properties": {
+                "nombre": "Biblioteca Roca Umbert",
+                "direccion": "Carrer d'Enric Prat de la Riba, 77",
+                "poblacion": "Granollers",
+                "telefono": "938 60 44 50",
+                "codigopostal": "08401"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.290128,
+                    41.595916
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Cívic Can Bassa",
+                "direccion": "Plaça Joan Oliver, 1",
+                "poblacion": "Granollers",
+                "telefono": "938426685",
+                "codigopostal": "08402"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.27379,
+                    41.613843
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Cívic Can Gili",
+                "direccion": "Camí Vell de Lliçà d'Amunt, 1",
+                "poblacion": "Granollers",
+                "telefono": "938 49 90 45",
+                "codigopostal": "08403"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.285178,
+                    41.600225
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Cívic Jaume Oller",
+                "direccion": "Carrer Mare de Déu de Montserrat, 47",
+                "poblacion": "Granollers",
+                "telefono": "938 79 58 92",
+                "codigopostal": "08401"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.289229,
+                    41.617345
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Cívic Nord",
+                "direccion": "Carrer Lledoner, 6",
+                "poblacion": "Granollers",
+                "telefono": "938 40 60 69",
+                "codigopostal": "08401"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.281593,
+                    41.586175
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Cívic Palou",
+                "direccion": "Passeig Francesc Fàbregas, 43",
+                "poblacion": "Granollers",
+                "telefono": "938792469",
+                "codigopostal": "08401"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.285201,
+                    41.605989
+                ]
+            },
+            "properties": {
+                "nombre": "Museu de Granollers",
+                "direccion": "Carrer d'Anselm Clavell, 40-42",
+                "poblacion": "Granollers",
+                "telefono": "938 42 68 40",
+                "codigopostal": "08401"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.288068,
+                    41.601862
+                ]
+            },
+            "properties": {
+                "nombre": "Museu de Ciències Naturals - La Tela",
+                "direccion": "Carrer Palaudàries, 102",
+                "poblacion": "Granollers",
+                "telefono": "938 70 96 51",
+                "codigopostal": "08402"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.286801,
+                    41.610968
+                ]
+            },
+            "properties": {
+                "nombre": "Teatre Auditori de Granollers",
+                "direccion": "Carrer de Josep Toras i Bages, 50",
+                "poblacion": "Granollers",
+                "telefono": "938 40 51 21",
+                "codigopostal": "08401"
+            }
         }
     ]
 }
