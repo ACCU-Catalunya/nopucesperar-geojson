@@ -76551,6 +76551,176 @@
                 "telefono": "938 40 51 21",
                 "codigopostal": "08401"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.298237,
+                    41.60844
+                ]
+            },
+            "properties": {
+                "nombre": "Centre de Formació d'Adults Vallès",
+                "direccion": "Carrer de Veneçuela, 86",
+                "poblacion": "Granollers",
+                "telefono": "938 49 98 88",
+                "codigopostal": "08402"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.284951,
+                    41.601954
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Tecnològic i Universitari de Roca Umbert",
+                "direccion": "Carrer Mare de Déu de Montserrat, 36",
+                "poblacion": "Granollers",
+                "telefono": "938 60 47 29",
+                "codigopostal": "08401"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.282164,
+                    41.601863
+                ]
+            },
+            "properties": {
+                "nombre": "Pavelló d'Esports el Parquet",
+                "direccion": "Carrer Lluís Companys, 10",
+                "poblacion": "Granollers",
+                "telefono": "938 79 40 14",
+                "codigopostal": "08401"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.288968,
+                    41.592599
+                ]
+            },
+            "properties": {
+                "nombre": "Pavelló Municipal de Can Bassa",
+                "direccion": "Carrer de Caterina Albert, 15",
+                "poblacion": "Granollers",
+                "telefono": "93 870 50 98",
+                "codigopostal": "08402"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.279262,
+                    41.613582
+                ]
+            },
+            "properties": {
+                "nombre": "Pavelló Municipal del Congost",
+                "direccion": "Carrer de Maria Palau, 19-21",
+                "poblacion": "Granollers",
+                "telefono": "699 07 44 27",
+                "codigopostal": "08401"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.280565,
+                    41.599797
+                ]
+            },
+            "properties": {
+                "nombre": "Pavelló Municipal El Tub",
+                "direccion": "Carrer del Camp de les Moreres, 25",
+                "poblacion": "Granollers",
+                "telefono": "938 70 39 99",
+                "codigopostal": "08401"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.286512,
+                    41.607425
+                ]
+            },
+            "properties": {
+                "nombre": "GRA. Equipament Juvenil",
+                "direccion": "Plaça Església, 8",
+                "poblacion": "Granollers",
+                "telefono": "693 553 269",
+                "codigopostal": "08401"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.281599,
+                    41.593901
+                ]
+            },
+            "properties": {
+                "nombre": "Can Montanyola Centre de Serveis a les Empreses",
+                "direccion": "Camí del Mig, 22",
+                "poblacion": "Granollers",
+                "telefono": "938614783",
+                "codigopostal": "08401"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.282406,
+                    41.607248
+                ]
+            },
+            "properties": {
+                "nombre": "Laboratori Municipal de Salut Pública",
+                "direccion": "Carrer Joan Camps i Giró, 3",
+                "poblacion": "Granollers",
+                "telefono": "938 795 769",
+                "codigopostal": "08400"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.284957,
+                    41.609477
+                ]
+            },
+            "properties": {
+                "nombre": "Can Jonch, Centre de Cultura per la Pau",
+                "direccion": "Carrer del Rec, 19",
+                "poblacion": "Granollers",
+                "telefono": "938 42 68 34",
+                "codigopostal": "08401"
+            }
         }
     ]
 }
