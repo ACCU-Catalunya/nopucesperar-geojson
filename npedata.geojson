@@ -46484,23 +46484,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.434077,
-                    41.546952
-                ]
-            },
-            "properties": {
-                "nombre": "Centre Cívic Cirera",
-                "direccion": "C. de Cadis, 1",
-                "poblacion": "Mataró",
-                "telefono": "",
-                "codigopostal": "08304"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2.435786,
                     41.540663
                 ]
