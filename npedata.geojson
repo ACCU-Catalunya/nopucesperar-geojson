@@ -76704,6 +76704,23 @@
                 "telefono": "938 42 68 34",
                 "codigopostal": "08401"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.661495,
+                    41.314067
+                ]
+            },
+            "properties": {
+                "nombre": "Restaurant Ca n'Ayxelà",
+                "direccion": "Barri la Riba s/n",
+                "poblacion": "Santa Margarida i els Monjos",
+                "telefono": "938981117",
+                "codigopostal": "08730"
+            }
         }
     ]
 }
