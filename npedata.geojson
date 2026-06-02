@@ -76721,6 +76721,23 @@
                 "telefono": "938981117",
                 "codigopostal": "08730"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.557589,
+                    41.195947
+                ]
+            },
+            "properties": {
+                "nombre": "Pastisseria Velvet MGL",
+                "direccion": "Carrer Ramón i Cajal, 49",
+                "poblacion": "Tarragona",
+                "telefono": "977214022",
+                "codigopostal": "43005"
+            }
         }
     ]
 }
