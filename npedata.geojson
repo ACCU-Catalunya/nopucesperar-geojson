@@ -6653,23 +6653,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.879989,
-                    42.418131
-                ]
-            },
-            "properties": {
-                "nombre": "Ajuntament de Bolvir",
-                "direccion": "C/Camí Ral, 15",
-                "poblacion": "Bolvir",
-                "telefono": "972895001",
-                "codigopostal": "17539"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2.137312,
                     41.401469
                 ]
@@ -22259,13 +22242,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.258682,
-                    41.489161
+                    2.231656,
+                    41.522728
                 ]
             },
             "properties": {
-                "nombre": "CAP Sant Fost de Campsentelles NOU (ICS)",
-                "direccion": "Carretera de Badalona, 99",
+                "nombre": "CAP Sant Fost de Campsentelles (ICS)",
+                "direccion": "Carretera de Badalona, 175",
                 "poblacion": "Sant Fost de Campsentelles",
                 "telefono": "935795406",
                 "codigopostal": "08105"
@@ -43893,23 +43876,6 @@
                 "poblacion": "Manresa",
                 "telefono": "938722470",
                 "codigopostal": "08240"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.287262,
-                    41.608672
-                ]
-            },
-            "properties": {
-                "nombre": "MOBILECENTER MAN S.L",
-                "direccion": "PL. DE LES OLLES, 13",
-                "poblacion": "Granollers",
-                "telefono": "937684603",
-                "codigopostal": "08400"
             }
         },
         {
