@@ -6653,23 +6653,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.137312,
-                    41.401469
-                ]
-            },
-            "properties": {
-                "nombre": "Clinic Technology",
-                "direccion": "Modolell 59",
-                "poblacion": "Barcelona",
-                "telefono": "620731170",
-                "codigopostal": "08021"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     1.690736,
                     41.232158
                 ]
