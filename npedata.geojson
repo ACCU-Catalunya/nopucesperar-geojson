@@ -76687,6 +76687,23 @@
                 "telefono": "977214022",
                 "codigopostal": "43005"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.139524,
+                    41.404378
+                ]
+            },
+            "properties": {
+                "nombre": "Bendito Brunch, Tapas & Drinks",
+                "direccion": "Carrer Sant Gervasi de Cassoles 10, local 1",
+                "poblacion": "Barcelona",
+                "telefono": "640150693",
+                "codigopostal": "08022"
+            }
         }
     ]
 }
