@@ -76704,6 +76704,159 @@
                 "telefono": "640150693",
                 "codigopostal": "08022"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.039147,
+                    41.9602
+                ]
+            },
+            "properties": {
+                "nombre": "Associació Grup de Dones de La Bisbal",
+                "direccion": "Carrer de les Mesures, 17",
+                "poblacion": "Bisbal del Penedès, la",
+                "telefono": "972 640 975 / 972 640 976",
+                "codigopostal": "17100"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.487191,
+                    41.28142
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Municipal de Cultura",
+                "direccion": "Plaça Major s/n",
+                "poblacion": "Bisbal del Penedès, la",
+                "telefono": "601 900 588",
+                "codigopostal": "43717"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.489711,
+                    41.280405
+                ]
+            },
+            "properties": {
+                "nombre": "Racó de la Gent Grant",
+                "direccion": "Avda. Baix Penedés",
+                "poblacion": "Bisbal del Penedès, la",
+                "telefono": null,
+                "codigopostal": "43717"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.489711,
+                    41.280405
+                ]
+            },
+            "properties": {
+                "nombre": "Poliesportiu Municipal",
+                "direccion": "Avda. Baix Penedés, s/n",
+                "poblacion": "Bisbal del Penedès, la",
+                "telefono": null,
+                "codigopostal": "43717"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.487856,
+                    41.283006
+                ]
+            },
+            "properties": {
+                "nombre": "Oficines d’Aqualia i Rebost Solidari",
+                "direccion": "Avda. Baix Penedès, 2",
+                "poblacion": "Bisbal del Penedès, la",
+                "telefono": "977689943",
+                "codigopostal": "43717"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.472864,
+                    41.285194
+                ]
+            },
+            "properties": {
+                "nombre": "Local Social del Priorat",
+                "direccion": "Avda. del Priorat, 1",
+                "poblacion": "Bisbal del Penedès, la",
+                "telefono": null,
+                "codigopostal": "43717"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.474911,
+                    41.264478
+                ]
+            },
+            "properties": {
+                "nombre": "Local Social de Can Gordei",
+                "direccion": "Avda. Can Gordei, 25",
+                "poblacion": "Bisbal del Penedès, la",
+                "telefono": null,
+                "codigopostal": "43717"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.492181,
+                    41.264473
+                ]
+            },
+            "properties": {
+                "nombre": "Local Social de la Miralba",
+                "direccion": "Carrer Gladiol, 6",
+                "poblacion": "Bisbal del Penedès, la",
+                "telefono": null,
+                "codigopostal": "43717"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.461426,
+                    41.261825
+                ]
+            },
+            "properties": {
+                "nombre": "Local Social de l'Esplai",
+                "direccion": "Avda de l'Esplai, 50-55",
+                "poblacion": "Bisbal del Penedès, la",
+                "telefono": "691548855",
+                "codigopostal": "43717"
+            }
         }
     ]
 }
