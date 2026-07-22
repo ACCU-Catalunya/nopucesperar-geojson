@@ -76857,6 +76857,23 @@
                 "telefono": "691548855",
                 "codigopostal": "43717"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.27869,
+                    41.61351
+                ]
+            },
+            "properties": {
+                "nombre": "Bodega Les Tines",
+                "direccion": "Carrer Antoni Gaudí, 79",
+                "poblacion": "Granollers",
+                "telefono": "938491708",
+                "codigopostal": "08403"
+            }
         }
     ]
 }
