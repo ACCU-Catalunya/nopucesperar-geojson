@@ -76874,6 +76874,40 @@
                 "telefono": "938491708",
                 "codigopostal": "08403"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.362895,
+                    41.630837
+                ]
+            },
+            "properties": {
+                "nombre": "Espai Dekimasu",
+                "direccion": "Carrer Mestre Falla, 17",
+                "poblacion": "Cardedeu",
+                "telefono": "611839378",
+                "codigopostal": "08440"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.163253,
+                    41.633214
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Ateneu Democràtic i Progressista",
+                "direccion": "Carrer dels Corredossos de Baix, 9-11",
+                "poblacion": "Caldes de Montbui",
+                "telefono": "647804952",
+                "codigopostal": "08140"
+            }
         }
     ]
 }
