@@ -16326,15 +16326,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.14486,
-                    41.11093
+                    1.14487,
+                    41.110906
                 ]
             },
             "properties": {
                 "nombre": "Ajuntament de Vila-seca",
                 "direccion": "Plaça de l'Església, 26",
                 "poblacion": "Vila-seca",
-                "telefono": "",
+                "telefono": "977 30 93 00",
                 "codigopostal": "43480"
             }
         },
@@ -53624,23 +53624,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.145054,
-                    41.111421
-                ]
-            },
-            "properties": {
-                "nombre": "Ajuntament de Vila-seca",
-                "direccion": "Pl. de l'Església, 26",
-                "poblacion": "Vila-seca",
-                "telefono": "",
-                "codigopostal": "43480"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     1.149984,
                     41.111642
                 ]
@@ -53986,7 +53969,7 @@
                 ]
             },
             "properties": {
-                "nombre": "Serv. Inm. Sant Just",
+                "nombre": "ServIcios Inmobiliarios Sant Just",
                 "direccion": "Pau Casals, 113 - La Pineda",
                 "poblacion": "Vila-seca",
                 "telefono": "977371151",
@@ -76907,6 +76890,57 @@
                 "poblacion": "Caldes de Montbui",
                 "telefono": "647804952",
                 "codigopostal": "08140"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.197734,
+                    41.396687
+                ]
+            },
+            "properties": {
+                "nombre": "Edifici Llacuna",
+                "direccion": "Carrer Badajoz 49-51",
+                "poblacion": "Barcelona",
+                "telefono": "678 467 484",
+                "codigopostal": "08005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.128423,
+                    41.129602
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Cívic i Cultural de la Plana",
+                "direccion": "Carrer d'Almeria, 29",
+                "poblacion": "Vila-seca",
+                "telefono": null,
+                "codigopostal": "43206"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.143571,
+                    41.110865
+                ]
+            },
+            "properties": {
+                "nombre": "Centre Cívic la Formiga",
+                "direccion": "Carrer de la Riera, 57",
+                "poblacion": "Vila-seca",
+                "telefono": "977 39 25 34",
+                "codigopostal": "43840"
             }
         }
     ]
