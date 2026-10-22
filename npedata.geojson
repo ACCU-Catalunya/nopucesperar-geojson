@@ -76942,6 +76942,23 @@
                 "telefono": "977 39 25 34",
                 "codigopostal": "43840"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.011206,
+                    41.438187
+                ]
+            },
+            "properties": {
+                "nombre": "Ajuntament del Papiol",
+                "direccion": "Av. de la Generalitat de Catalunya, 7-9",
+                "poblacion": "Papiol, el",
+                "telefono": "936730220",
+                "codigopostal": "08754"
+            }
         }
     ]
 }
