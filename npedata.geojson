@@ -76959,6 +76959,142 @@
                 "telefono": "936730220",
                 "codigopostal": "08754"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.014996,
+                    41.436861
+                ]
+            },
+            "properties": {
+                "nombre": "Complex Esportiu Municipal CEM El Papiol",
+                "direccion": "Carrer Pau Casals s/n",
+                "poblacion": "Papiol, el",
+                "telefono": "936 73 27 54",
+                "codigopostal": "08754"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.014996,
+                    41.436861
+                ]
+            },
+            "properties": {
+                "nombre": "Pavelló Municipal Poliesportiu del Papiol",
+                "direccion": "Carrer Pau Casals s/n",
+                "poblacion": "Papiol, el",
+                "telefono": "936 73 03 77",
+                "codigopostal": "08754"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.01487,
+                    41.43792
+                ]
+            },
+            "properties": {
+                "nombre": "Camp de Futbol del Papiol",
+                "direccion": "Carrer de Joaquim Blume, 5-12",
+                "poblacion": "Papiol, el",
+                "telefono": "936 732 754",
+                "codigopostal": "08754"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.012628,
+                    41.438722
+                ]
+            },
+            "properties": {
+                "nombre": "Bar Públic by Mars&Soul",
+                "direccion": "Carrer de Pau Casals s/n",
+                "poblacion": "Papiol, el",
+                "telefono": "936 73 11 20 / 639827711",
+                "codigopostal": "08754"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.012475,
+                    41.440435
+                ]
+            },
+            "properties": {
+                "nombre": "Biblioteca Pública Valentí Almirall",
+                "direccion": "Passatge Parellada, 1",
+                "poblacion": "Papiol, el",
+                "telefono": "936 73 22 46",
+                "codigopostal": "08754"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.012628,
+                    41.438722
+                ]
+            },
+            "properties": {
+                "nombre": "Escola Pau Vila",
+                "direccion": "Plaça Dr. J Barberà, 1",
+                "poblacion": "Papiol, el",
+                "telefono": "936730022",
+                "codigopostal": "08754"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.008008,
+                    41.436821
+                ]
+            },
+            "properties": {
+                "nombre": "Llars d'infants el Cucut",
+                "direccion": "Avda. de la Generalitat, 76",
+                "poblacion": "Papiol, el",
+                "telefono": "936 73 12 79",
+                "codigopostal": "08754"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.161053,
+                    41.399468
+                ]
+            },
+            "properties": {
+                "nombre": "Casal de la Dona del Papiol",
+                "direccion": "Carrer de la Llibertat, 10-12",
+                "poblacion": "Papiol, el",
+                "telefono": "93 673 11 95",
+                "codigopostal": "08754"
+            }
         }
     ]
 }
