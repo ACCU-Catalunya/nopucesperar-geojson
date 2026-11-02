@@ -77095,6 +77095,125 @@
                 "telefono": "93 673 11 95",
                 "codigopostal": "08754"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.006682,
+                    41.435761
+                ]
+            },
+            "properties": {
+                "nombre": "Casal de la Gent Gran Alexandre Figueras",
+                "direccion": "Carrer d'Àngel Guimerà, 1",
+                "poblacion": "Papiol, el",
+                "telefono": "936 731 653",
+                "codigopostal": "08754"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.007277,
+                    41.436288
+                ]
+            },
+            "properties": {
+                "nombre": "Museu del Papiol",
+                "direccion": "Carrer del Doctor Trueta, s/n",
+                "poblacion": "Papiol, el",
+                "telefono": "93 673 02 20",
+                "codigopostal": "08754"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.007258,
+                    41.435989
+                ]
+            },
+            "properties": {
+                "nombre": "Esplai Pa amb Tomàquet",
+                "direccion": "Carrer Doctor Trueta, 5",
+                "poblacion": "Papiol, el",
+                "telefono": "695 86 88 53",
+                "codigopostal": "08754"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.007277,
+                    41.436288
+                ]
+            },
+            "properties": {
+                "nombre": "Centre de dia Josep Tarradellas",
+                "direccion": "Carrer del Doctor Trueta, s/n",
+                "poblacion": "Papiol, el",
+                "telefono": "936 730 190",
+                "codigopostal": "08754"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.009943,
+                    41.437101
+                ]
+            },
+            "properties": {
+                "nombre": "Escola de mùsica i dansa Miquel Pongiluppi",
+                "direccion": "Carrer Jaume el Conqueridor, 5",
+                "poblacion": "Papiol, el",
+                "telefono": null,
+                "codigopostal": "08754"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.015749,
+                    41.414759
+                ]
+            },
+            "properties": {
+                "nombre": "Departament de Serveis Socials",
+                "direccion": "Carrer d'Anselm Clavé, 5",
+                "poblacion": "Papiol, el",
+                "telefono": "93 884 59 69",
+                "codigopostal": "08754"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.007258,
+                    41.435989
+                ]
+            },
+            "properties": {
+                "nombre": "Ambulatori Local (CAP) del Papiol",
+                "direccion": "Carrer del Doctor Trueta, 5",
+                "poblacion": "Papiol, el",
+                "telefono": "93 673 15 35",
+                "codigopostal": "08754"
+            }
         }
     ]
 }
