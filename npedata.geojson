@@ -5089,23 +5089,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.01044,
-                    41.561678
-                ]
-            },
-            "properties": {
-                "nombre": "TOCATS PER LA TRAMUNTANA",
-                "direccion": "PASSATGE BASTARD",
-                "poblacion": "Terrassa",
-                "telefono": "",
-                "codigopostal": "08221"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2.011539,
                     41.563277
                 ]
