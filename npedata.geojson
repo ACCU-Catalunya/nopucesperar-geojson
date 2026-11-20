@@ -77214,6 +77214,40 @@
                 "telefono": "659455144",
                 "codigopostal": "43002"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.146176,
+                    41.388589
+                ]
+            },
+            "properties": {
+                "nombre": "Ortopedi Gironell S.L.",
+                "direccion": "C/ París, 81",
+                "poblacion": "Barcelona",
+                "telefono": "934398578",
+                "codigopostal": "08029"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.174729,
+                    41.416265
+                ]
+            },
+            "properties": {
+                "nombre": "Ortopedia Gironell S.L.",
+                "direccion": "Sant Quintí, 132",
+                "poblacion": "Barcelona",
+                "telefono": "933472020",
+                "codigopostal": "08041"
+            }
         }
     ]
 }
